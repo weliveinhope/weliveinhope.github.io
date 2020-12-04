@@ -3,14 +3,32 @@
   <link rel="stylesheet" href="/static/css/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="/static/js/bootstrap.bundle.min.js"></script>
-  
+
     <script type="text/javascript">
       $(function() {
           $('#navbar').load('/navbar.html');
+
+          // Lists
+          $('#london').load('/lists/phantom-of-the-opera/audio-london.txt');
+          $('#bway').load('/lists/phantom-of-the-opera/audio-broadway.txt');
+          $('#tours').load('/lists/phantom-of-the-opera/audio-tours.txt');
       });
     </script>  
   </head>
 
 <body>
     <div id=navbar></div>
+    <div class="container">
+      <p class="h3">Phantom of the Opera</p>
+      
+      <p class="h4">West End</p>
+      <div id=london></div>
+
+      <p class="h4">Broadway</p>
+      <div id=bway></div>
+
+      <p class="h4">Tours</p>
+      <div id=tours></div>
+
+    </div>
 </body>
