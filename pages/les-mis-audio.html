@@ -3,10 +3,18 @@
   <link rel="stylesheet" href="/static/css/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="/static/js/bootstrap.bundle.min.js"></script>
-  
+
     <script type="text/javascript">
       $(function() {
           $('#navbar').load('/navbar.html');
+
+          // Lists
+          $('#london').load('/lists/les-miserables/audio-london.txt');
+          $('#staged-concert').load('/lists/les-miserables/audio-staged-concert.txt');
+          $('#london-new').load('/lists/les-miserables/audio-london-revival.txt');
+          $('#bway').load('/lists/les-miserables/audio-broadway.txt');
+          $('#tours').load('/lists/les-miserables/audio-tours.txt');
+          $('#world').load('/lists/les-miserables/audio-world.txt');
       });
     </script>  
   </head>
@@ -14,5 +22,22 @@
 <body>
     <div id=navbar></div>
     <div class="container">
+      <p class="h3">Les Miserables</p>
+      
+      <p class="h4">Original London Production</p>
+      <div id=london></div>
+
+      <p class="h4">Staged Concert</p>
+      <div id=staged-concert></div>
+
+      <p class="h4">New London Production</p>
+      <div id=london-new></div>
+
+      <p class="h4">Tours</p>
+      <div id=tours></div>
+
+      <p class="h4">World</p>
+      <div id=world></div>
+
     </div>
 </body>
