@@ -25,9 +25,9 @@
       });
 
       function toggleAccordion() {
-        $('#accordion .collapse').collapse('show');
         if ($(this).data("lastState") === null || $(this).data("lastState") === 0) {
               $('#accordion .collapse').collapse('hide');
+              $(this).data("lastState", 1);
               $('#toggle-btn').text("Open All");
           }
           else {

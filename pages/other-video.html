@@ -16,7 +16,7 @@
           $('#batb').load('/lists/beauty-and-the-beast-video.txt');
           $('#cmiyc').load('/lists/catch-me-if-you-can-video.txt');
           $('#cfa').load('/lists/come-from-away.txt');
-          $('#hadestown').load('/lists/hadestown-video.txt')
+          $('#hadestown').load('/lists/hadestown/video.txt')
           $('#hond').load('/lists/hunchback-of-notre-dame.txt');
           $('#itw').load('/lists/into-the-woods.txt');
           $('#poe').load('/lists/prince-of-egypt-video.txt');
@@ -26,9 +26,9 @@
       });
 
       function toggleAccordion() {
-        $('#accordion .collapse').collapse('show');
         if ($(this).data("lastState") === null || $(this).data("lastState") === 0) {
               $('#accordion .collapse').collapse('hide');
+              $(this).data("lastState", 1);
               $('#toggle-btn').text("Open All");
           }
           else {

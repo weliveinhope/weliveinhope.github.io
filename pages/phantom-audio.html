@@ -15,22 +15,76 @@
           $('#bway').load('/lists/phantom-of-the-opera/audio-broadway.txt');
           $('#tours').load('/lists/phantom-of-the-opera/audio-tours.txt');
       });
+
+      function toggleAccordion() {
+        if ($(this).data("lastState") === null || $(this).data("lastState") === 0) {
+              $('#accordion .collapse').collapse('hide');
+              $(this).data("lastState", 1);
+              $('#toggle-btn').text("Open All");
+          }
+          else {
+              $('#accordion .collapse').collapse('show');
+              $(this).data("lastState", 0);
+              $('#toggle-btn').text("Close All");
+          }
+      }
     </script>  
   </head>
 
 <body>
     <div id=navbar></div>
     <div class="container">
-      <p class="h3">Phantom of the Opera</p>
-      
-      <p class="h4">West End</p>
-      <div id=london></div>
+      <div style="text-align:center;">
+        <p class="h3">Phantom of the Opera - Audio</p>
+        <p><i>Items on this page sorted by production, then performance date.</i></p>
+  
+        <!-- Toggle All -->
+        <button id="toggle-btn" class="btn btn-outline-primary" onclick="toggleAccordion()" >Open All</button>
+      </div>
+  
+      <div class="accordion" id="accordion">
+        <div class="card">
+          <div class="card-header" id="london-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#london-body" 
+                      aria-expanded="false" aria-controls="london-body">
+                West End (26)
+              </button>
+            </h2>
+          </div>
+          <div id="london-body" class="collapse" aria-labelledby="london-header">
+            <div id="london" class="card-body"></div>
+          </div>
+        </div>
+  
+        <div class="card">
+          <div class="card-header" id="bway-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#bway-body" 
+                      aria-expanded="false" aria-controls="bway-body">
+                Broadway (7)
+              </button>
+            </h2>
+          </div>
+          <div id="bway-body" class="collapse" aria-labelledby="bway-header">
+            <div id="bway" class="card-body"></div>
+          </div>
+        </div>
+  
+        <div class="card">
+          <div class="card-header" id="tours-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#tours-body" 
+                      aria-expanded="false" aria-controls="tours-body">
+                Tours (10)
+              </button>
+            </h2>
+          </div>
+          <div id="tours-body" class="collapse" aria-labelledby="tours-header">
+            <div id="tours" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h4">Broadway</p>
-      <div id=bway></div>
-
-      <p class="h4">Tours</p>
-      <div id=tours></div>
-
+      </div> <!-- /accordian -->
     </div>
 </body>

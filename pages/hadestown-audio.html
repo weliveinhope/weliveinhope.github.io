@@ -10,8 +10,25 @@
     $(function() {
         $('#navbar').load('/navbar.html');
 
-        $('#hadestown').load('/lists/hadestown-audio.txt');
+        // Lists
+        $('#nytw').load('/lists/hadestown/audio-nytw.txt');
+        $('#edmonton').load('/lists/hadestown/audio-edmonton.txt');
+        $('#london').load('/lists/hadestown/audio-london.txt');
+        $('#bway').load('/lists/hadestown/audio-broadway.txt');
     });
+
+    function toggleAccordion() {
+        if ($(this).data("lastState") === null || $(this).data("lastState") === 0) {
+              $('#accordion .collapse').collapse('hide');
+              $(this).data("lastState", 1);
+              $('#toggle-btn').text("Open All");
+          }
+          else {
+              $('#accordion .collapse').collapse('show');
+              $(this).data("lastState", 0);
+              $('#toggle-btn').text("Close All");
+          }
+      }
   </script>  
 </head>
 
@@ -19,7 +36,70 @@
   <div id=navbar></div>
 
   <div class="container">
-    <p class="h3">Hadestown</p>
-    <div id=hadestown></div>
-  </div>
+    <div style="text-align:center;">
+      <p class="h3">Hadestown - Audio</p>
+      <p><i>Items on this page sorted by performance date.</i></p>
+
+      <!-- Toggle All -->
+      <button id="toggle-btn" class="btn btn-outline-primary" onclick="toggleAccordion()" >Open All</button>
+    </div>
+
+    <div class="accordion" id="accordion">
+      <div class="card">
+        <div class="card-header" id="nytw-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#nytw-body" 
+                    aria-expanded="false" aria-controls="nytw-body">
+              New York Theatre Workshop (3)
+            </button>
+          </h2>
+        </div>
+        <div id="nytw-body" class="collapse" aria-labelledby="nytw-header">
+          <div id="nytw" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="edmonton-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#edmonton-body" 
+                    aria-expanded="false" aria-controls="edmonton-body">
+              Edmonton (3)
+            </button>
+          </h2>
+        </div>
+        <div id="edmonton-body" class="collapse" aria-labelledby="edmonton-header">
+          <div id="edmonton" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="london-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#london-body" 
+                    aria-expanded="false" aria-controls="london-body">
+              London Previews (6)
+            </button>
+          </h2>
+        </div>
+        <div id="london-body" class="collapse" aria-labelledby="london-header">
+          <div id="london" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="bway-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#bway-body" 
+                    aria-expanded="false" aria-controls="bway-body">
+              Broadway (20)
+            </button>
+          </h2>
+        </div>
+        <div id="bway-body" class="collapse" aria-labelledby="bway-header">
+          <div id="bway" class="card-body"></div>
+        </div>
+      </div>
+    </div> <!-- /accordian -->
+  </div> <!-- /container -->
 </body>
