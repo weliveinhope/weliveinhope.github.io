@@ -21,6 +21,19 @@
           $('#tiger-bay').load('/lists/tiger-bay.txt');
           $('#wild-party').load('/lists/wild-party-lachiusa.txt');
       });
+
+      function toggleAccordion() {
+        $('#accordion .collapse').collapse('show');
+        if ($(this).data("lastState") === null || $(this).data("lastState") === 0) {
+              $('#accordion .collapse').collapse('hide');
+              $('#toggle-btn').text("Open All");
+          }
+          else {
+              $('#accordion .collapse').collapse('show');
+              $(this).data("lastState", 0);
+              $('#toggle-btn').text("Close All");
+          }
+      }
     </script>  
   </head>
 
@@ -28,37 +41,168 @@
     <div id=navbar></div>
 
     <div class=container>
-      <p class="h3">Beauty and the Beast</p>
-      <div id=batb></div>
+      <div style="text-align:center;">
+        <p class="h3">Audios - Other</p>
+        <p><i>Items on this page sorted by performance date.</i></p>
 
-      <p class="h3">Catch Me If You Can</p>
-      <div id=cmiyc></div>
+        <!-- Toggle All -->
+        <button id="toggle-btn" class="btn btn-outline-primary" onclick="toggleAccordion()" >Open All</button>
+      </div>
 
-      <p class="h3">Carousel</p>
-      <div id=carousel></div>
+      <div class="accordion" id="accordion">
+        <div class="card">
+          <div class="card-header" id="batb-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#batb-body" 
+                      aria-expanded="false" aria-controls="batb-body">
+                Beauty and the Beast (2)
+              </button>
+            </h2>
+          </div>
+          <div id="batb-body" class="collapse" aria-labelledby="batb-header">
+            <div id="batb" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Jekyll and Hyde</p>
-      <div id=jekyll></div>
+        <div class="card">
+          <div class="card-header" id="cmiyc-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#cmiyc-body" 
+                      aria-expanded="false" aria-controls="cmiyc-body">
+                Catch Me If You Can (1)
+              </button>
+            </h2>
+          </div>
+          <div id="cmiyc-body" class="collapse" aria-labelledby="cmiyc-header">
+            <div id="cmiyc" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Light Princess</p>
-      <div id=light-princess></div>
+        <div class="card">
+          <div class="card-header" id="carousel-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#carousel-body" 
+                      aria-expanded="false" aria-controls="carousel-body">
+                Carousel (1)
+              </button>
+            </h2>
+          </div>
+          <div id="carousel-body" class="collapse" aria-labelledby="carousel-header">
+            <div id="carousel" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Lion King</p>
-      <div id=lion-king></div>
+        <div class="card">
+          <div class="card-header" id="jah-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#jah-body" 
+                      aria-expanded="false" aria-controls="jah-body">
+                Jekyll and Hyde (1)
+              </button>
+            </h2>
+          </div>
+          <div id="jah-body" class="collapse" aria-labelledby="jah-header">
+            <div id="jekyll" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">A Little Night Music</p>
-      <div id=lnm></div>
+        <div class="card">
+          <div class="card-header" id="lp-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#lp-body" 
+                      aria-expanded="false" aria-controls="lp-body">
+                Light Princess (1)
+              </button>
+            </h2>
+          </div>
+          <div id="lp-body" class="collapse" aria-labelledby="lp-header">
+            <div id="light-princess" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Prince of Egypt</p>
-      <div id=poe></div>
+        <div class="card">
+          <div class="card-header" id="lk-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#lk-body" 
+                      aria-expanded="false" aria-controls="lk-body">
+                Lion King (1)
+              </button>
+            </h2>
+          </div>
+          <div id="lk-body" class="collapse" aria-labelledby="lk-header">
+            <div id="lion-king" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Sweeney Todd</p>
-      <div id=sweeney></div>
+        <div class="card">
+          <div class="card-header" id="lnm-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#lnm-body" 
+                      aria-expanded="false" aria-controls="lnm-body">
+                A Little Night Music (1)
+              </button>
+            </h2>
+          </div>
+          <div id="lnm-body" class="collapse" aria-labelledby="lnm-header">
+            <div id="lnm" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Tiger Bay</p>
-      <div id=tiger-bay></div>
+        <div class="card">
+          <div class="card-header" id="poe-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#poe-body" 
+                      aria-expanded="false" aria-controls="poe-body">
+                Prince of Egypt (4)
+              </button>
+            </h2>
+          </div>
+          <div id="poe-body" class="collapse" aria-labelledby="poe-header">
+            <div id="poe" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Wild Party (LaChiusa)</p>
-      <div id=wild-party></div>
+        <div class="card">
+          <div class="card-header" id="sweeney-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#sweeney-body" 
+                      aria-expanded="false" aria-controls="sweeney-body">
+                Sweeney Todd (9)
+              </button>
+            </h2>
+          </div>
+          <div id="sweeney-body" class="collapse" aria-labelledby="sweeney-header">
+            <div id="sweeney" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="tb-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#tb-body" 
+                      aria-expanded="false" aria-controls="tb-body">
+                Tiger Bay (1)
+              </button>
+            </h2>
+          </div>
+          <div id="tb-body" class="collapse" aria-labelledby="tb-header">
+            <div id="tiger-bay" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="wp-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#wp-body" 
+                      aria-expanded="false" aria-controls="wp-body">
+                Wild Party (LaChiusa) (1)
+              </button>
+            </h2>
+          </div>
+          <div id="wp-body" class="collapse" aria-labelledby="wp-header">
+            <div id="wild-party" class="card-body"></div>
+          </div>
+        </div>
+      </div>
     </div>
 </body>

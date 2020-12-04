@@ -14,6 +14,7 @@
           $('#batb').load('/lists/beauty-and-the-beast-video.txt');
           $('#cmiyc').load('/lists/catch-me-if-you-can-video.txt');
           $('#cfa').load('/lists/come-from-away.txt');
+          $('#hadestown').load('/lists/hadestown-video.txt')
           $('#hond').load('/lists/hunchback-of-notre-dame.txt');
           $('#itw').load('/lists/into-the-woods.txt');
           $('#poe').load('/lists/prince-of-egypt-video.txt');
@@ -21,6 +22,19 @@
           $('#sweeney').load('/lists/sweeney-todd-video.txt');
           $('#wicked').load('/lists/wicked.txt');
       });
+
+      function toggleAccordion() {
+        $('#accordion .collapse').collapse('show');
+        if ($(this).data("lastState") === null || $(this).data("lastState") === 0) {
+              $('#accordion .collapse').collapse('hide');
+              $('#toggle-btn').text("Open All");
+          }
+          else {
+              $('#accordion .collapse').collapse('show');
+              $(this).data("lastState", 0);
+              $('#toggle-btn').text("Close All");
+          }
+      }
     </script>
   </head>
 
@@ -28,37 +42,182 @@
     <div id=navbar></div>
 
     <div class="container">
-      <p class="h3">Aladdin</p>
-      <div id=aladdin></div>
+      <div style="text-align:center;">
+        <p class="h3">Videos - Other</p>
+        <p><i>Items on this page sorted by performance date.</i></p>
 
-      <p class="h3">Anastasia</p>
-      <div id=anastasia></div>
+        <!-- Toggle All -->
+        <button id="toggle-btn" class="btn btn-outline-primary" onclick="toggleAccordion()" >Open All</button>
+      </div>
 
-      <p class="h3">Beauty and the Beast</p>
-      <div id=batb></div>
+      <div class="accordion" id="accordion">
+        <div class="card">
+          <div class="card-header" id="aladdin-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#aladdin-body" 
+                      aria-expanded="false" aria-controls="aladdin-body">
+                Aladdin (2)
+              </button>
+            </h2>
+          </div>
+          <div id="aladdin-body" class="collapse" aria-labelledby="aladdin-header">
+            <div id="aladdin" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Catch Me If You Can</p>
-      <div id=cmiyc></div>
+        <div class="card">
+          <div class="card-header" id="anastasia-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#anastasia-body" 
+                      aria-expanded="false" aria-controls="anastasia-body">
+                Anastasia (1)
+              </button>
+            </h2>
+          </div>
+          <div id="anastasia-body" class="collapse" aria-labelledby="anastasia-header">
+            <div id="anastasia" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Come From Away</p>
-      <div id=cfa></div>
+        <div class="card">
+          <div class="card-header" id="batb-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#batb-body" 
+                      aria-expanded="false" aria-controls="batb-body">
+                Beauty and the Beast (3)
+              </button>
+            </h2>
+          </div>
+          <div id="batb-body" class="collapse" aria-labelledby="batb-header">
+            <div id="batb" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Hunchback of Notre Dame</p>
-      <div id=hond></div>
+        <div class="card">
+          <div class="card-header" id="cmiyc-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#cmiyc-body" 
+                      aria-expanded="false" aria-controls="cmiyc-body">
+                Catch Me If You Can (1)
+              </button>
+            </h2>
+          </div>
+          <div id="cmiyc-body" class="collapse" aria-labelledby="cmiyc-header">
+            <div id="cmiyc" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Into the Woods</p>
-      <div id=itw></div>
+        <div class="card">
+          <div class="card-header" id="cfa-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#cfa-body" 
+                      aria-expanded="false" aria-controls="cfa-body">
+                Come From Away (1)
+              </button>
+            </h2>
+          </div>
+          <div id="cfa-body" class="collapse" aria-labelledby="cfa-header">
+            <div id="cfa" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Prince of Egypt</p>
-      <div id=poe></div>
+        <div class="card">
+          <div class="card-header" id="ht-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#ht-body" 
+                      aria-expanded="false" aria-controls="ht-body">
+                Hadestown (9)
+              </button>
+            </h2>
+          </div>
+          <div id="ht-body" class="collapse" aria-labelledby="ht-header">
+            <div id="hadestown" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Secret Garden</p>
-      <div id=secret-garden></div>
+        <div class="card">
+          <div class="card-header" id="hond-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#hond-body" 
+                      aria-expanded="false" aria-controls="lnm-body">
+                Hunchback of Notre Dame (4)
+              </button>
+            </h2>
+          </div>
+          <div id="hond-body" class="collapse" aria-labelledby="hond-header">
+            <div id="hond" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Sweeney Todd</p>
-      <div id=sweeney></div>
+        <div class="card">
+          <div class="card-header" id="itw-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#itw-body" 
+                      aria-expanded="false" aria-controls="itw-body">
+                Into the Woods (1)
+              </button>
+            </h2>
+          </div>
+          <div id="itw-body" class="collapse" aria-labelledby="itw-header">
+            <div id="itw" class="card-body"></div>
+          </div>
+        </div>
 
-      <p class="h3">Wicked</p>
-      <div id=wicked></div>
+        <div class="card">
+          <div class="card-header" id="poe-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#poe-body" 
+                      aria-expanded="false" aria-controls="poe-body">
+                Prince of Egypt (2)
+              </button>
+            </h2>
+          </div>
+          <div id="poe-body" class="collapse" aria-labelledby="poe-header">
+            <div id="poe" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="sg-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#sg-body" 
+                      aria-expanded="false" aria-controls="sg-body">
+                Secret Garden (1)
+              </button>
+            </h2>
+          </div>
+          <div id="sg-body" class="collapse" aria-labelledby="sg-header">
+            <div id="secret-garden" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="sweeney-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#sweeney-body" 
+                      aria-expanded="false" aria-controls="sweeney-body">
+                Sweeney Todd (2)
+              </button>
+            </h2>
+          </div>
+          <div id="sweeney-body" class="collapse" aria-labelledby="sweeney-header">
+            <div id="sweeney" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="wicked-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#wicked-body" 
+                      aria-expanded="false" aria-controls="wicked-body">
+                Wicked (5)
+              </button>
+            </h2>
+          </div>
+          <div id="wicked-body" class="collapse" aria-labelledby="wicked-header">
+            <div id="wicked" class="card-body"></div>
+          </div>
+        </div>
+      </div>
     </div>
 </body>
