@@ -3,6 +3,10 @@ body {
   padding-bottom: 70px;
 }
 
+.accordion {
+  padding-top: 10px;
+}
+
 .h3, .h4 {
   padding-top: 10px;
   padding-bottom: 0;

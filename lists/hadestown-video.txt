@@ -1,4 +1,4 @@
-<p class="h4">Denver</p>
+<p class="h5" style="text-align:center;">Denver</p>
 Denver - October 15, 2011 (Highlights)<br>
 FORMAT:  MP4 (SD) |  TRADER'S NOTES: Gifted upon request.<br>
 CAST: Jefferson Hamer (Orpheus), Anaïs Mitchell (Eurydice), Reed Foehl (Hades), KC Groves (Persephone), 
@@ -7,7 +7,7 @@ NOTES: Video highlights of an informal concert of some of the early material of 
 highest quality possible, and I don't recommend it as trading material, but it's very interesting to watch! Also, I've 
 tried my best to fill out the cast but I have no idea who played Hermes in this concert.<br><br>
 
-<p class="h4">London Previews</p>
+<p class="h5" style="text-align:center;">London Previews</p>
 National Theatre, London - November, 2018 (Highlights) (hitmewithyourbethshot's master)<br>
 FORMAT:  Other video (see notes) |  TRADER'S NOTES: Act 1 (MP4 SD), Act 2 (MOV HD). 4.5 GB total.<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
@@ -36,7 +36,7 @@ C. Tons of blackout. What’s watchable is about the second half of AWTWB to “
 Shakiness, some washout, and heads (or maybe the master’s hand, not really sure), but good sound. Missing most of 
 WDH and the last bit of WWBTW.<br><br>
 
-<p class="h4">Broadway</p>
+<p class="h5" style="text-align:center;">Broadway</p>
 Broadway Previews - March, 2019 (StarCuffedJeans's master)<br>
 FORMAT:  MP4 (HD) |  TRADER'S NOTES: 9.8 GB<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
