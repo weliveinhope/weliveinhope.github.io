@@ -5,21 +5,101 @@
   <link rel="stylesheet" href="/static/css/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="/static/js/bootstrap.bundle.min.js"></script>
-  
+
   <script type="text/javascript">
     $(function() {
         $('#navbar').load('/navbar.html');
 
-        $('#les-mis').load('/lists/les-miserables/video.txt');
+        // Lists
+        $('#london').load('/lists/les-miserables/video-london.txt');
+        $('#bway').load('/lists/les-miserables/video-broadway.txt');
+        $('#tours').load('/lists/les-miserables/video-tours.txt');
+        $('#world').load('/lists/les-miserables/video-world.txt');
     });
+
+    function toggleAccordion() {
+      if ($(this).data("lastState") === null || $(this).data("lastState") === 0) {
+            $('#accordion .collapse').collapse('hide');
+            $(this).data("lastState", 1);
+            $('#toggle-btn').text("Open All");
+        }
+        else {
+            $('#accordion .collapse').collapse('show');
+            $(this).data("lastState", 0);
+            $('#toggle-btn').text("Close All");
+        }
+    }
   </script>  
-</head>
+  </head>
 
 <body>
   <div id=navbar></div>
-
   <div class="container">
-    <p class="h3">Les Miserables</p>
-    <div id=les-mis></div>
+    <div style="text-align:center;">
+      <p class="h3">Les Miserables - Video</p>
+      <p><i>Items on this page sorted by production, then performance date.</i></p>
+
+      <!-- Toggle All -->
+      <button id="toggle-btn" class="btn btn-outline-primary" onclick="toggleAccordion()" >Open All</button>
+    </div>
+
+    <div class="accordion" id="accordion">
+      <div class="card">
+        <div class="card-header" id="london-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#london-body" 
+                    aria-expanded="false" aria-controls="london-body">
+              Original London Production (10)
+            </button>
+          </h2>
+        </div>
+        <div id="london-body" class="collapse" aria-labelledby="london-header">
+          <div id="london" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="bway-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#bway-body" 
+                    aria-expanded="false" aria-controls="bway-body">
+              Broadway (18)
+            </button>
+          </h2>
+        </div>
+        <div id="bway-body" class="collapse" aria-labelledby="bway-header">
+          <div id="bway" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="tours-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#tours-body" 
+                    aria-expanded="false" aria-controls="tours-body">
+              Tours (14)
+            </button>
+          </h2>
+        </div>
+        <div id="tours-body" class="collapse" aria-labelledby="tours-header">
+          <div id="tours" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="world-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#world-body" 
+                    aria-expanded="false" aria-controls="world-body">
+              World (7)
+            </button>
+          </h2>
+        </div>
+        <div id="world-body" class="collapse" aria-labelledby="world-header">
+          <div id="world" class="card-body"></div>
+        </div>
+      </div>
+
+    </div> <!-- /accordian -->
   </div>
 </body>
