@@ -1,8 +1,9 @@
 Second UK Tour (Bradford) - July 17, 2000<br>
 FORMAT: MP3 (tracked)<br>
-CAST: Peter Karrie (The Phantom of the Opera), Amy Nuttall (u/s Christine Daaé), Robert Finlayson (Raoul), 
-Gabriella Santinelli (Carlotta Giudicelli), Michael Bauer (Monsieur Firmin), Alan Vicary (Monsieur André), 
-Heather Craig (Madame Giry), Jeremy Secomb (Ubaldo Piangi), Hayley Driscoll (Meg Giry)<br><br>
+CAST: Peter Karrie (The Phantom of the Opera), <span class="nonp">Amy Nuttall (u/s Christine Daaé)</span>, 
+Robert Finlayson (Raoul), Gabriella Santinelli (Carlotta Giudicelli), Michael Bauer (Monsieur Firmin), 
+Alan Vicary (Monsieur André), Heather Craig (Madame Giry), Jeremy Secomb (Ubaldo Piangi), 
+Hayley Driscoll (Meg Giry)<br><br>
 
 Australian Tour - July 28, 2007 (Soundboard's master)<br>
 FORMAT:  WMA (untracked)<br>
@@ -12,7 +13,8 @@ Jackie Rees (Madame Giry), David Rogers (Ubaldo Piangi), Nadia Komazec (Meg Giry
 
 Australian Tour (Perth) - March 29, 2009 (Closing Night)<br>
 FORMAT:  MP3 (tracked)<br>
-CAST: Alexander Lewis (u/s The Phantom of the Opera), Ana Marina (Christine Daaé), Robert Bertram (u/s Raoul)<br><br>
+CAST: <span class="nonp">Alexander Lewis (u/s The Phantom of the Opera)</span>, Ana Marina (Christine Daaé), 
+<span class="nonp">Robert Bertram (u/s Raoul)</span><br><br>
 
 Third US Tour - April 26, 2009<br>
 FORMAT:  WAV (untracked)<br>
@@ -42,15 +44,16 @@ NOTES: Starts at “Think of Me”.<br><br>
 
 Fourth US Tour (Los Angeles, CA) - June 24, 2015 (where is your red schaaaf's master)<br>
 FORMAT:  MP3 (tracked)<br>
-CAST: Chris Mann (The Phantom of the Opera), Celia Hottenstein (alt Christine Daaé), Nick Cartell (u/s Raoul), 
-Jacquelynne Fontaine (Carlotta Giudicelli), David Benoit (Monsieur Firmin), Edward Staudenmayer (Monsieur André), 
+CAST: Chris Mann (The Phantom of the Opera), <span class="nonp">Celia Hottenstein (alt Christine Daaé)</span>, 
+<span class="nonp">Nick Cartell (u/s Raoul)</span>, Jacquelynne Fontaine (Carlotta Giudicelli), 
+David Benoit (Monsieur Firmin), Edward Staudenmayer (Monsieur André), 
 Anne Kanengeiser (Madame Giry), Frank Viveros (Ubaldo Piangi), Morgan Cowling (Meg Giry)<br><br>
 
 Third World Tour - September 5, 2019<br>
 FORMAT:  M4A (untracked)<br>
-CAST: Jonathan Roxmouth (The Phantom of the Opera), Meghan Picerno (Christine Daaé), Alexander Mendoza (u/s Raoul), 
-Beverley Chiat (Carlotta Giudicelli), James Borthwick (Monsieur Firmin), Melina Kalomas (Madame Giry), 
-Thabiso Masemene (Ubaldo Piangi)<br>
+CAST: Jonathan Roxmouth (The Phantom of the Opera), Meghan Picerno (Christine Daaé), 
+<span class="nonp">Alexander Mendoza (u/s Raoul)</span>, Beverley Chiat (Carlotta Giudicelli), 
+James Borthwick (Monsieur Firmin), Melina Kalomas (Madame Giry), Thabiso Masemene (Ubaldo Piangi)<br>
 NOTES: Recorded from a 2nd row center orchestra seat in stereo and includes the curtain call and exit music.
 Missing the first 5 seconds of the Entr'acte. One of Meghan's last shows on the World Tour before moving to Broadway.
 <br><br>

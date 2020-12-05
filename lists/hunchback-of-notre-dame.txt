@@ -25,6 +25,8 @@ Jeremy Stolle (Jehan Frollo)<br><br>
 German Revival Tour - 2017 (Rumpel's master)<br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: David Jakobs (Quasimodo), Sarah Bowden (Esmeralda), Felix Martin (Dom Claude Frollo), 
-Maximilian Mann (Captain Phoebus de Martin), Alexander Zamponi (alt Clopin Trouillefou), 
-Romeo Salazar (Saint Aphrodisius), Johannes Kiesler (s/w Jehan Frollo), Oliver Mülich (s/w Father Dupin), 
-Kristina Love (Florika), Kevin Köhler (s/w Lt. Frederic Charlus), Jonas Hein (s/w King Louis XI), Wiebke Wötzel (Madam)
+Maximilian Mann (Captain Phoebus de Martin), <span class="nonp">Alexander Zamponi (alt Clopin Trouillefou)</span>, 
+Romeo Salazar (Saint Aphrodisius), <span class="nonp">Johannes Kiesler (s/w Jehan Frollo)</span>, 
+<span class="nonp">Oliver Mülich (s/w Father Dupin)</span>, Kristina Love (Florika), 
+<span class="nonp">Kevin Köhler (s/w Lt. Frederic Charlus)</span>, 
+<span class="nonp">Jonas Hein (s/w King Louis XI)</span>, Wiebke Wötzel (Madam)

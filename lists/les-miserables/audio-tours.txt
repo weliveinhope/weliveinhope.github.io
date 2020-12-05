@@ -7,9 +7,10 @@ NOTES: Soundboard<br><br>
 
 Third US Tour (Washington, DC)  - January 5, 2006<br>
 FORMAT:  MP3 (tracked)<br>
-CAST: Randal Keith (Jean Valjean), Robert Hunt (Javert), Joan Almedilla (Fantine), Sierra Boggess (u/s Cosette), 
-Adam Jacobs (Marius), Melissa Lyons (Éponine), Victor Wallace (Enjolras), David McDonald (Thénardier), 
-Jennifer Butt (Madame Thénardier), Austyn Myers (Gavroche), Rachel Schier (Little Cosette)<br>
+CAST: Randal Keith (Jean Valjean), Robert Hunt (Javert), Joan Almedilla (Fantine), 
+<span class="nonp">Sierra Boggess (u/s Cosette)</span>, Adam Jacobs (Marius), Melissa Lyons (Éponine), 
+Victor Wallace (Enjolras), David McDonald (Thénardier), Jennifer Butt (Madame Thénardier), Austyn Myers (Gavroche), 
+Rachel Schier (Little Cosette)<br>
 NOTES: Only known audio of Sierra as Cosette. Also her first performance as Cosette.<br><br>
 
 Third UK / 25th Anniversary Tour (Cardiff) - December 12, 2009 (Opening Night)<br>
@@ -24,8 +25,10 @@ pretty clear audio.</span><br><br>
 Third UK / 25th Anniversary Tour (Edinburgh) - May 13, 2010<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), 
-Gareth Gates (Marius), Rosa O'Reilly (u/s Éponine), Christopher Jacobsen (u/s Enjolras), 
-Adam Linstead (u/s Thénardier), Lynne Wilmott (Madame Thénardier), Jamie Muscato (Jean Prouvaire)<br>
+Gareth Gates (Marius), <span class="nonp">Rosa O'Reilly (u/s Éponine)</span>, 
+<span class="nonp">Christopher Jacobsen (u/s Enjolras)</span>, 
+<span class="nonp">Adam Linstead (u/s Thénardier)</span>, Lynne Wilmott (Madame Thénardier), 
+Jamie Muscato (Jean Prouvaire)<br>
 <span class="reviews">A. Great quality audio though some lines are very quiet (mic issue?). A decent amount of 
 background noise. I’m loving Jacobsen’s Enjolras.</span><br><br>
 
@@ -40,7 +43,7 @@ London on the same day, followed by the 25th Anniversary performance at the O2 A
 
 International Tour (Dubai) - November 12, 2016<br>
 FORMAT:  MP3 (untracked)<br>
-CAST: John Owen-Jones (Jean Valjean), Tamlyn Henderson (u/s Javert), Patrice Tipoki (Fantine), 
+CAST: John Owen-Jones (Jean Valjean), <span class="nonp">Tamlyn Henderson (u/s Javert)</span>, Patrice Tipoki (Fantine), 
 Emily Langridge (Cosette), Paul Wilkins (Marius), Carrie Hope Fletcher (Éponine), Alistair Brammer (Enjolras), 
 Peter Polycarpou (Thénardier), Jodie Prenger (Madame Thénardier), Colby Mulgrew (Gavroche), 
 Ena Vlasaliu (Little Cosette), Angel Bishop-Simon (Young Éponine), Adam Linstead (The Bishop), 

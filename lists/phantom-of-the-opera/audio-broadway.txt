@@ -1,6 +1,7 @@
 Broadway - September 26, 1990 (Soundboard's master)<br>
 FORMAT:  WMA (tracked)<br>
-CAST: Steve Barton (The Phantom of the Opera), Rebecca Luker (Christine Daaé), Gary Lindemenn (u/s Raoul)<br>
+CAST: Steve Barton (The Phantom of the Opera), Rebecca Luker (Christine Daaé), 
+<span class="nonp">Gary Lindemenn (u/s Raoul)</span><br>
 NOTES: Semi-tracked (more by sections than songs).<br><br>
 
 Broadway - July 9, 2005<br>
@@ -12,9 +13,9 @@ NOTES: Julie’s last performance.<br><br>
 
 Broadway - January 26, 2013<br>
 FORMAT:  M4A (tracked)<br>
-CAST: Hugh Panaro (The Phantom of the Opera), Sierra Boggess (t/r Christine Daaé), Kyle Barisich (Raoul), 
-Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Jim Weitzer (Monsieur André), 
-Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)<br>
+CAST: Hugh Panaro (The Phantom of the Opera), <span class="nonp">Sierra Boggess (t/r Christine Daaé)</span>, 
+Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), 
+Jim Weitzer (Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)<br>
 NOTES: 25th Broadway anniversary.<br><br>
 
 Broadway - January 26, 2014<br>
@@ -26,8 +27,8 @@ NOTES: 26th anniversary.<br><br>
 
 Broadway - September 22, 2014<br>
 FORMAT:  MP3 (tracked)<br>
-CAST: Norm Lewis (The Phantom of the Opera), Kaley Ann Voorhees (alt Christine Daaé), Jeremy Hays (Raoul), 
-Kara Klein (Meg Giry)<br><br>
+CAST: Norm Lewis (The Phantom of the Opera), <span class="nonp">Kaley Ann Voorhees (alt Christine Daaé)</span>, 
+Jeremy Hays (Raoul), Kara Klein (Meg Giry)<br><br>
 
 Broadway - January 24, 2018<br>
 FORMAT:  MP3 (tracked) |  TRADER'S NOTES: Video is 189 MB MKV.<br>
@@ -36,7 +37,8 @@ NOTES: 30th Anniversary performance. Includes a video in MKV format of the final
 
 Broadway - May 25, 2019 (Matinee) (jennyfair's master)<br>
 FORMAT:  WAV (untracked) |  TRADER'S NOTES: Gifted upon request.<br>
-CAST: Ben Crawford (The Phantom of the Opera), Eryn Lecroy (alt Christine Daaé), Jay Armstrong Johnson (Raoul), 
-Raquel Suarez Groen (Carlotta Giudicelli), Scott Mikita (s/w Monsieur Firmin), Laird Mackintosh (Monsieur André), 
+CAST: Ben Crawford (The Phantom of the Opera), <span class="nonp">Eryn Lecroy (alt Christine Daaé)</span>, 
+Jay Armstrong Johnson (Raoul), Raquel Suarez Groen (Carlotta Giudicelli), 
+<span class="nonp">Scott Mikita (s/w Monsieur Firmin)</span>, Laird Mackintosh (Monsieur André), 
 Maree Johnson (Madame Giry), Carlton Moe (Ubaldo Piangi), Kelsey Connolly (Meg Giry)<br>
 NOTES: If you list this, please mark as a gift and regift upon request.

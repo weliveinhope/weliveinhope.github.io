@@ -30,34 +30,38 @@ version of the musical.<br><br>
 
 West End - March 15, 1997<br>
 FORMAT:  MP3 (tracked)<br>
-CAST: Jeff Leyton (Jean Valjean), Tim Morgan (u/s Javert), Grania Renihan (Fantine), Annalene Beechey (Cosette), 
-Martin Crewes (Marius), Gemma Wardle (Éponine), John Owen-Jones (u/s Enjolras), Chris Langham (Thénardier), 
-Felicity Goodson (u/s Madame Thénardier)<br>
+CAST: Jeff Leyton (Jean Valjean), <span class="nonp">Tim Morgan (u/s Javert)</span>, Grania Renihan (Fantine), 
+Annalene Beechey (Cosette), Martin Crewes (Marius), Gemma Wardle (Éponine), 
+<span class="nonp">John Owen-Jones (u/s Enjolras)</span>, Chris Langham (Thénardier), 
+<span class="nonp">Felicity Goodson (u/s Madame Thénardier)</span><br>
 NOTES: John Owen-Jones in a rare non-Valjean role. Audio is a bit distorted due to age.<br><br>
 
 West End - June 19, 1997<br>
 FORMAT:  MP3 (tracked)<br>
-CAST: John Owen-Jones (u/s Jean Valjean), Tim Morgan (u/s Javert), Grania Renihan (Fantine), 
-Annalene Beechey (Cosette), Martin Crews (Marius), Gemma Wardle (Éponine), Matthew Cammelle (Enjolras), 
-Peter Gerald (Thénardier), Mandy Holliday (Madame Thénardier), Stuart Clappard (u/s Grantaire)<br><br>
+CAST: <span class="nonp">John Owen-Jones (u/s Jean Valjean)</span>, 
+<span class="nonp">Tim Morgan (u/s Javert)</span>, Grania Renihan (Fantine), Annalene Beechey (Cosette), 
+Martin Crews (Marius), Gemma Wardle (Éponine), Matthew Cammelle (Enjolras), 
+Peter Gerald (Thénardier), Mandy Holliday (Madame Thénardier), 
+<span class="nonp">Stuart Clappard (u/s Grantaire)</span><br><br>
 
 West End - August 23, 1999<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: John Owen-Jones (Jean Valjean), Hal Fowler (Javert), Gunilla Backman (Fantine), Rebecca Vare (Cosette), 
-Tom Lucas (Marius), Amanda Salmon (Éponine), David Malek (Enjolras), Stephen Matthews (u/s Thénardier), 
-Joanna Mays (Madame Thénardier), James Buckley (Gavroche), Georgina Leonidas (Little Cosette)<br><br>
+Tom Lucas (Marius), Amanda Salmon (Éponine), David Malek (Enjolras), 
+<span class="nonp">Stephen Matthews (u/s Thénardier)</span>, Joanna Mays (Madame Thénardier), James Buckley (Gavroche), 
+Georgina Leonidas (Little Cosette)<br><br>
 
 West End - October 30, 1999<br>
 FORMAT:  MP3 (tracked) |  TRADER'S NOTES: Missing "Master of the House" and "Castle on a Cloud."<br>
-CAST: John Owen-Jones (Jean Valjean), Hal Fowler (Javert), Jody Butterworth (u/s Fantine), Rebecca Vere (Cosette), 
-Jason Nolan (u/s Marius), Amanda Salmon (Éponine), David Malek (Enjolras), Cameron Blakely (Thénardier), 
-Joanna Mays (Madame Thénardier)<br><br>
+CAST: John Owen-Jones (Jean Valjean), Hal Fowler (Javert), <span class="nonp">Jody Butterworth (u/s Fantine)</span>, 
+Rebecca Vere (Cosette), <span class="nonp">Jason Nolan (u/s Marius)</span>, Amanda Salmon (Éponine), 
+David Malek (Enjolras), Cameron Blakely (Thénardier), Joanna Mays (Madame Thénardier)<br><br>
 
 West End - May 12, 2001<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: John Owen-Jones (Jean Valjean), Michael McCarthy (Javert), Grania Renihan (Fantine), Philippa Healey (Cosette), 
-Niklas Andersson (Marius), Joanna Ampil (Éponine), Tam Mutu (u/s Enjolras), Tony Timberlake (Thénardier), 
-Mandy Holliday (Madame Thénardier)<br>
+Niklas Andersson (Marius), Joanna Ampil (Éponine), <span class="nonp">Tam Mutu (u/s Enjolras)</span>, 
+Tony Timberlake (Thénardier), Mandy Holliday (Madame Thénardier)<br>
 <span class="reviews">B+. Pretty good quality audio, especially given its age. Orchestra is a little loud compared to 
 the singing, though; some of the spoken / quietly sung lines / normally sung lines during crescendos are a bit hard to 
 pick out. Minor track errors (pauses) during MOTH.</span><br><br>
@@ -65,8 +69,8 @@ pick out. Minor track errors (pauses) during MOTH.</span><br><br>
 West End - October 22, 2002<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Michael Sterling (Jean Valjean), Jérôme Pradon (Javert), Carmen Cusack (Fantine), Hadley Fraser (Marius), 
-Rebecca Seale (u/s Éponine), Ramin Karimloo (u/s Enjolras), Stephen Tate (Thénardier), 
-Rosemary Ashe (Madame Thénardier)<br>
+<span class="nonp">Rebecca Seale (u/s Éponine)</span>, <span class="nonp">Ramin Karimloo (u/s Enjolras)</span>, 
+Stephen Tate (Thénardier), Rosemary Ashe (Madame Thénardier)<br>
 <span class="reviews">A+. Absolutely gorgeous quality audio. Hadley and Ramin were better as Marius and Enjolras than 
 Javert and JVJ, fite me. Some popping in “Waltz of Treachery,” “Look Down,” and “Final Battle.”</span><br><br>
 
@@ -93,7 +97,7 @@ FORMAT:  MP3 (tracked)<br>
 CAST: John Owen-Jones (Jean Valjean), Cornell John (Javert), Kerry Ellis (Fantine), Julia Möller (Cosette), 
 Hayden Tee (Marius), Shonagh Daly (Éponine), Shaun Escoffery (Enjolras), Barry James (Thénardier), 
 Claire Moore (Madame Thénardier), Billy Edwards (Gavroche), Lauren Rammell (Little Cosette), 
-Stephen John Davis (The Bishop), Jeff Nicholson (Grantaire), Christopher Key (s/w Combeferre), 
+Stephen John Davis (The Bishop), Jeff Nicholson (Grantaire), <span class="nonp">Christopher Key (s/w Combeferre)</span>, 
 Robert Archibald (Feuilly), David Thaxton (Courfeyrac), John Addison (Jean Prouvaire), Nolan Dark (Joly), 
 Stephen John Davis (Lesgles), Shaun Henson (Babet), Adam Jones (Claquesous), Daniel Carter (Montparnasse), 
 Jeff Nicholson (Factory Foreman), Mary Doherty (Factory Girl), Wendy Somerville (Crone), 
@@ -105,8 +109,8 @@ to “The Sewers,” just know that that trap door is loud. A very long hooooooo
 West End - August 5, 2006<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: John Owen-Jones (Jean Valjean), Hans Peter Janssens (Javert), Sophia Ragavelas (Fantine), Gina Beck (Cosette), 
-Jon Lee (Marius), Laura Brydon (u/s Éponine), Simon Bailey (Enjolras), Chris Vincent (Thénardier), 
-Tracie Bennett (Madame Thénardier)<br><br>
+Jon Lee (Marius), <span class="nonp">Laura Brydon (u/s Éponine)</span>, Simon Bailey (Enjolras), 
+Chris Vincent (Thénardier), Tracie Bennett (Madame Thénardier)<br><br>
 
 21st Anniversary Radio Broadcast - October 8, 2006 (Opening & Closing Night)<br>
 FORMAT:  M4A (tracked)<br>
@@ -118,10 +122,10 @@ NOTES: Full but condensed. 90 minute BBC Concert for the 21st Anniversary.<br>
 
 West End - November 17, 2006<br>
 FORMAT:  MP3 (tracked)<br>
-CAST: John Owen-Jones (Jean Valjean), Jeff Nicholson (u/s Javert), Sophia Ragavelas (Fantine), 
-Alice Fearn (u/s Cosette), Jon Lee (Marius), Sabrina Aloueche (Éponine), Simon Bailey (Enjolras), 
-Chris Vincent (Thénardier), Tracie Bennett (Madame Thénardier), David Thaxton (u/s The Bishop), 
-Jonathan Ellis (u/s Grantaire)<br>
+CAST: John Owen-Jones (Jean Valjean), <span class="nonp">Jeff Nicholson (u/s Javert)</span>, Sophia Ragavelas (Fantine), 
+<span class="nonp">Alice Fearn (u/s Cosette)</span>, Jon Lee (Marius), Sabrina Aloueche (Éponine), 
+Simon Bailey (Enjolras), Chris Vincent (Thénardier), Tracie Bennett (Madame Thénardier), 
+<span class="nonp">David Thaxton (u/s The Bishop)</span>, <span class="nonp">Jonathan Ellis (u/s Grantaire)</span><br>
 NOTES: Includes a Children in Need appeal speech by John Owen-Jones.<br><br>
 
 West End - November 8, 2008 (toomuchlove635's master)<br>
@@ -134,8 +138,9 @@ NOTES: Drew Sarich's Final Performance. Includes goodbye speeches by Earl Carpen
 West End - June 20, 2009 (Matinee) (rachelyork's master)<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: David Shannon (Jean Valjean), Earl Carpenter (Javert), Allyson Ava-Brown (Fantine), Leanne Dobinson (Cosette), 
-Jon Robyns (Marius), Nancy Sullivan (Éponine), David Thaxton (Enjolras), Greg Castiglioni (u/s Thénardier), 
-Jackie Marks (Madame Thénardier), Killian Donnelly (u/s Jean Prouvaire)<br>
+Jon Robyns (Marius), Nancy Sullivan (Éponine), David Thaxton (Enjolras), 
+<span class="nonp">Greg Castiglioni (u/s Thénardier)</span>, Jackie Marks (Madame Thénardier), 
+<span class="nonp">Killian Donnelly (u/s Jean Prouvaire)</span><br>
 NOTES: Muck-up matinee.<br><br>
 
 West End - October 8, 2009<br>
@@ -155,49 +160,54 @@ his solos. Alfie is fantastic, as usual. Audience loves the Thenardiers.</span><
 
 West End - July 4, 2011<br>
 FORMAT:  AIFF (untracked)<br>
-CAST: Jonathan Williams (alt Jean Valjean), Hadley Fraser (Javert), AJ Callaghan (u/s Fantine), 
-Lisa-Anne Wood (Cosette), Craig Mather (Marius), Alexia Khadime (Éponine), Liam Tamne (Enjolras), 
-Matt Lucas (Thénardier), Katy Secombe (Madame Thénardier)<br>
+CAST: <span class="nonp">Jonathan Williams (alt Jean Valjean)</span>, Hadley Fraser (Javert), 
+<span class="nonp">AJ Callaghan (u/s Fantine)</span>, Lisa-Anne Wood (Cosette), Craig Mather (Marius), 
+Alexia Khadime (Éponine), Liam Tamne (Enjolras), Matt Lucas (Thénardier), Katy Secombe (Madame Thénardier)<br>
 NOTES: Includes bloopers - At the start of Valjean’s Confession Craig forgot his lines, so ‘not another word my son’ 
 became hilarious because all he had sung was gibberish!<br><br>
 
 West End - September 29, 2012<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Gerónimo Rauch (Jean Valjean), Tam Mutu (Javert), Sierra Boggess (Fantine), Samantha Dorsey (Cosette), 
-Jonny Purchase (u/s Marius), Danielle Hope (Éponine), James Charlton (u/s Enjolras), Cameron Blakely (Thénardier), 
+<span class="nonp">Jonny Purchase (u/s Marius)</span>, Danielle Hope (Éponine), 
+<span class="nonp">James Charlton (u/s Enjolras)</span>, Cameron Blakely (Thénardier), 
 Linzi Hateley (Madame Thénardier)<br><br>
 
 West End - July 23, 2014 (Matinee) (cynicale's master)<br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Peter Lockyer (Jean Valjean), David Thaxton (Javert), Celinde Schoenmaker (Fantine), Emilie Fleming (Cosette), 
-Rob Houchen (Marius), Carrie Hope Fletcher (Éponine), Michael Colbourne (Enjolras), Adam Linstead (u/s Thénardier), 
-Helen Walsh (u/s Madame Thénardier), Max Robson (Gavroche), Sylvie Erskine (Little Cosette), 
-Ashley Stillburn (u/s The Bishop), Christian Edwards (Grantaire), Ethan Bradshaw (u/s Factory Foreman), 
-Lee Dillon-Stuart (s/w Bamatabois)<br>
+Rob Houchen (Marius), Carrie Hope Fletcher (Éponine), Michael Colbourne (Enjolras), 
+<span class="nonp">Adam Linstead (u/s Thénardier)</span>, 
+<span class="nonp">Helen Walsh (u/s Madame Thénardier)</span>, Max Robson (Gavroche), Sylvie Erskine (Little Cosette), 
+<span class="nonp">Ashley Stillburn (u/s The Bishop)</span>, Christian Edwards (Grantaire), 
+<span class="nonp">Ethan Bradshaw (u/s Factory Foreman)</span>, 
+<span class="nonp">Lee Dillon-Stuart (s/w Bamatabois)</span><br>
 NOTES: Definitely one of the most realistic takes on Mme Thénardier and Bamatabois I’ve ever encountered, 
 kudos for that! I also thoroughly enjoyed Emilie Fleming’s performance (if only her voice had been slightly stronger, 
 she might have surpassed Leanne Dobinson in my affections) and David Thaxton’s first act.<br><br>
 
 West End - September 19, 2015<br>
 FORMAT:  MP3 (untracked)<br>
-CAST: Bradley Jaden (u/s Jean Valjean), Jeremy Secomb (Javert), Rachelle Ann Go (Fantine), 
-Charlotte Kennedy (u/s Cosette), Rob Houchen (Marius), Carrie Hope Fletcher (Éponine), Luke McCall (u/s Enjolras), 
-Phil Daniels (Thénardier), Katy Secombe (Madame Thénardier)<br>
+CAST: <span class="nonp">Bradley Jaden (u/s Jean Valjean)</span>, Jeremy Secomb (Javert), Rachelle Ann Go (Fantine), 
+<span class="nonp">Charlotte Kennedy (u/s Cosette)</span>, Rob Houchen (Marius), Carrie Hope Fletcher (Éponine), 
+<span class="nonp">Luke McCall (u/s Enjolras)</span>, Phil Daniels (Thénardier), Katy Secombe (Madame Thénardier)<br>
 NOTES: Bradley's second performance as Valjean.<br><br>
 
 West End - December 19, 2015<br>
 FORMAT:  WAV (untracked)<br>
-CAST: Peter Lockyer (Jean Valjean), Jeremy Secomb (Javert), Jessamy Stoddart (u/s Fantine), 
-Charlotte Kennedy (u/s Cosette), Rob Houchen (Marius), Courtney Stapleton (u/s Éponine), Bradley Jaden (Enjolras), 
-Phil Daniels (Thénardier), Katy Secombe (Madame Thénardier)<br>
+CAST: Peter Lockyer (Jean Valjean), Jeremy Secomb (Javert), <span class="nonp">Jessamy Stoddart (u/s Fantine)</span>, 
+<span class="nonp">Charlotte Kennedy (u/s Cosette)</span>, Rob Houchen (Marius), 
+<span class="nonp">Courtney Stapleton (u/s Éponine)</span>, Bradley Jaden (Enjolras), Phil Daniels (Thénardier), 
+Katy Secombe (Madame Thénardier)<br>
 NOTES: Courtney's Eponine debut.<br>
 <span class="reviews">A. Nice quality audio.</span><br><br>
 
 West End - April 11, 2016 (Haunts&Hurts's master)<br>
 FORMAT:  M4A (tracked) |  TRADER'S NOTES: Missing "The Confrontation." And also a lot of Act II.<br>
 CAST: Peter Lockyer (Jean Valjean), Jeremy Secomb (Javert), Patrice Tipoki (Fantine), Zoe Doano (Cosette), 
-Craig Mather (Marius), Eva Noblezada (Éponine), Bradley Jaden (Enjolras), Adam Pearce (u/s Thénardier), 
-Katy Hannah (u/s Madame Thénardier)<br>
+Craig Mather (Marius), Eva Noblezada (Éponine), Bradley Jaden (Enjolras), 
+<span class="nonp">Adam Pearce (u/s Thénardier)</span>, 
+<span class="nonp">Katy Hannah (u/s Madame Thénardier)</span><br>
 NOTES: *Master's Note: Superb performance of Les Miserables from London’s stellar new cast for 2016. 
 This high-quality A+ audio from a Monday night show marks Eva Noblezada’s ninth performance as Eponine – she has a 
 stunning voice and her beautiful performance of On My Own was a real showstopper. So too was Stars sung by Jeremy 
@@ -213,9 +223,10 @@ go wrong with the Quast “and so it must be!”</span><br><br>
 
 West End - April 13, 2016<br>
 FORMAT:  M4A (untracked)<br>
-CAST: Luke McCall (u/s Jean Valjean), Jeremy Secomb (Javert), Patrice Tipoki (Fantine), Zoe Doano (Cosette), 
-Craig Mather (Marius), Eva Noblezada (Éponine), Bradley Jaden (Enjolras), Adam Pearce (u/s Thénardier), 
-amsin Dowsett (u/s Madame Thénardier)<br>
+CAST: <span class="nonp">Luke McCall (u/s Jean Valjean)</span>, Jeremy Secomb (Javert), Patrice Tipoki (Fantine), 
+Zoe Doano (Cosette), Craig Mather (Marius), Eva Noblezada (Éponine), Bradley Jaden (Enjolras), 
+<span class="nonp">Adam Pearce (u/s Thénardier)</span>, 
+<span class="nonp">Tamsin Dowsett (u/s Madame Thénardier)</span><br>
 NOTES: First Performance as Valjean for Luke McCall.<br><br>
 
 West End - October 8, 2016<br>
@@ -228,7 +239,8 @@ NOTES: 31st Anniversary performance!<br><br>
 West End - January 7, 2017<br>
 FORMAT:  MP3 (untracked)<br>
 CAST: Simon Gleeson (Jean Valjean), Jeremy Secomb (Javert), Lucy O’Byrne (Fantine), Charlotte Kennedy (Cosette), 
-Paul Wilkins (Marius), Lauren Soley (u/s Éponine), Jonny Purchase (u/s Enjolras), David Langham (Thénardier), 
+Paul Wilkins (Marius), <span class="nonp">Lauren Soley (u/s Éponine)</span>, 
+<span class="nonp">Jonny Purchase (u/s Enjolras)</span>, David Langham (Thénardier), 
 Katy Secombe (Madame Thénardier)<br>
 NOTES: Final Performance at the time for Jeremy Secomb.<br><br>
 
