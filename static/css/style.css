@@ -11,3 +11,18 @@ body {
   padding-top: 10px;
   padding-bottom: 0;
 }
+
+/* Custom */
+.nonp {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.nft {
+  color: red;
+}
+
+.reviews {
+  color: #BF965C;
+  font-style: italic;
+}
