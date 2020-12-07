@@ -1,11 +1,11 @@
-First UK Tour (Manchester) - April 25, 1992 (Soundboard's master)<br>
+<span class="name">First UK Tour (Manchester) - April 25, 1992 (Soundboard's master)</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Jeff Leyton (Jean Valjean), Philip Quast (Javert), Ria Jones (Fantine), Fiona Sinnott (Cosette), 
 Mike Sterling (Marius), Meredith Braun (Éponine), Danny Coll (Enjolras), Tony Timberlake (Thénardier), 
 Louise Plowright (Madame Thénardier), Allan Hardman (Grantaire)<br>
 NOTES: Soundboard<br><br>
 
-Third US Tour (Washington, DC)  - January 5, 2006<br>
+<span class="name">Third US Tour (Washington, DC) - January 5, 2006</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Randal Keith (Jean Valjean), Robert Hunt (Javert), Joan Almedilla (Fantine), 
 <span class="nonp">Sierra Boggess (u/s Cosette)</span>, Adam Jacobs (Marius), Melissa Lyons (Éponine), 
@@ -13,7 +13,7 @@ Victor Wallace (Enjolras), David McDonald (Thénardier), Jennifer Butt (Madame T
 Rachel Schier (Little Cosette)<br>
 NOTES: Only known audio of Sierra as Cosette. Also her first performance as Cosette.<br><br>
 
-Third UK / 25th Anniversary Tour (Cardiff) - December 12, 2009 (Opening Night)<br>
+<span class="name">Third UK / 25th Anniversary Tour (Cardiff) - December 12, 2009 (Opening Night)</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), 
 Gareth Gates (Marius), Rosalind James (Éponine), Jon Robyns (Enjolras), Ashley Artus (Thénardier), 
@@ -22,7 +22,7 @@ NOTES: Opening night. Rosalind flubs a line in On My Own.<br>
 <span class="reviews">B+. Bass is a little weak, and the orchestra is a bit loud compared to the singing but otherwise 
 pretty clear audio.</span><br><br>
 
-Third UK / 25th Anniversary Tour (Edinburgh) - May 13, 2010<br>
+<span class="name">Third UK / 25th Anniversary Tour (Edinburgh) - May 13, 2010</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), 
 Gareth Gates (Marius), <span class="nonp">Rosa O'Reilly (u/s Éponine)</span>, 
@@ -32,7 +32,7 @@ Jamie Muscato (Jean Prouvaire)<br>
 <span class="reviews">A. Great quality audio though some lines are very quiet (mic issue?). A decent amount of 
 background noise. I’m loving Jacobsen’s Enjolras.</span><br><br>
 
-Third UK / 25th Anniversary Tour (London) - October 2, 2010 (Closing Night)<br>
+<span class="name">Third UK / 25th Anniversary Tour (London) - October 2, 2010 (Closing Night)</span><br>
 FORMAT:  MP3 (untracked) |  TRADER'S NOTES: 2:1<br>
 CAST: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), 
 Gareth Gates (Marius), Rosalind James (Éponine), Jon Robyns (Enjolras), Ashley Artus (Thénardier), 
@@ -41,7 +41,7 @@ NOTES: RARE: Limited Trades The final performance of the 25th Anniversary UK tou
 Part of Cameron Macintosh's 'Weekend of Ultimate Misery', when both the West End and UK tour played performances in 
 London on the same day, followed by the 25th Anniversary performance at the O2 Arena a day later).<br><br>
 
-Asia Tour (Singapore) - July 20, 2016 (virginiachance's master)<br>
+<span class="name">Asia Tour (Singapore) - July 20, 2016 (virginiachance's master)</span><br>
 FORMAT: MP3 (tracked)<br>
 CAST: Simon Gleeson (Jean Valjean), Earl Carpenter (Javert), <span class="nonp">Jessica Daley (u/s Fantine)</span>, 
 Cameron Blakely (Thenardier), Helen Walsh (Madame Thenardier), Kerrie Anne Greenland (Eponine), 
@@ -49,7 +49,7 @@ Emily Langridge (Cosette), Paul Wilkins (Marius), Chris Durling (Enjolras), Matt
 Hugo Chiarella (Grantaire), Sebastian Witt (Gavroche), Chloe De Los Santos (Little Cosette), James Hume (Bamatabois), 
 Blake Erickson (Factory Foreman), Adele Parkinson (Factory Girl), Mabel Tamone (Little Eponine)<br><br>
 
-Asia Tour (Dubai) - November 12, 2016<br>
+<span class="name">Asia Tour (Dubai) - November 12, 2016</span><br>
 FORMAT:  MP3 (untracked)<br>
 CAST: John Owen-Jones (Jean Valjean), <span class="nonp">Tamlyn Henderson (u/s Javert)</span>, Patrice Tipoki (Fantine), 
 Emily Langridge (Cosette), Paul Wilkins (Marius), Carrie Hope Fletcher (Éponine), Alistair Brammer (Enjolras), 

@@ -1,4 +1,4 @@
-Paris - 1980 (Soundboard's master)<br>
+<span class="name">Paris - 1980 (Soundboard's master)</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Maurice Barrier (Jean Valjean), Jean Vallée (Javert), Rose Laurens (Fantine), Fabienne Guyon (Cosette), 
 Gilles Buhlmann (Marius), Marianne Mille (Éponine), Christian Ratellin (Enjolras), Yvan Dautin (Thénardier), 
@@ -8,7 +8,7 @@ NOTES: In September 1980, a stage version of Claude-Michel Schônberg and Alain 
 Paris. The show was a success, with 100 performances seen by over 500,000 people. Most of the cast from the 
 concept album performed in the production.<br><br>
 
-Dallas - July 10, 2014<br>
+<span class="name">Dallas - July 10, 2014</span><br>
 FORMAT:  MP3 (untracked)<br>
 CAST: Nehal Joshi (Jean Valjean), Edward Watts (Javert), Allison Blackwell (Fantine), Dorcas Leung (Cosette), 
 Justin Keyes (Marius), Elizabeth Judd (Éponine), John Campione (Enjolras), Steven Michael Walters (Thénardier), 

@@ -1,5 +1,5 @@
 <p class="h5" style="text-align:center;">Denver</p>
-Denver - October 15, 2011 (Highlights)<br>
+<span class="name">Denver - October 15, 2011 (Highlights)</span><br>
 FORMAT:  MP4 (SD) |  TRADER'S NOTES: Gifted upon request.<br>
 CAST: Jefferson Hamer (Orpheus), Anaïs Mitchell (Eurydice), Reed Foehl (Hades), KC Groves (Persephone), 
 Genevieve Patterson (Fate), Esme Patterson (Fate), Carleigh Aikins (Fate)<br>
@@ -8,14 +8,14 @@ highest quality possible, and I don't recommend it as trading material, but it's
 tried my best to fill out the cast but I have no idea who played Hermes in this concert.<br><br>
 
 <p class="h5" style="text-align:center;">London Previews</p>
-National Theatre, London - November, 2018 (Highlights) (hitmewithyourbethshot's master)<br>
+<span class="name">National Theatre, London - November, 2018 (Highlights) (hitmewithyourbethshot's master)</span><br>
 FORMAT:  Other video (see notes) |  TRADER'S NOTES: Act 1 (MP4 SD), Act 2 (MOV HD). 4.5 GB total.<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Rosie Fletcher (Fate), Gloria Onitiri (Fate), Carly Mercedes Dyer (Fate)<br>
 NOTES: Filmed on 2 different devices. Act 1 MP4, up to Why We Build the Wall. Act 2, mov, 1st 22 minutes Act 2 MOV, 
 first 20 minutes only.<br><br>
 
-National Theatre, London - December 27, 2018 (chauvelin's master)<br>
+<span class="name">National Theatre, London - December 27, 2018 (chauvelin's master)</span><br>
 FORMAT:  MTS |  TRADER'S NOTES: 20.9 GB<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Carly Mercedes Dyer (Fate), Rosie Fletcher (Fate), Gloria Onitiri (Fate)
@@ -27,7 +27,7 @@ but Hades isn’t (imagine an Epic III where you can see Hades). Great sound. Ju
 verse and angry hand-holding (technically still in Bway previews); justice for the good Epic III arrangement; 
 and justice for “Lover’s Desire!”</span><br><br>
 
-National Theatre, London - January 22, 2019 (Highlights)<br>
+<span class="name">National Theatre, London - January 22, 2019 (Highlights)</span><br>
 FORMAT:  MOV (HD) |  TRADER'S NOTES: 2.5 GB<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Carly Mercedes Dyer (Fate), Rosie Fletcher (Fate), Gloria Onitiri (Fate)<br>
@@ -38,7 +38,7 @@ without zooms, but it's HD and mostly unobstructed.<br>
 but good sound. Missing most of WDH and the last bit of WWBTW.</span><br><br>
 
 <p class="h5" style="text-align:center;">Broadway</p>
-Broadway Previews - March, 2019 (StarCuffedJeans's master)<br>
+<span class="name">Broadway Previews - March, 2019 (StarCuffedJeans's master)</span><br>
 FORMAT:  MP4 (HD) |  TRADER'S NOTES: 9.8 GB<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate), Afra Hines, 
@@ -50,7 +50,7 @@ music so I was sometimes focused on the wrong things. Oh well. Overall, I love t
 filming it and just SOBBED while I rewatched some of my favorite moments. WHAT A SHOW!<br>
 <span class="reviews">B+.</span><br><br>
 
-Broadway - August, 2019 (everyturnandtwist's master)<br>
+<span class="name">Broadway - August, 2019 (everyturnandtwist's master)</span><br>
 FORMAT:  MP4 (HD) |  TRADER'S NOTES: 11.9 GB<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)<br>
@@ -62,7 +62,7 @@ by the mezzanine bar when they're at the front of the stage (especially Eva). Bu
 came out! The only dropouts are in between songs (I really couldn't stop myself from cheering and 
 clapping at this one).<br><br>
 
-Broadway - August 5, 2019 (Highlights)<br>
+<span class="name">Broadway - August 5, 2019 (Highlights)</span><br>
 FORMAT:  MP4 (HD) |  TRADER'S NOTES: Gifted upon request.<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)<br>
@@ -73,7 +73,7 @@ Filmed vertically from the rear middle orchestra with minimal zooms and obstruct
 looking at the action. Also includes “Livin’ It Up On Top” and about 30 seconds of WDH2, but those are actually 
 unwatchable. Good sound.</span><br><br>
 
-Broadway - January, 2020 (everyturnandtwist's master)<br>
+<span class="name">Broadway - January, 2020 (everyturnandtwist's master)</span><br>
 FORMAT:  MP4 (HD) |  TRADER'S NOTES: 9.7 GB<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)<br>
@@ -82,8 +82,8 @@ a bit when performers are on the upper levels of the stage but overall very watc
 show, including partial curtain call (missing We Raise Our Cups). With my other master, you can get a great visual of 
 the entirety of the show's beautiful choreography and staging.<br><br>
 
-<span class="nft">Broadway - February, 2020 (theaterfan64's master)<br>
-FORMAT:  MOV (HD)  |  NFT: Apr 20, 2021  |  TRADER'S NOTES: 17.3 GB</span><br>
+<span class="name">Broadway - February, 2020 (theaterfan64's master)</span><br>
+FORMAT:  MOV (HD)  |  <span class="nft">NFT: Apr 20, 2021</span>  |  TRADER'S NOTES: 17.3 GB<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), <span class="nonp">Kimberly Marable (u/s Fate)</span>, Kay Trinidad (Fate), 
 Yvette Gonzalez-Nacer (Fate), Afra Hines, Anthony C Chatmon II, Damani Van Rensalier, John Krause, Timothy Hughes<br>
@@ -91,4 +91,5 @@ Yvette Gonzalez-Nacer (Fate), Afra Hines, Anthony C Chatmon II, Damani Van Rensa
 but no obstructions. Sound is decent, though there is some feedback and distortion, especially during Epic III and 
 WFM2. Some blackout and wandering during Act II. The best option if you’re interested in the overall Broadway 
 staging (there are differences from the previews). Eva opts down, and Patrick makes a minor lyric change/flub during 
-the HKTR intro.</span>
+the HKTR intro.</span><br>
+<i>Master contact available upon request.</i>

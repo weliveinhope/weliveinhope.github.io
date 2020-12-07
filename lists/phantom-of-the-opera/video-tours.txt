@@ -1,4 +1,4 @@
-First US Tour - 1989<br>
+<span class="name">First US Tour - 1989</span><br>
 FORMAT:  VOB (with smalls) (SD) |  TRADER'S NOTES: Lower quality ver (2.0 GB).<br>
 CAST: Michael Crawford (The Phantom of the Opera), Dale Kristien (Christine Daaé), Steve Barton (Raoul)<br>
 NOTES: Lots of washout and generation loss, but the best video of Michael Crawford around. According to another 
@@ -6,14 +6,14 @@ site, it is Reece Holland as Raoul in the video, though some footage may be from
 in the production. Two versions: Version 1 has brighter colors but more generation loss, Version 2 is smaller 
 in file size but has sharper details and lines.<br><br>
 
-Third US Tour (Orlando, FL)  - January 13, 2004<br>
+<span class="name">Third US Tour (Orlando, FL)  - January 13, 2004</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: <span class="nonp">Tim Martin Gleason (u/s The Phantom of the Opera)</span>, Elizabeth Southard (Christine Daaé), 
 <span class="nonp">Peter Lockyer (u/s Raoul)</span>, Kim Stengel (Carlotta Giudicelli), David Cryer (Monsieur Firmin), 
 D C Anderson (Monsieur André), Patti Davidson-Gorbea (Madame Giry), Jimmy Smagula (Ubaldo Piangi), 
 Kate Wray (Meg Giry)<br><br>
 
-Third US Tour (Ft. Myers, FL) - February 11, 2005 (Highlights) (musicinthestars's master)<br>
+<span class="name">Third US Tour (Ft. Myers, FL) - February 11, 2005 (Highlights) (musicinthestars's master)</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: <span class="nonp">Peter Lockyer (u/s The Phantom of the Opera)</span>, Rebecca Pitcher (Christine Daaé), 
 Tim Martin Gleason (Raoul), <span class="nonp">Laureen Vigil (u/s Carlotta Giudicelli)</span>, 
@@ -22,7 +22,7 @@ John Whitney (Ubaldo Piangi), Sarah Spradlin-Bonomo (Meg Giry)<br>
 NOTES: Highlights, trio-oriented. Includes a flub where Peter takes off his coat along with his cape and performs 
 all of 'Music of the Night' in his shirtsleeves.<br><br>
 
-Third US Tour (Dallas, TX) - April 6, 2006 (musicinthestars's master)<br>
+<span class="name">Third US Tour (Dallas, TX) - April 6, 2006 (musicinthestars's master)</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: Gary Mauer (The Phantom of the Opera), <span class="nonp">Elizabeth Southard (alt Christine Daaé)</span>, 
 Jim Weitzer (Raoul), Kim Stengel (Carlotta Giudicelli), John Jellison (Monsieur Firmin), D C Anderson (Monsieur André), 
@@ -30,27 +30,27 @@ Patti Davidson-Gorbea (Madame Giry), John Whitney (Ubaldo Piangi), Kate Wray (Me
 NOTES: 2 camera edit of Elizabeth Southard's final performance. Very good and emotional show to watch. 
 Real life husband and wife Phantom and Christine.<br><br>
 
-Third US Tour (Washington, DC) - August 2, 2007<br>
+<span class="name">Third US Tour (Washington, DC) - August 2, 2007</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: John Cudia (The Phantom of the Opera), Marni Raab (Christine Daaé), Greg Mills (Raoul)<br>
 NOTES: Beautiful video shot in widescreen, great color, excellent and steady camerawork.<br><br>
 
-World Tour (Australia) - April 22, 2008<br>
+<span class="name">World Tour (Australia) - April 22, 2008</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: <span class="nonp">Simon Pryce (u/s The Phantom of the Opera)</span>, Ana Marina (Christine Daaé), 
 Alexander Lewis (Raoul)<br><br>
 
-World Tour (Australia) - 2009 (2) (Highlights)<br>
+<span class="name">World Tour (Australia) - 2009 (2) (Highlights)</span><br>
 FORMAT:  AVI (SD) |  TRADER'S NOTES: 386 MB<br>
 CAST: Anthony Warlow (The Phantom of the Opera), Ana Marina (Christine Daaé), Alexander Lewis (Raoul)<br>
 NOTES: Phantom-oriented highlights. 7 AVI clips.<br><br>
 
-Third UK Tour (Restaged) (Manchester) - May 2, 2012 (Highlights)<br>
+<span class="name">Third UK Tour (Restaged) (Manchester) - May 2, 2012 (Highlights)</span><br>
 FORMAT:  MP4 (SD) |  TRADER'S NOTES: 2:1. 247 MB.<br>
 CAST: John Owen-Jones (The Phantom of the Opera), Katie Hall (Christine Daaé), Simon Bailey (Raoul)<br>
 NOTES: Four MP4 clips including Think of Me, The Mirror/Title Song, PONR, and the Final Lair<br><br>
 
-Second World Tour (Shanghai) - January 26, 2014<br>
+<span class="name">Second World Tour (Shanghai) - January 26, 2014</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: Brad Little (The Phantom of the Opera), Kristi Holden (Christine Daaé), Anthony Downing (Raoul), 
 Andrea Creighton (Carlotta Giudicelli), John O'May (Monsieur Firmin), Jason Ralph (Monsieur André), 
@@ -58,7 +58,7 @@ Tina Walsh (Madame Giry), Thabiso Masimene (Ubaldo Piangi), Eleanor Waite (Meg G
 NOTES: Parts of Act II freeze for a few seconds, and some scenes are from a lower-quality different source. 
 Overall, a dark video.<br><br>
 
-Fourth US Tour (Milwaukee, WI) - July 27, 2014 (SunsetBlvd79's master)<br>
+<span class="name">Fourth US Tour (Milwaukee, WI) - July 27, 2014 (SunsetBlvd79's master)</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: Cooper Grodin (The Phantom of the Opera), <span class="nonp">Grace Morgan (alt Christine Daaé)</span>, 
 Ben Jacoby (Raoul), <span class="nonp">Lindsay O'Neil (u/s Carlotta Giudicelli)</span>, Brad Oscar (Monsieur Firmin), 
@@ -66,14 +66,14 @@ Edward Staudenmayer (Monsieur André), Linda Balgord (Madame Giry), Frank Vivero
 NOTES: Beautiful HD capture with no obstructions. Grace does a terrific job as the alternate Christine and has 
 wonderful voice. Lindsay as Carlotta has one of the highest singing voices I have ever heard in the role!<br><br>
 
-Fourth US Tour (Costa Mesa, CA) - August 12, 2015<br>
+<span class="name">Fourth US Tour (Costa Mesa, CA) - August 12, 2015</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: Chris Mann (The Phantom of the Opera), Katie Travis (Christine Daaé), Storm Lineberger (Raoul), 
 Jacquelynne Fontaine (Carlotta Giudicelli), David Benoit (Monsieur Firmin), Edward Staudenmayer (Monsieur André), 
 Anne Kanengeiser (Madame Giry), Frank Viveros (Ubaldo Piangi), Morgan Cowling (Meg Giry)<br>
 NOTES: More concentrated on full body shots and capturing all the action rather than close ups.<br><br>
 
-Fourth US Tour (Cincinnati, OH) - November 16, 2016 (Matinee) (kradder32's master)<br>
+<span class="name">Fourth US Tour (Cincinnati, OH) - November 16, 2016 (Matinee) (kradder32's master)</span><br>
 FORMAT:  VOB (with smalls) (SD)<br>
 CAST: Derrick Davis (The Phantom of the Opera), <span class="nonp">Kaitlyn Davis (alt Christine Daaé)</span>, 
 Jordan Craig (Raoul), Trista Moldovan (Carlotta Giudicelli), David Benoit (Monsieur Firmin), 

@@ -1,4 +1,4 @@
-West End - February 24, 2020 (revolutionarymusicals's master)<br>
+<span class="name">West End - February 24, 2020 (revolutionarymusicals's master)</span><br>
 FORMAT:  M4A (untracked)<br>
 CAST: <span class="nonp">Luke McCall (alt Jean Valjean)</span>, <span class="nonp">Richard Carson (u/s Javert)</span>, 
 Carrie Hope Fletcher (Fantine), Lily Kerhoas (Cosette), Harry Apps (Marius), Shan Ako (Éponine), 
@@ -11,7 +11,7 @@ Rodney Earl Clarke (Claquesous), Sake Wijers (Montparnasse),
 <span class="nonp">Mark Pearce (u/s Factory Foreman)</span>, Ellie Ann Lowe (Factory Girl), Georgie Lovatt (Crone), 
 Matt Dempsey (Bamatabois), Sake Wijers (Pimp)<br><br>
 
-West End - March 7, 2020 (fleaswillbite's master)<br>
+<span class="name">West End - March 7, 2020 (fleaswillbite's master)</span><br>
 FORMAT:  M4A (untracked)<br>
 CAST: Jon Robyns (Jean Valjean), Bradley Jaden (Javert), Rachelle Ann Go (Fantine), Lily Kerhoas (Cosette), 
 <span class="nonp">Harry Dunnett (u/s Marius)</span>, Shan Ako (Éponine), Ashley Gilmour (Enjolras), 
@@ -22,13 +22,13 @@ Luke McCall (Courfeyrac), <span class="nonp">Sake Wijers (s/w Jean Prouvaire)</s
 Cellen Chugg Jones (Babet), Rodney Earl Clarke (Claquesous), Leo Miles (Montparnasse), Richard Carson (Factory Foreman), 
 Ellie Ann Lowe (Factory Girl), Georgie Lovatt (Crone), Matt Dempsey (Bamatabois), Leo Miles (Pimp)<br><br>
 
-West End - March 10, 2020<br>
+<span class="name">West End - March 10, 2020</span><br>
 FORMAT:  M4A (untracked)<br>
 CAST: Jon Robyns (Jean Valjean), Bradley Jaden (Javert), Rachelle Ann Go (Fantine), Lily Kerhoas (Cosette), 
 <span class="nonp">Shane O’Riordan (u/s Marius)</span>, Shan Ako (Éponine), Ashley Gilmour (Enjolras), 
 Gerard Carey (Thénardier), Josefina Gabrielle (Madame Thénardier)<br><br>
 
-West End - March 13, 2020 (pyladic's master)<br>
+<span class="name">West End - March 13, 2020 (pyladic's master)</span><br>
 FORMAT:  M4A (untracked)<br>
 CAST: <span class="nonp">Luke McCall (alt Jean Valjean)</span>, Bradley Jaden (Javert), Rachelle Ann Go (Fantine), 
 Lily Kerhoas (Cosette), <span class="nonp">Shane O’Riordan (u/s Marius)</span>, Shan Ako (Éponine), 
@@ -40,4 +40,6 @@ Cellen Chugg Jones (Babet), Rodney Earl Clarke (Claquesous), Leo Miles (Montparn
 Richard Carson (Factory Foreman), Ellie Ann Lowe (Factory Girl), Georgie Lovatt (Crone), 
 Matt Dempsey (Bamatabois), Leo Miles (Pimp)<br>
 NOTES: Nice quality audio of this double understudy performance! Stellar performances from the entire cast, 
-but particularly Bradley Jaden, Luke McCall, and Shan Ako.
+but particularly Bradley Jaden, Luke McCall, and Shan Ako.<br>
+<span class="reviews">B+. Audio has a bit of an odd tinny quality to it and a fair amount of rustling. That 
+"Confrontation" though, whew. Love me some Luke and Bradley.</span>
