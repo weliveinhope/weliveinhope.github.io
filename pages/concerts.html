@@ -4,12 +4,19 @@
   
     <link rel="stylesheet" href="/static/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static/css/style.css"/>
+    <style>
+      .h3 {
+        padding-top: 0px;
+      }
+    </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="/static/js/bootstrap.bundle.min.js"></script>
   
       <script type="text/javascript">
         $(function() {
             $('#navbar').load('/navbar.html');
+
+            $('#concerts').load('/lists/concerts.txt');
         });
       </script>  
   </head>
@@ -18,8 +25,21 @@
       <div id=navbar></div>
       <div class="container">
         <div style="text-align:center;">
-          <p class="h2">UNDER CONSTRUCTION</p>
+          <div class="alert alert-info" role="alert">
+            These are listed more for my sake than anything else. I will only trade these for other concerts. 
+            (The Hadestown concerts listed in the Hadestown sections remain for general trade through me.)
+          </div>
+
+          <p class="h3">Concerts</p>
+          <p>
+            <i>
+              Items on this page are a complete mess. I tried to sort them and failed, but it's a short enough
+              list that I suppose it's fine.
+            </i>
+          </p>
         </div>
+
+        <div id=concerts></div>
       </div>
   </body>
   

@@ -13,13 +13,17 @@ body {
 }
 
 /* Custom */
-.nonp {
-  font-style: italic;
-  text-decoration: underline;
+.name {
+  font-weight: bold;
 }
 
 .nft {
   color: red;
+}
+
+.nonp {
+  font-style: italic;
+  text-decoration: underline;
 }
 
 .reviews {
