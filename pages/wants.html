@@ -1,0 +1,55 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/static/css/style.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/static/js/bootstrap.bundle.min.js"></script>
+  
+      <script type="text/javascript">
+        $(function() {
+            $('#navbar').load('/navbar.html');
+
+            $('#wants').load('/lists/wants/specific-wants.txt');
+            $('#upgrades').load('/lists/wants/upgrades.txt');
+        });
+      </script>  
+  </head>
+  
+  <body>
+      <div id=navbar></div>
+      <div class="container">
+        <div style="text-align:center;">
+            <p class="h3">General Wants</p>
+            <div class="row">
+                <div class="col-sm">
+                    <p class="h4">Shows</p>
+                        Hadestown (mostly pre-Broadway and/or with understudies)<br>
+                        Les Miserables<br>
+                        Phantom of the Opera<br>
+                </div>
+                <div class="col-sm">
+                    <p class="h4">Performers</p>
+                        Adam Jacobs as Simba (Lion King, 2011)<br>
+                        John Owen-Jones (especially in non-Valjean / Phantom roles)<br>
+                        Jeremy Secomb as Javert / Phantom<br>
+                </div>
+            </div>
+            <br>
+            <p><i>
+                Also currently curious about Ben Crawford's Javert, Shaq Taylor's Javert, and Luke McCall's Phantom.
+            </i></p>
+        </div>
+
+        <div style="text-align:center;">
+            <p class="h3">Specific Wants</p>
+        </div>
+        <div id=wants></div>
+
+        <div style="text-align:center;">
+            <p class="h3">Upgrades</p>
+        </div>
+        <div id=upgrades></div>
+      </div>
+  </body>
+  
