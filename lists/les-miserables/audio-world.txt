@@ -12,4 +12,11 @@ concept album performed in the production.<br><br>
 FORMAT:  MP3 (untracked)<br>
 CAST: Nehal Joshi (Jean Valjean), Edward Watts (Javert), Allison Blackwell (Fantine), Dorcas Leung (Cosette), 
 Justin Keyes (Marius), Elizabeth Judd (Éponine), John Campione (Enjolras), Steven Michael Walters (Thénardier), 
-Christia Mantzke (Madame Thénardier)
+Christia Mantzke (Madame Thénardier)<br><br>
+
+<span class="name">Brazil - December 10, 2017</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Daniel Diges (Jean Valjean), Nando Pradho (Javert), Kacau Gomes (Fantine), 
+Clara Verdier (Cosette), Filipe Bragança (Marius), Laura Lobo (Éponine), Pedro Caetano (Enjolras), 
+Ivan Parente (Thénardier), Andrezza Massei (Madame Thénardier), 
+Nicolas Cruz (Gavroche)

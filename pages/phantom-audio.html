@@ -14,6 +14,7 @@
           $('#london').load('/lists/phantom-of-the-opera/audio-london.txt');
           $('#bway').load('/lists/phantom-of-the-opera/audio-broadway.txt');
           $('#tours').load('/lists/phantom-of-the-opera/audio-tours.txt');
+          $('#world').load('/lists/phantom-of-the-opera/audio-world.txt');
       });
 
       function toggleAccordion() {
@@ -48,7 +49,7 @@
             <h2 class="mb-0">
               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#london-body" 
                       aria-expanded="false" aria-controls="london-body">
-                West End (26)
+                West End (29)
               </button>
             </h2>
           </div>
@@ -82,6 +83,20 @@
           </div>
           <div id="tours-body" class="collapse" aria-labelledby="tours-header">
             <div id="tours" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="world-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#world-body" 
+                      aria-expanded="false" aria-controls="world-body">
+                World (1)
+              </button>
+            </h2>
+          </div>
+          <div id="world-body" class="collapse" aria-labelledby="world-header">
+            <div id="world" class="card-body"></div>
           </div>
         </div>
 
