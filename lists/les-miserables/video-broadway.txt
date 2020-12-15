@@ -20,7 +20,7 @@ NOTES: Great picture and sound, nice filming. Good, clear zooms. Camera-person w
 so picture is grainy from being on maximum zoom.<br><br>
 
 <span class="name">Broadway - April 22, 2003</span><br>
-FORMAT:  VOB (no smalls) (SD) | TRADER’S NOTES: 3.00 GB<br>
+<span class="upgrade">FORMAT:  VOB (no smalls) (SD) [Seeking smalls.]</span> | TRADER’S NOTES: 3.00 GB.<br>
 CAST: <span class="nonp">Andrew Varela (u/s Jean Valjean)</span>, Terrence Mann (Javert), Jayne Paterson (Fantine), 
 Sandra Turley (Cosette), Kevin Kern (Marius), Diana Kaarina (Éponine), Christopher Mark Peterson (Enjolras)<br>
 NOTES: Includes the famous "drunk Stars" by Terry Mann. Watchable video, alright sound. A lot of heads and washouts, 
@@ -66,8 +66,8 @@ Ali Ewoldt (Cosette), Adam Jacobs (Marius), Marissa McGowan (Éponine), Max von 
 Gary Beach (Thénardier), Ann Harada (Madame Thénardier)<br><br>
 
 <span class="name">First Broadway Revival - August 24, 2007</span><br>
-FORMAT:  VOB (with smalls) (SD) | TRADER’S NOTES: 2nd act, third VOB seems to be corrupted (video jumps), 
-but it does play. Looking for an upgrade.<br>
+FORMAT:  VOB (with smalls) (SD) | 
+<span class="upgrade">TRADER’S NOTES: VTS_02_3.VOB seems to be corrupted (video jumps). Seeking upgrade.</span><br>
 CAST: Drew Sarich (Jean Valjean), Robert Hunt (Javert), <span class="nonp">Nikki Renée Daniels (u/s Fantine)</span>, 
 Ali Ewoldt (Cosette), Adam Jacobs (Marius), Megan McGinnis (Éponine), Max von Essen (Enjolras), Chip Zien (Thénardier), 
 <span class="nonp">Becca Ayers (u/s Madame Thénardier)</span>, Brian D'Addario (Gavroche)<br>

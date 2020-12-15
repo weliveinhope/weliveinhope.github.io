@@ -21,6 +21,7 @@ body {
   color: red;
 }
 
+/* For Non-Principles */
 .nonp {
   font-style: italic;
   text-decoration: underline;
@@ -29,4 +30,8 @@ body {
 .reviews {
   color: #BF965C;
   font-style: italic;
+}
+
+.upgrade {
+  color: red;
 }

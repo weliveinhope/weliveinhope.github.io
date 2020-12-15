@@ -61,7 +61,7 @@ but there are still some very beautiful zoom-ins. The camerawork is often very s
 lot of dropouts.<br><br>
 
 <span class="name">Broadway - March 9, 2013 (Matinee)</span><br>
-FORMAT:  VOB (no smalls) (SD) | TRADER’S NOTES: 2.11 GB<br>
+<span class="upgrade">FORMAT:  VOB (no smalls) (SD) [Seeking smalls.]</span> | TRADER’S NOTES: 2.11 GB<br>
 CAST: <span class="nonp">Jeremy Stolle (u/s The Phantom of the Opera)</span>, Samantha Hill (Christine Daaé), 
 <span class="nonp">Greg Mills (u/s Raoul)</span>, Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), 
 <span class="nonp">Richard Poole (u/s Monsieur André)</span>, Ellen Harvey (Madame Giry), 

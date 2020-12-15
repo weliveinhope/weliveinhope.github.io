@@ -59,7 +59,8 @@ Tom Lucas (Marius), Amanda Salmon (Éponine), David Malek (Enjolras),
 Georgina Leonidas (Little Cosette)<br><br>
 
 <span class="name">West End - October 30, 1999</span><br>
-FORMAT:  MP3 (tracked) |  TRADER'S NOTES: Missing "Master of the House" and "Castle on a Cloud."<br>
+FORMAT:  MP3 (tracked) |  
+<span class="upgrade">TRADER'S NOTES: Missing "Master of the House" and "Castle on a Cloud."</span><br>
 CAST: John Owen-Jones (Jean Valjean), Hal Fowler (Javert), <span class="nonp">Jody Butterworth (u/s Fantine)</span>, 
 Rebecca Vere (Cosette), <span class="nonp">Jason Nolan (u/s Marius)</span>, Amanda Salmon (Éponine), 
 David Malek (Enjolras), Cameron Blakely (Thénardier), Joanna Mays (Madame Thénardier)<br><br>
@@ -92,8 +93,9 @@ Simon Bowman as Marius, Claire Moore as Cosette, Frances Ruffelle and Jenna Russ
 Enjolras and Rosemary Ashe as Madame Thénardier.<br><br>
 
 <span class="name">West End - October 8, 2005</span><br>
-FORMAT:  WMA (tracked) |  TRADER'S NOTES: End of "Look Down" is corrupted. Missing "The Robbery / 
-Javert's Intervention."<br>
+FORMAT:  WMA (tracked) |  
+<span class="upgrade">TRADER'S NOTES: End of "Look Down" is corrupted. Missing "The Robbery / 
+Javert's Intervention."</span><br>
 CAST: John Owen-Jones (Jean Valjean), Cornell John (Javert), Kerry Ellis (Fantine), Julia Möller (Cosette), 
 Hayden Tee (Marius), Shonagh Daly (Éponine), Shaun Escoffery (Enjolras), Barry James (Thénardier), 
 Claire Moore (Madame Thénardier), Jeff Nicholson (Grantaire)<br>
@@ -263,7 +265,9 @@ NOTES: Courtney's Eponine debut.<br>
 <span class="reviews">A. Nice quality audio.</span><br><br>
 
 <span class="name">West End - April 11, 2016 (Haunts&Hurts's master)</span><br>
-FORMAT:  M4A (tracked) |  TRADER'S NOTES: Missing "The Confrontation." And also a lot of Act II.<br>
+FORMAT:  M4A (tracked) |  
+<span class="upgrade">TRADER'S NOTES: Missing "The Confrontation." And also a lot of Act II.
+Seeking complete files; do not request.</span><br>
 CAST: Peter Lockyer (Jean Valjean), Jeremy Secomb (Javert), Patrice Tipoki (Fantine), Zoe Doano (Cosette), 
 Craig Mather (Marius), Eva Noblezada (Éponine), Bradley Jaden (Enjolras), 
 <span class="nonp">Adam Pearce (u/s Thénardier)</span>, 
