@@ -4,11 +4,6 @@
   
     <link rel="stylesheet" href="/static/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/static/css/style.css"/>
-    <style>
-      .h3 {
-        padding-top: 0px;
-      }
-    </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="/static/js/bootstrap.bundle.min.js"></script>
   
@@ -17,6 +12,7 @@
             $('#navbar').load('/navbar.html');
 
             $('#concerts').load('/lists/concerts.txt');
+            $('#plays').load('/lists/plays.txt');
         });
       </script>  
   </head>
@@ -26,7 +22,7 @@
       <div class="container">
         <div style="text-align:center;">
           <div class="alert alert-info" role="alert">
-            These are listed more for my sake than anything else. I will only trade these for other concerts. 
+            Concerts are listed more for my sake than anything else. I will only trade them only for other concerts. 
             (The Hadestown concerts listed in the Hadestown sections remain for general trade through me.)
           </div>
 
@@ -38,8 +34,12 @@
             </i>
           </p>
         </div>
-
         <div id=concerts></div>
+
+        <div>
+          <p class="h3" style="text-align: center;">Plays</p>
+        </div>
+        <div id=plays></div>
       </div>
   </body>
   
