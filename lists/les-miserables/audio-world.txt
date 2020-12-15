@@ -19,4 +19,12 @@ FORMAT: MP3 (untracked)<br>
 CAST: Daniel Diges (Jean Valjean), Nando Pradho (Javert), Kacau Gomes (Fantine), 
 Clara Verdier (Cosette), Filipe Bragança (Marius), Laura Lobo (Éponine), Pedro Caetano (Enjolras), 
 Ivan Parente (Thénardier), Andrezza Massei (Madame Thénardier), 
-Nicolas Cruz (Gavroche)
+Nicolas Cruz (Gavroche)<br><br>
+
+<span class="name">Mexico - January 19, 2019 (17fortrade's master)</span><br>
+FORMAT: M4A (untracked)  |  NOT FOR SALE<br>
+CAST: <span class="nonp">Leo Wagner (u/s Jean Valjean)</span>, <span class="nonp">Manuel Gorka (u/s Javert)</span>, 
+Morena Valdes (Fantine), Agustin Arguello (Marius), Lina de La Peña (Cosette), Daiana Liparoli (Eponine), 
+Andres Elvira (Enjolras), Sergio Carranza (Thernardier), Michelle Rodriguez (Madame Thernardier), 
+<span class="nonp">Luis Carlos Villarreal (u/s Grantaire)</span>, Japhet Jaquim (Gavroche), 
+Fatima Colin (Little Cosette), Fernanda Ferruzca (Little Eponine)
