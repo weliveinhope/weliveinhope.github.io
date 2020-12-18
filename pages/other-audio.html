@@ -11,10 +11,12 @@
           $('#navbar').load('/navbar.html');
 
           // Shows
+          $('#aladdin').load('/lists/other-audio/aladdin.txt');
           $('#batb').load('/lists/other-audio/beauty-and-the-beast.txt');
           $('#cmiyc').load('/lists/other-audio/catch-me-if-you-can.txt');
           $('#carousel').load('/lists/other-audio/carousel.txt');
           $('#jekyll').load('/lists/other-audio/jekyll-and-hyde.txt');
+          $('#jcs').load('/lists/other-audio/jesus-christ-superstar.txt');
           $('#light-princess').load('/lists/other-audio/light-princess.txt');
           $('#lion-king').load('/lists/other-audio/lion-king.txt');
           $('#lnm').load('/lists/other-audio/little-night-music.txt');
@@ -54,6 +56,21 @@
       </div>
 
       <div class="accordion" id="accordion">
+
+        <div class="card">
+          <div class="card-header" id="aladdin-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#aladdin-body" 
+                      aria-expanded="false" aria-controls="aladdin-body">
+                Aladdin (2)
+              </button>
+            </h2>
+          </div>
+          <div id="aladdin-body" class="collapse" aria-labelledby="aladdin-header">
+            <div id="aladdin" class="card-body"></div>
+          </div>
+        </div>
+
         <div class="card">
           <div class="card-header" id="batb-header">
             <h2 class="mb-0">
@@ -107,6 +124,20 @@
           </div>
           <div id="jah-body" class="collapse" aria-labelledby="jah-header">
             <div id="jekyll" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="aladdin-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#jcs-body" 
+                      aria-expanded="false" aria-controls="jcs-body">
+                Jesus Christ Superstar (1)
+              </button>
+            </h2>
+          </div>
+          <div id="jcs-body" class="collapse" aria-labelledby="jcs-header">
+            <div id="jcs" class="card-body"></div>
           </div>
         </div>
 
@@ -185,7 +216,7 @@
             <h2 class="mb-0">
               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#sweeney-body" 
                       aria-expanded="false" aria-controls="sweeney-body">
-                Sweeney Todd (9)
+                Sweeney Todd (10)
               </button>
             </h2>
           </div>

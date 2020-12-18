@@ -1,3 +1,18 @@
+<span class="name">Adam Jacobs & Arielle Jacobs - Feinstein’s/54 Below - May 29, 2016</span><br>
+FORMAT: MP3 (tracked)<br>
+PERFORMERS: Adam Jacobs, Arielle Jacobs<br><br>
+
+<span class="name">Broadway to the Bay - Wales Millenium Center, Cardiff - October 25, 2015 
+(thefleestreetvicomte's master)</span><br>
+FORMAT:  MP3 (untracked)<br>
+PERFORMERS: Madalena Alberto, Shan Cothi, Kerry Ellis, Sophie Evans, Russel Grant, Ruthie Henshall, Lucie Jones, 
+John Owen-Jones, Rydian Roberts, Caroline Sheen, Tenors Of Rock, David Thaxon<br><br>
+
+<span class="name">Eva Noblezada: Ballad of a Broadway Twenty-Something - Green Room 42 - October 27, 2019 
+(Quarterintheslot's master)</span><br>
+FORMAT:​ M4A (untracked)<br>
+PERFORMERS: Eva Noblezada<br><br>
+
 <span class="name">Friday Night is Music Night: The Music of Rodgers and Hammerstein - Theatre Royal, London - 
 December 13, 2015</span><br>
 FORMAT: MP3 (untracked)<br>
@@ -8,6 +23,11 @@ FORMAT: MP4 (HD) / MP3 (untracked)<br>
 PERFORMERS: John Owen-Jones<br>
 NOTES: Incomplete video highlights (missing end of “This is the Moment,” “Thunderball,” and “Kiss of the Spiderwoman”). 
 Audio is complete, though I suspect it’s not the system audio.<br><br>
+
+<span class="name">A Night at the Musicals - Bangkok, Thailand - October 17, 2014 (pheelmysoulonphire's master)
+</span><br>
+FORMAT: MP3 (untracked)<br>
+PERFORMERS: Michael England, Leila Benn Harris, John Owen-Jones, and Bangkok Symphony Orchestra<br><br>
 
 <span class="name">One Night Stand - London - September 23, 2020</span><br>
 FORMAT: MP4 (HD) | <span class="nft">NFT: Video NFT through EOY, but willing to rip audio (system, 48000 kHz).
