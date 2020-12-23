@@ -11,10 +11,6 @@ West End - October 8, 2005<br>
 FORMAT:  WMA (tracked)<br>
 End of "Look Down" is corrupted. Missing "The Robbery / Javert's Intervention."<br><br>
 
-First Broadway Revival - August 24, 2007<br>
-FORMAT:  VOB (with smalls) (SD)<br>
-2nd act, third VOB seems to be corrupted (video jumps), but it does play. Looking for an upgrade.<br><br>
-
 West End - January 23, 2016<br>
 FORMAT: MP3 (tracked)<br>
 Missing "Castle on a Cloud."<br><br>
@@ -39,8 +35,4 @@ FORMAT:  VOB (no smalls) (SD)<br>
 <p class="h5" style="text-align:center;">Other</p>
 Aladdin - Denmark - October 17, 2012<br>
 FORMAT: MP3 (tracked)<br>
-Missing 2-19 Prince Ali (Sultan's Reprise)<br><br>
-
-Mamma Mia! - 2NT (Rockford, IL) - July 23, 2009 (SunsetBlvd79's master)<br>
-FORMAT: VOB (with smalls) (SD)<br>
-Missing VTS_02_01.VOB. Seeking missing file.
+Missing 2-19 Prince Ali (Sultan's Reprise)

@@ -232,6 +232,13 @@ CAST: Ramin Karimloo (Jean Valjean), Hadley Fraser (Javert), Caroline Sheen (Fan
 <span class="nonp">Scott Garnham (u/s Enjolras)</span>, Cameron Blakely (Thénardier), Katy Secombe (Madame Thénardier)
 <br><br>
 
+<span class="name">West End - June 16, 2012 (Darkness Stirs Trading's master)</span><br>
+FORMAT: AIFF (untracked)<br>
+CAST: David Shannon (Jean Valjean), Hadley Fraser (Javert), Caroline Sheen (Fantine), 
+Craig Mather (Marius), Lisa-Anne Wood (Cosette), Alexia Khadime (Éponine), Liam Tamne (Enjolras), 
+Cameron Blakeley (Thénardier), Katy Secombe (Madame Thénardier), Matt Lucas (Warnings)<br>
+NOTES: Last matinee for the 2011/2012 cast (muckup matinee).<br><br>
+
 <span class="name">West End - July 7, 2012 (cynicale's master)</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Gerónimo Rauch (Jean Valjean), Tam Mutu (Javert), Sierra Boggess (Fantine), Samantha Dorsey (Cosette), 
@@ -298,6 +305,14 @@ CAST: Peter Lockyer (Jean Valjean), <span class="nonp">Adam Pearce (u/s Javert)<
 <span class="nonp">Jessamy Stoddart (u/s Fantine)</span>, Zoe Doano (Cosette), Rob Houchen (Marius), 
 <span class="nonp">Emma Kingston (u/s Éponine)</span>, Bradley Jaden (Enjolras), 
 <span class="nonp">Ryan O'Gorman (u/s Thénardier)</span>, Katy Secombe (Madame Thénardier)<br><br>
+
+<span class="name">West End - February 24, 2016 (cynicale's master)</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: <span class="nonp">Adam Bayjou (alt Jean Valjean)</span>, Jeremy Secomb (Javert), Patrice Tipoki (Fantine), 
+Zoe Doano (Cosette), Craig Mather (Marius), Danielle Hope (Éponine), 
+<span class="nonp">Luke McCall (u/s Enjolras)</span>, Phil Daniels (Thénardier), Katy Secombe (Madame Thénardier), 
+Riley Bettie (Gavroche), Isabelle Burnham (Little Cosette), Jo Parsons (Grantaire), 
+<span class="nonp">Jo Parsons (u/s Factory Foreman)</span><br><br>
 
 <span class="name">West End - April 11, 2016 (Haunts&Hurts's master)</span><br>
 FORMAT:  M4A (tracked) |  
