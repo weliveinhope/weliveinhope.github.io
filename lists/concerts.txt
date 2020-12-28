@@ -6,7 +6,7 @@ PERFORMERS: Adam Jacobs, Arielle Jacobs<br><br>
 FORMAT: MP3 (untracked)<br>
 PERFORMERS: Michael Ball, Alfie Boe<br><br>
 
-<span class="name">Broadway Prince Party - Feinstein's/Below - October 17, 2016</span><br>
+<span class="name">Broadway Prince Party - Feinstein's/54 Below - October 17, 2016</span><br>
 FORMAT: MP3 (tracked)<br>
 PERFORMERS: Adam Jacobs, Derek Klena, Laura Osnes, Benjamin Rauhala, Joe Carroll, Matt Doyle, Max von Essen, 
 Drew Gehling, Raymond J. Lee, Kevin Massey, Nic Rouleau, Kirsten Scott, Matthew Scott, Ryan Silverman, James Snyder
@@ -23,6 +23,12 @@ but complete.<br><br>
 FORMAT:  MP3 (untracked)<br>
 PERFORMERS: Madalena Alberto, Shan Cothi, Kerry Ellis, Sophie Evans, Russel Grant, Ruthie Henshall, Lucie Jones, 
 John Owen-Jones, Rydian Roberts, Caroline Sheen, Tenors Of Rock, David Thaxton<br><br>
+
+<span class="name">A Christmas Card to Care Homes - Westminster Abbey Cloisters - December 23, 2020</span><br>
+FORMAT: MP4 (HD)<br>
+PERFORMERS: Lesley Garrett, John Owen-Jones<br>
+NOTES: Special live-recorded carol concert by Out to Perform designed for streaming to UK Care Homes and later made 
+temporarily available for free on-demand streaming.<br><br>
 
 <span class="name">Eva Noblezada: Ballad of a Broadway Twenty-Something - Green Room 42 - October 27, 2019 
 (Quarterintheslot's master)</span><br>
@@ -54,6 +60,12 @@ frames in places.<br><br>
 <span class="name">Sierra Boggess - Cadogan Hall, London - February 2, 2020 14:30 (TheatreDrive's master)</span><br>
 FORMAT: MP3 (untracked)<br>
 PERFORMERS: Sierra Boggess<br><br>
+
+<span class="name">Signature Care Homes: West End Concert - December 21, 2020
+</span><br>
+FORMAT: MP4 (SD)<br>
+PERFORMERS: Louise Dearman, Cassidy Janson, John Owen-Jones, Stephen Rahman-Hughes<br>
+NOTES: Free concert streamed for UK care homes and later made publicly available. 720p YouTube rip.<br><br>
 
 <span class="name">Theatre Channel, Episode 3 - London - November 27, 2020</span><br>
 FORMAT: MP4 (HD) | <span class="nft">NFT: Forever</span><br>
