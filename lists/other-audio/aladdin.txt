@@ -1,28 +1,72 @@
-<span class="name">Denmark - October 17, 2012</span><br>
-FORMAT:  MP3 (tracked) | <span class="upgrade">TRADER'S NOTES: Missing 2-19 Prince Ali (Sultan's Reprise)</span><br>
-CAST: Johannes Nymark (Aladdin), Maria Lucia Heiberg Rosenberg (Jasmine), Martin Loft (Jafar), 
-Pelle Emil Hebsgaard (Genie), Kim Leprevost (Sultan), Teit Samsø (Babkak), Kim Ace Nielsen (Kassim), 
-Kim Brandt (Iago), Max-Emil Nissen (Omar)<br><br>
-
-<span class="name">Hamburg, Germany - July 12, 2016</span><br>
+<p class="h5" style="text-align:center;">English Productions</p>
+<span class="name">Broadway - April 8, 2014</span><br>
 FORMAT: MP3 (untracked)<br>
-CAST: Alessio Impedovo (Aladdin), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), Enrico DePieri (Genie), 
-Claus Dam (Sultan), Tobias Weis (Babkak), Philip Hägeli (Kassim), Erik Minsk (Iago), Pedro Reichert (Omar), 
-Alessandro Cococcia (Prince Abdullah), Sophia Gorgi (Attendant), Kristina Love (Fortune Teller), Alex Bellinkx (Razoul)
-<br><br>
+CAST: Adam Jacobs (Aladdin), James Monroe Iglehart (Genie), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), 
+Brandon O'Neill (Kassim), Brian Gonzales (Babkak), Jonathan Scwartz (Omar), Don Darryl Rivera (Iago), 
+Clifton David (Sultan)<br>
+NOTES: Includes a BC/EFA speech by James Monroe Iglehart.<br><br>
+
+<span class="name">Broadway - June 19, 2014 (Matinee)</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Adam Jacobs (Aladdin), James Monroe Iglehart (Genie), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), 
+Brandon O'Neill (Kassim), Brian Gonzales (Babkak), Jonathan Schwartz (Omar), Don Darryl Rivera (Iago), 
+Clifton Davis (Sultan)<br><br>
+
+<span class="name">West End - June 29, 2016 (frei-und-schwerelos's master)</span><br>
+FORMAT: M4A (tracked)<br>
+CAST: Dean John-Wilson (Aladdin), Trevor Dion Nicholas (Genie), Jade Ewen (Jasmine), Don Gallagher (Jafar), 
+Stephen Rahman-Hughes (Kassim), Nathan Amzi (Babkak), <span class="nonp">Miles Barrow (u/s Omar)</span>, 
+Peter Howe (Iago), Irvine Iqbal (Sultan)<br><br>
+
+<span class="name">Broadway - March 5, 2017 (Matinee) (Autistic Jellicle Cat’s master)</span><br>
+FORMAT: WMA (untracked)<br>
+CAST: <span class="nonp">Rodney Ingram (u/s Aladdin)</span>, <span class="nonp">Deonte L Warren (s/b Genie)</span>, 
+Courtney Reed (Jasmine), Jonathan Freeman (Jafar), Nathan Lucrezio (Kassim), Brian Gonzales (Babkak), 
+Brad Weinstock (Omar), Don Darryl Rivera (Iago), <span class="nonp">James Moye (s/b Sultan)</span>, 
+Adam Hyndman (Prince Abdullah), Kathryn Allison (Fortune Teller), 
+<span class="nonp">Angelo Soriano (u/s Shop Owner)</span>, Dennis Stowe (Razoul)<br>
+NOTES: Master's Notes: Autism-Friendly performance. Rodney Ingram's last before leaving for Phantom, and only known 
+recording of him in the role.* The boy sitting next to me shouts enthusiastically quite often. Right after Friend Like 
+Me, Deonte acknowledged said boy who stood up and danced during the tap sequence, saying "thanks for dancing with us."
+<br>*Rodney Ingram later returned to Broadway in 2020 as t/r Aladdin, of which audios and videos exist.<br><br>
 
 <span class="name">First National Tour (Chicago, IL) - April 22, 2017 (Matinee) (Today4UTomorrow4Netflix's master)
 </span><br>
 FORMAT: MP3 (untracked)<br>
-CAST: Adam Jacobs (Aladdin), Isabelle McCalla (Jasmine), Anthony Murphy (Genie), Jonathan Weir (Jafar), 
-Reggie De Leon (Iago), Philippe Arroyo (Omar), Zach Bencal (Babkak), Mike Longo (Kassim), JC Montgomery (Sultan)<br><br>
+CAST: Adam Jacobs (Aladdin), Anthony Murphy (Genie), Isabelle McCalla (Jasmine), Jonathan Weir (Jafar), 
+Mike Longo (Kassim), Zach Bencal (Babkak), Philippe Arroyo (Omar), Reggie De Leon (Iago), JC Montgomery (Sultan)<br><br>
 
-<span class="name">Perth, Australia - September 21, 2018</span><br>
+<span class="name">West End - May, 2017</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Dean John-Wilson (Aladdin), Trevor Dion Nicholas (Genie), <span class="nonp">Lauren Chia (u/s Jasmine)</span>, 
+Don Gallagher (Jafar), Stephen Rahman-Hughes (Kassim), Nathan Amzi (Babkak), Rachid Sabitri (Omar), 
+<span class="nonp">Seng Henk Goh (u/s Iago)</span>, Irvine Iqbal (Sultan)<br><br>
+
+<span class="name">First National Tour (Los Angeles, CA) - January 17, 2018 (Token Goat's master)</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Adam Jacobs (Aladdin), Michael James Scott (Genie), Courtney Reed (Jasmine), Jonathan Weir (Jafar), 
+Mike Longo (Kassim), Zach Bencal (Babkak), Philippe Arroyo (Omar), Reggie De Leon (Iago), JC Montgomery (Sultan)<br><br>
+
+<span class="name">Australasian Tour (Perth) - September 21, 2018</span><br>
 FORMAT: M4A (untracked)<br>
-CAST: Ainsley Melham (Aladdin), Shubshri Kandiah (Jasmine), Adam Murphy (Jafar), Gareth Jacobs (Genie), 
-George Henare (Sultan), Troy Sussman (Babkak), Aljin Abella (Iago), Adam Di Martino (Omar)<br><br>
+CAST: Ainsley Melham (Aladdin), Gareth Jacobs (Genie), Shubshri Kandiah (Jasmine), Adam Murphy (Jafar), 
+Troy Sussman (Babkak), Adam Di Martino (Omar), Aljin Abella (Iago), George Henare (Sultan)<br><br>
 
 <span class="name">First National Tour - August 6, 2019 (theatrecouple14's master)</span><br>
 FORMAT:  MP3 (untracked)<br>
-CAST: Clinton Greenspan (Aladdin), Kaenaonālani Kekoa (Jasmine), Jonathan Weir (Jafar), Major Attaway (Genie), 
-Zach Bencal (Babkak), Jed Feder (Kassim), Jay Paranada (Iago), Philippe Arroyo (Omar), Charles South (Prince Abdullah)
+CAST: Clinton Greenspan (Aladdin), Major Attaway (Genie), Kaenaonālani Kekoa (Jasmine), Jonathan Weir (Jafar), 
+Jed Feder (Kassim), Zach Bencal (Babkak), Philippe Arroyo (Omar), Jay Paranada (Iago), Charles South (Prince Abdullah)
+<br><br>
+
+<p class="h5" style="text-align:center;">Non-English Productions</p>
+<span class="name">Denmark - October 17, 2012</span><br>
+FORMAT:  MP3 (tracked) | <span class="upgrade">TRADER'S NOTES: Missing 2-19 Prince Ali (Sultan's Reprise)</span><br>
+CAST: Johannes Nymark (Aladdin), Pelle Emil Hebsgaard (Genie), Maria Lucia Heiberg Rosenberg (Jasmine), 
+Martin Loft (Jafar), Kim Ace Nielsen (Kassim), Teit Samsø (Babkak),  Max-Emil Nissen (Omar), 
+Kim Brandt (Iago), Kim Leprevost (Sultan)<br><br>
+
+<span class="name">Hamburg, Germany - July 12, 2016</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Alessio Impedovo (Aladdin), Enrico DePieri (Genie), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), 
+Philip Hägeli (Kassim), Tobias Weis (Babkak), Pedro Reichert (Omar), Erik Minsk (Iago), Claus Dam (Sultan), 
+Alessandro Cococcia (Prince Abdullah), Sophia Gorgi (Attendant), Kristina Love (Fortune Teller), Alex Bellinkx (Razoul)
