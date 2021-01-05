@@ -28,7 +28,7 @@ Adam Hyndman (Prince Abdullah), Kathryn Allison (Fortune Teller),
 NOTES: Master's Notes: Autism-Friendly performance. Rodney Ingram's last before leaving for Phantom, and only known 
 recording of him in the role.* The boy sitting next to me shouts enthusiastically quite often. Right after Friend Like 
 Me, Deonte acknowledged said boy who stood up and danced during the tap sequence, saying "thanks for dancing with us."
-<br>*Rodney Ingram later returned to Broadway in 2020 as t/r Aladdin, of which audios and videos exist.<br><br>
+<br><i>*Rodney Ingram later returned to Broadway in 2020 as t/r Aladdin, of which audios and videos exist.</i><br><br>
 
 <span class="name">First National Tour (Chicago, IL) - April 22, 2017 (Matinee) (Today4UTomorrow4Netflix's master)
 </span><br>
@@ -47,6 +47,12 @@ FORMAT: MP3 (untracked)<br>
 CAST: Adam Jacobs (Aladdin), Michael James Scott (Genie), Courtney Reed (Jasmine), Jonathan Weir (Jafar), 
 Mike Longo (Kassim), Zach Bencal (Babkak), Philippe Arroyo (Omar), Reggie De Leon (Iago), JC Montgomery (Sultan)<br><br>
 
+<span class="name">Australasian Tour (Brisbane) - March 4, 2018 (oneshortdaytodefygravity's master)</span><br>
+FORMAT: M4A (untracked)<br>
+CAST: <span class="nonp">Ben Gillespie (u/s Aladdin)</span>, Gareth Jacobs (Genie), Hiba Elchikhe (Jasmine), 
+<span class="nonp">Dean Vice (s/b Jafar)</span>, Adam-Jon Fiorentino (Kassim), Troy Sussman (Babkak), 
+Robert Tripolino (Omar), Aljin Abella (Iago), George Henare (Sultan)<br><br>
+
 <span class="name">Australasian Tour (Perth) - September 21, 2018</span><br>
 FORMAT: M4A (untracked)<br>
 CAST: Ainsley Melham (Aladdin), Gareth Jacobs (Genie), Shubshri Kandiah (Jasmine), Adam Murphy (Jafar), 
@@ -56,6 +62,16 @@ Troy Sussman (Babkak), Adam Di Martino (Omar), Aljin Abella (Iago), George Henar
 FORMAT:  MP3 (untracked)<br>
 CAST: Clinton Greenspan (Aladdin), Major Attaway (Genie), Kaenaonālani Kekoa (Jasmine), Jonathan Weir (Jafar), 
 Jed Feder (Kassim), Zach Bencal (Babkak), Philippe Arroyo (Omar), Jay Paranada (Iago), Charles South (Prince Abdullah)
+<br><br>
+
+<span class="name">First National Tour - January 19, 2020 (ManhattanLongLegs's master)</span><br>
+FORMAT: WAV (untracked)<br>
+CAST: Jonah Ho'okano (Aladdin), Korie Lee Blossey (Genie), Kaenaonālani Kekoa (Jasmine), Jonathan Weir (Jafar), 
+Colt Prattes (Kassim), Zach Bencal (Babkak), Ben Chavez (Omar), <span class="nonp">Michael Callahan (u/s Iago)</span>, 
+Jerald Vincent (Sultan), Xavier McKinnon (Prince Abdullah), Liv Symone (Attendant), 
+<span class="nonp">Orianna Hilliard (s/w Fortune Teller)</span>, Cameron Hobbs (Henchman), Erik Hernandez (Shop Owner), 
+Bobby Daye (Razoul), Albert Jennings, Allie Pizzo, Annie Wallace<br>
+NOTES: First known audio of the new Genie and Aladdin on tour. There's some rustling of the recording device in Act 2.
 <br><br>
 
 <p class="h5" style="text-align:center;">Non-English Productions</p>
@@ -70,3 +86,13 @@ FORMAT: MP3 (untracked)<br>
 CAST: Alessio Impedovo (Aladdin), Enrico DePieri (Genie), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), 
 Philip Hägeli (Kassim), Tobias Weis (Babkak), Pedro Reichert (Omar), Erik Minsk (Iago), Claus Dam (Sultan), 
 Alessandro Cococcia (Prince Abdullah), Sophia Gorgi (Attendant), Kristina Love (Fortune Teller), Alex Bellinkx (Razoul)
+<br><br>
+
+<span class="name">Hamburg, Germany - June 16, 2017 (kathismusicaltrading's master)</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Alessio Impedovo (Aladdin), Enrico De Pieri (Genie), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), 
+Al Cococcia (Kassim), Tobias Weis (Babkak), Pedro Reichert (Omar), Dave Mandell (Iago), Jochen Schmidtke (Sultan), 
+Patrick Robinson (Razoul), Samuel Hoi-Ming Chui (Prince Abdullah), Fabiana Denicolo (Fortune Teller/Attendant), 
+Laura Panzeri (Attendant), Kisha Howard (Attendant), Alex Snova, Terry Alfaro, Guillermo Martinez Ayala, 
+Taddeo Pellegrini, Gabriele Bruschi, James Douglas Mackie, Danilo Aiello, Richard Patrocinio, Mark van Beelen, 
+Andrew Waters, Rossella Contu, Kris Siekerman, Azzurra Adinolfi, Giulia Vazzoler
