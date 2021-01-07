@@ -345,6 +345,19 @@ CAST: Peter Lockyer (Jean Valjean), <span class="nonp">Adam Pearce (u/s Javert)<
 <span class="nonp">Emma Kingston (u/s Éponine)</span>, Bradley Jaden (Enjolras), 
 <span class="nonp">Ryan O'Gorman (u/s Thénardier)</span>, Katy Secombe (Madame Thénardier)<br><br>
 
+<span class="name">West End - February 13, 2016</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Peter Lockyer (Jean Valjean), <span class="nonp">Adam Pearce (u/s Javert)</span>, 
+<span class="nonp">Jessamy Stoddart (u/s Fantine)</span>, Zoe Doano (Cosette), Rob Houchen (Marius), 
+Carrie Hope Fletcher (Éponine), Bradley Jaden (Enjolras), <span class="nonp">Ryan O'Gorman (u/s Thénardier)</span>, 
+Katy Secombe (Madame Thénardier), Riley Bettie (Gavroche), Isabelle Burnham (Little Cosette), 
+Daisy Morley Fletcher (Young Éponine), <span class="nonp">Lee Van Geleen (u/s The Bishop)</span>, 
+Jo Parsons (Grantaire), Matthew Jeans (Combeferre), Luke McCall (Feuilly), Matthew Harvey (Courfeyrac), 
+Edd Campbell Bird (Jean Prouvaire), <span class="nonp">David Burnip (s/w Joly)</span>, Lee Van Geleen (Lesgles), 
+<span class="nonp">Oliver Brenin (s/w Babet)</span>, Adam Bayjou (Claquesous), Michael Riseley (Montparnasse), 
+Adam Bayjou (Factory Foreman), Joanna Loxton (Factory Girl), Sanne Den Besten (Crone), 
+<span class="nonp">Jordan Lee Davis (u/s Bamatabois)</span>, Edd Campbell Bird (Pimp)<br><br>
+
 <span class="name">West End - February 24, 2016 (cynicale's master)</span><br>
 FORMAT: MP3 (tracked)<br>
 CAST: <span class="nonp">Adam Bayjou (alt Jean Valjean)</span>, Jeremy Secomb (Javert), Patrice Tipoki (Fantine), 

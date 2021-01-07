@@ -75,4 +75,12 @@ FORMAT: MP3 (tracked)<br>
 CAST: Nick Cartell (Jean Valjean), Josh Davis (Javert), Mary Kate Moore (Fantine), 
 Jillian Butler (Cosette), Joshua Grosso (Marius), Emily Bautista (Éponine), Matt Shingledecker (Enjolras), 
 J Anthony Crane (Thénardier), Allison Guinn (Madame Thénardier), Sam Middleton (Gavroche), 
-Sophie Knapp (Little Cosette)
+Sophie Knapp (Little Cosette)<br><br>
+
+<span class="name">Fifth US Tour (Pittsburgh, PA) - November 30, 2019 (Matinee) (17fortrade's master)</span><br>
+FORMAT: M4A (untracked)<br>
+CAST: <span class="nonp">Andrew Maughan (u/s Jean Valjean)</span>, Josh Davis (Javert), Mary Kate Moore (Fantine), 
+Jillian Butler (Cosette), Joshua Grosso (Marius), Phoenix Best (Éponine), Matt Shingledecker (Enjolras), 
+Jimmy Smagula (Thénardier), Allison Guinn (Madame Thénardier), Robbie Crandall (Gavroche), 
+Mackenzie Mercer (Little Cosette), Annabel Cole (Young Éponine), 
+<span class="nonp">Monte J Howell (u/s The Bishop)</span>
