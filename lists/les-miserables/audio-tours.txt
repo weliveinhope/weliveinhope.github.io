@@ -1,17 +1,46 @@
-<span class="name">First UK Tour (Manchester) - April 25, 1992 (Soundboard's master)</span><br>
-FORMAT:  MP3 (tracked)<br>
-CAST: Jeff Leyton (Jean Valjean), Philip Quast (Javert), Ria Jones (Fantine), Fiona Sinnott (Cosette), 
-Mike Sterling (Marius), Meredith Braun (Éponine), Danny Coll (Enjolras), Tony Timberlake (Thénardier), 
-Louise Plowright (Madame Thénardier), Allan Hardman (Grantaire)<br>
-NOTES: Soundboard<br><br>
-
-<span class="name">Third US Tour (Washington, DC) - January 5, 2006</span><br>
+<p class="h5" style="text-align:center;">US Tours</p>
+<span class="name">Third National Tour (Washington, DC) - January 5, 2006</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Randal Keith (Jean Valjean), Robert Hunt (Javert), Joan Almedilla (Fantine), 
 <span class="nonp">Sierra Boggess (u/s Cosette)</span>, Adam Jacobs (Marius), Melissa Lyons (Éponine), 
 Victor Wallace (Enjolras), David McDonald (Thénardier), Jennifer Butt (Madame Thénardier), Austyn Myers (Gavroche), 
 Rachel Schier (Little Cosette)<br>
 NOTES: Only known audio of Sierra as Cosette. Also her first performance as Cosette.<br><br>
+
+<span class="name">Fourth National Tour - August 11, 2013 (Closing Night) (where is your red schaaaf's master)</span><br>
+FORMAT:  MP3 (tracked)<br>
+CAST: Peter Lockyer (Jean Valjean), Andrew Varela (Javert), Genevieve Leclerc (Fantine), Lauren Wiley (Cosette), 
+Devin Ilaw (Marius), Briana Carlson-Goodman (Éponine), Jason Forbach (Enjolras), Timothy Gulan (Thénardier), 
+Shawna Hamic (Madame Thénardier), Gaten Matarazzo (Gavroche), Ava Della Pietra (Little Cosette), 
+Erin Cearlock (Young Éponine), James Zannelli (The Bishop), Joseph Spieldenner (Grantaire), 
+Eric Van Tielen (Combeferre), Weston Wells Olson (Feuilly), John Brink (Courfeyrac), Matt McMahan (Jean Prouvaire), 
+Alan Shaw (Joly), Richard Todd Adams (Lesgles), James Zannelli (Babet), John Rapson (Claquesous), 
+Matt Rosell (Montparnasse), Richard Todd Adams (Factory Foreman), Jessica Keenan Wynn (Factory Girl), 
+John Rapson (Bamatabois)<br>
+NOTES: EASTER EGGS and NOTES included.<br><br>
+
+<span class="name">Fifth National Tour - July 4, 2018</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Nick Cartell (Jean Valjean), Josh Davis (Javert), Mary Kate Moore (Fantine), 
+Jillian Butler (Cosette), Joshua Grosso (Marius), Emily Bautista (Éponine), Matt Shingledecker (Enjolras), 
+J Anthony Crane (Thénardier), Allison Guinn (Madame Thénardier), Sam Middleton (Gavroche), 
+Sophie Knapp (Little Cosette)<br><br>
+
+<span class="name">Fifth National Tour (Pittsburgh, PA) - November 30, 2019 (Matinee) (17fortrade's master)</span><br>
+FORMAT: M4A (untracked)<br>
+CAST: <span class="nonp">Andrew Maughan (u/s Jean Valjean)</span>, Josh Davis (Javert), Mary Kate Moore (Fantine), 
+Jillian Butler (Cosette), Joshua Grosso (Marius), Phoenix Best (Éponine), Matt Shingledecker (Enjolras), 
+Jimmy Smagula (Thénardier), Allison Guinn (Madame Thénardier), Robbie Crandall (Gavroche), 
+Mackenzie Mercer (Little Cosette), Annabel Cole (Young Éponine), 
+<span class="nonp">Monte J Howell (u/s The Bishop)</span><br><br>
+
+<p class="h5" style="text-align:center;">UK Tours</p>
+<span class="name">First UK Tour (Manchester) - April 25, 1992 (Soundboard's master)</span><br>
+FORMAT:  MP3 (tracked)<br>
+CAST: Jeff Leyton (Jean Valjean), Philip Quast (Javert), Ria Jones (Fantine), Fiona Sinnott (Cosette), 
+Mike Sterling (Marius), Meredith Braun (Éponine), Danny Coll (Enjolras), Tony Timberlake (Thénardier), 
+Louise Plowright (Madame Thénardier), Allan Hardman (Grantaire)<br>
+NOTES: Soundboard<br><br>
 
 <span class="name">Third UK / 25th Anniversary Tour (Cardiff) - December 12, 2009 (Opening Night)</span><br>
 FORMAT:  MP3 (tracked)<br>
@@ -41,18 +70,7 @@ NOTES: RARE: Limited Trades The final performance of the 25th Anniversary UK tou
 Part of Cameron Macintosh's 'Weekend of Ultimate Misery', when both the West End and UK tour played performances in 
 London on the same day, followed by the 25th Anniversary performance at the O2 Arena a day later).<br><br>
 
-<span class="name">Fourth US Tour - August 11, 2013 (Closing Night) (where is your red schaaaf's master)</span><br>
-FORMAT:  MP3 (tracked)<br>
-CAST: Peter Lockyer (Jean Valjean), Andrew Varela (Javert), Genevieve Leclerc (Fantine), Lauren Wiley (Cosette), 
-Devin Ilaw (Marius), Briana Carlson-Goodman (Éponine), Jason Forbach (Enjolras), Timothy Gulan (Thénardier), 
-Shawna Hamic (Madame Thénardier), Gaten Matarazzo (Gavroche), Ava Della Pietra (Little Cosette), 
-Erin Cearlock (Young Éponine), James Zannelli (The Bishop), Joseph Spieldenner (Grantaire), 
-Eric Van Tielen (Combeferre), Weston Wells Olson (Feuilly), John Brink (Courfeyrac), Matt McMahan (Jean Prouvaire), 
-Alan Shaw (Joly), Richard Todd Adams (Lesgles), James Zannelli (Babet), John Rapson (Claquesous), 
-Matt Rosell (Montparnasse), Richard Todd Adams (Factory Foreman), Jessica Keenan Wynn (Factory Girl), 
-John Rapson (Bamatabois)<br>
-NOTES: EASTER EGGS and NOTES included.<br><br>
-
+<p class="h5" style="text-align:center;">Other</p>
 <span class="name">Asia Tour (Singapore) - July 20, 2016 (virginiachance's master)</span><br>
 FORMAT: MP3 (tracked)<br>
 CAST: Simon Gleeson (Jean Valjean), Earl Carpenter (Javert), <span class="nonp">Jessica Daley (u/s Fantine)</span>, 
@@ -68,19 +86,4 @@ Emily Langridge (Cosette), Paul Wilkins (Marius), Carrie Hope Fletcher (Éponine
 Peter Polycarpou (Thénardier), Jodie Prenger (Madame Thénardier), Colby Mulgrew (Gavroche), 
 Ena Vlasaliu (Little Cosette), Angel Bishop-Simon (Young Éponine), Adam Linstead (The Bishop), 
 Hugo Chiarella (Grantaire), Blake Erickson (Factory Foreman), Jessica Daley (Factory Girl), James Hume (Bamatabois)<br>
-<span class="reviews">A. Lovely recording, and the cast sounds so young!</span><br><br>
-
-<span class="name">Fifth US Tour - July 4, 2018</span><br>
-FORMAT: MP3 (tracked)<br>
-CAST: Nick Cartell (Jean Valjean), Josh Davis (Javert), Mary Kate Moore (Fantine), 
-Jillian Butler (Cosette), Joshua Grosso (Marius), Emily Bautista (Éponine), Matt Shingledecker (Enjolras), 
-J Anthony Crane (Thénardier), Allison Guinn (Madame Thénardier), Sam Middleton (Gavroche), 
-Sophie Knapp (Little Cosette)<br><br>
-
-<span class="name">Fifth US Tour (Pittsburgh, PA) - November 30, 2019 (Matinee) (17fortrade's master)</span><br>
-FORMAT: M4A (untracked)<br>
-CAST: <span class="nonp">Andrew Maughan (u/s Jean Valjean)</span>, Josh Davis (Javert), Mary Kate Moore (Fantine), 
-Jillian Butler (Cosette), Joshua Grosso (Marius), Phoenix Best (Éponine), Matt Shingledecker (Enjolras), 
-Jimmy Smagula (Thénardier), Allison Guinn (Madame Thénardier), Robbie Crandall (Gavroche), 
-Mackenzie Mercer (Little Cosette), Annabel Cole (Young Éponine), 
-<span class="nonp">Monte J Howell (u/s The Bishop)</span>
+<span class="reviews">A. Lovely recording, and the cast sounds so young!</span>
