@@ -10,4 +10,7 @@ FORMAT: MP3 (untracked)<br>
 CAST: Adam Jacobs (Simba), Syndee Winters (Nala), J. Anthony Crane (Scar), DIonne Randolph (Mufasa), 
 Tony Freeman (Zazu), Dusan Brown (Young Simba), Madai Monica Williams (Young Nala), Brenda Mhlongo (Rafiki), 
 Tryphena Wade (Sarabi), Nick Cordileone (Timon), Ben Lipitz (Pumbaa), Monica L. Patton (Shenzi), 
-<span class="nonp">Ian Yuri Gardner (u/s Banzai)</span>, Ben Roseberry (Ed)
+<span class="nonp">Ian Yuri Gardner (u/s Banzai)</span>, Ben Roseberry (Ed)<br>
+<span class="reviews">B-. The audio quality is actually quite nice, but there is persistent static in the left 
+channel (in both acts, but much more noticeable in Act II). Dual channel, so it's definitely able to be cleaned up if 
+you care to do so.</span>
