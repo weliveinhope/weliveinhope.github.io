@@ -1,4 +1,12 @@
 <p class="h5" style="text-align:center;">Pre-Broadway</p>
+<span class="name">Seattle - 2011 (MusicIsLiving's master)</span><br>
+FORMAT:  MP3 (tracked)<br>
+CAST: Adam Jacobs (Aladdin), James Monroe Iglehart (Genie), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), 
+Brandon O'Neill (Kassim), Brian Gonzales (Babkak), Andrew Keenan-Bolger (Omar), Don Darryl Rivera (Iago)<br>
+NOTES: Originally recorded by MusicIsLiving at 5th Avenue Theater in Seattle, Washington on June 26th, 2011 (Act 1) 
+and July 20th, 2011 (Act 2). Tracked and audio enhanced by libradude. Songs only.
+<br><br>
+
 <span class="name">Pre-Broadway / Toronto - November 9, 2013 (Matinee) (Souviens-Toi's master)</span><br>
 FORMAT: MP3 (tracked)<br>
 CAST: Adam Jacobs (Aladdin), James Monroe Iglehart (Genie), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), 
@@ -88,6 +96,11 @@ FORMAT: MP3 (tracked)<br>
 CAST: Dean John-Wilson (Aladdin), Trevor Dion Nicholas (Genie), <span class="nonp">Lauren Chia (u/s Jasmine)</span>, 
 Don Gallagher (Jafar), Stephen Rahman-Hughes (Kassim), Nathan Amzi (Babkak), Rachid Sabitri (Omar), 
 <span class="nonp">Seng Henk Goh (u/s Iago)</span>, Irvine Iqbal (Sultan)<br><br>
+
+<span class="name">West End - June 10, 2017 (MusicalLiveRecordings's master)</span><br>
+FORMAT:  M4A (untracked)<br>
+CAST: Matthew Croke (Aladdin), Trevor Dion Nicholas (Genie), Jade Ewen (Jasmine), Don Gallagher (Jafar), 
+Daniel de Bourg (Kassim), Leon Craig (Babkak), Miles Barrow (Omar), Nick Cavaliere (Iago), Irvine Iqbal (Sultan)<br><br>
 
 <p class="h5" style="text-align:center;">National Tour</p>
 <span class="name">First National Tour (Chicago, IL) - April 22, 2017 (Matinee) (Today4UTomorrow4Netflix's master)
