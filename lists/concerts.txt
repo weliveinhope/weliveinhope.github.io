@@ -52,7 +52,7 @@ FORMAT: MP3 (untracked)<br>
 PERFORMERS: Michael England, Leila Benn Harris, John Owen-Jones, and Bangkok Symphony Orchestra<br><br>
 
 <span class="name">One Night Stand - London - September 23, 2020</span><br>
-FORMAT: MP4 (HD) | <span class="nft">NFT: January 1, 2021</span><br>
+FORMAT: MP4 (HD)<br>
 PERFORMERS: John Owen-Jones, Rachel Tucker<br>
 NOTES: My screen capture of the live-streamed event. Continuous system sound, but the stream itself dropped 
 frames in places.<br><br>
@@ -63,7 +63,7 @@ PERFORMERS: Sierra Boggess<br><br>
 
 <span class="name">Signature Care Homes: West End Concert - December 21, 2020
 </span><br>
-FORMAT: MP4 (SD)<br>
+FORMAT: MP4 (SD) | TRADER'S NOTES: Gifted upon request.<br>
 PERFORMERS: Louise Dearman, Cassidy Janson, John Owen-Jones, Stephen Rahman-Hughes<br>
 NOTES: Free concert streamed for UK care homes and later made publicly available. 720p YouTube rip.<br><br>
 
