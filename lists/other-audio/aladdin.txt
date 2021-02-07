@@ -16,6 +16,13 @@ NOTES: Includes an announcement saying that the interval will be prolonged an ad
 technical difficulties.<br><br>
 
 <p class="h5" style="text-align:center;">Broadway</p>
+<span class="name">Broadway - February 27, 2014</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Adam Jacobs (Aladdin), James Monroe Iglehart (Genie), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), 
+Brandon O’Neill (Kassim), Brian Gonzales (Babkak), Jonathan Scwartz (Omar), 
+Don Darryl Rivera (Iago), Clifton Davis (Sultan)<br>
+NOTES: 2nd Preview!<br><br>
+
 <span class="name">Broadway - April 8, 2014</span><br>
 FORMAT: MP3 (untracked)<br>
 CAST: Adam Jacobs (Aladdin), James Monroe Iglehart (Genie), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), 
@@ -40,6 +47,13 @@ FORMAT: M4A (untracked)<br>
 CAST: Adam Jacobs (Aladdin), James Monroe Iglehart (Genie), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), 
 Steel Burkhardt (Kassim), Brian Gonzales (Babkak), Jonathan Schwartz (Omar), Don Darryl Rivera (Iago), 
 Merwin Foard (Sultan), Jaz Sealy (Prince Abdullah), Kathryn Allison (Fortune Teller)<br><br>
+
+<span class="name">Broadway - July 11, 2015 (Matinee)</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: <span class="nonp">Joshua Dela Cruz (u/s Aladdin)</span>, James Monroe Iglehart (Genie), 
+<span class="nonp">Tia Altinay (u/s Jasmine)</span>, Jonathan Freeman (Jafar), Steel Burkhardt (Kassim), 
+Brian Gonzales (Babak), Jonathan Schwartz (Omar), Don Darryl Rivera (Iago), Clifton Davis (Sultan), 
+<span class="nonp">Trent Saunders (u/s Razoul)</span><br><br>
 
 <span class="name">Broadway - March 6, 2016 (Matinee)</span><br>
 FORMAT: MP3, M4A, WAV (untracked) | TRADER'S NOTES: Four versions; all untracked. Two MP3, one M4A, one WAV. 
@@ -143,6 +157,14 @@ FORMAT: MP3 (untracked)<br>
 CAST: Adam Jacobs (Aladdin), Anthony Murphy (Genie), Isabelle McCalla (Jasmine), Jonathan Weir (Jafar), 
 Mike Longo (Kassim), Zach Bencal (Babkak), Philippe Arroyo (Omar), Reggie De Leon (Iago), JC Montgomery (Sultan)<br><br>
 
+<span class="name">First National Tour (San Francisco, CA) - November 24, 2017 (ElizaDeservedBetter's master)</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Adam Jacobs (Aladdin), <span class="nonp">Korie Lee Blossey (u/s Genie)</span>, Isabelle McCalla (Jasmine), 
+<span class="nonp">Adam Stevenson (u/s Jafar)</span>, Mike Longo (Kassim), Zach Bengal (Babkak), Philippe Arroyo (Omar), 
+Reggie De Leon (Iago), JC Montgomery (Sultan), Bobby Daye (Razoul), Jaz Sealey (Prince Abdullah), 
+Olivia Donalson (Fortune Teller)<br>
+NOTES: Clear audio recorded from the orchestra, includes Adam’s BC/EFA speech.<br><br>
+
 <span class="name">First National Tour (Los Angeles, CA) - January 17, 2018 (Token Goat's master)</span><br>
 FORMAT: MP3 (untracked)<br>
 CAST: Adam Jacobs (Aladdin), Michael James Scott (Genie), Courtney Reed (Jasmine), Jonathan Weir (Jafar), 
@@ -173,6 +195,15 @@ NOTES: First known audio of the new Genie and Aladdin on tour. There's some rust
 <br><br>
 
 <p class="h5" style="text-align:center;">Australasian Tour</p>
+<span class="name">Australasian Tour (Sydney) - September 1, 2016 (Evening) (thesepalacewalls's master)</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Ainsley Melham (Aladdin), Michael James Scott (Genie), Arielle Jacobs (Jasmine), Adam Murphy (Jafar), 
+Adam Jon Fiorentino (Kassim), Troy Sussman (Babkak), Robert Tripolino (Omar), 
+<span class="nonp">Ross Chisari (u/s Iago)</span>, George Henare (Sultan)<br>
+NOTES: Master's Notes: AMAZING! As Ross Chisari was on for Iago, his solo was cut during “Diamond in the Rough”. 
+Michael James Scott was singing off-beat all night, I am not sure if this was a creative decision he made, or because 
+he couldn’t hear himself. Amazing performance nonetheless.<br><br>
+
 <span class="name">Australasian Tour (Sydney) - November 26, 2016 (Forgotten-peggy's master)</span><br>
 FORMAT: MP3 (untracked)<br>
 CAST: <span class="nonp">Graeme Isaako (u/s Aladdin)</span>, Michael James Scott (Genie), Arielle Jacobs (Jasmine), 
