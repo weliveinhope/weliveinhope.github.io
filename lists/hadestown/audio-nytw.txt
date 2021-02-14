@@ -1,3 +1,14 @@
+<span class="name">NYTW (Previews) - May 15th 2016 (zedille's master)</span><br>
+FORMAT: MP3 (tracked) | <span class="upgrade">TRADER'S NOTES: Missing 2-19 (Doubt Comes In)</span><br>
+CAST: Damon Daunno (Orpheus), Nabiyah Be (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
+Chris Sullivan (Hermes), Jessie Shelton (Fate), Lulu Fall (Fate), Shaina Taub (Fate)<br>
+NOTES: Slight overload in ‘Chant II’ and some rustling due to dropping my recorder in ‘Wait for Me II’.<br><br>
+
+<span class="name">NYTW - May 28, 2016 (Matinee) (eriksmusicalhaven's master)</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Damon Daunno (Orpheus), Nabiyah Be (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
+Chris Sullivan (Hermes), Jessie Shelton (Fate), Lulu Fall (Fate), Shaina Taub (Fate)<br><br>
+
 <span class="name">NYTW - June 11, 2016</span><br>
 FORMAT:  MP3 (tracked)<br>
 CAST: Damon Daunno (Orpheus), Nabiyah Be (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
@@ -9,6 +20,12 @@ FORMAT:  MP3 (tracked)<br>
 CAST: Damon Daunno (Orpheus), Nabiyah Be (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 Chris Sullivan (Hermes), Lulu Fall (Fate), Jessie Shelton (Fate), Shaina Taub (Fate)<br>
 <span class="reviews">A.</span><br><br>
+
+<span class="name">NYTW - July 30, 2016 (Matinee) (bewareofitalics's master)</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Damon Daunno (Orpheus), Nabiyah Be (Eurydice), <span class="nonp">J. Bernard Calloway (u/s Hades)</span>, 
+Amber Gray (Persephone), <span class="nonp">Matt Saldivar (u/s Hermes)</span>, Lulu Fall (Fate), Jessie Shelton (Fate), 
+<span class="nonp">Erica Sweany (s/b Fate)</span><br><br>
 
 <span class="name">NYTW - July 31, 2016 (scaaahftrading's master)</span><br>
 FORMAT:  MP3 (tracked)<br>
