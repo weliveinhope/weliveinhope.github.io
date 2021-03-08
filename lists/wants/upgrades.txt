@@ -35,4 +35,8 @@ FORMAT:  VOB (no smalls) (SD)<br>
 <p class="h5" style="text-align:center;">Other</p>
 Aladdin - Denmark - October 17, 2012<br>
 FORMAT: MP3 (tracked)<br>
-Missing 2-19 Prince Ali (Sultan's Reprise)
+Missing 2-19 Prince Ali (Sultan's Reprise)<br><br>
+
+Hadestown - NYTW (Previews) - May 15th 2016 (zedille's master)<br>
+FORMAT: MP3 (tracked)<br>
+Missing 2-19 (Doubt Comes In)<br>
