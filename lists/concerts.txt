@@ -3,7 +3,7 @@ FORMAT: MP3 (untracked)<br>
 PERFORMERS: Sierra Boggess, Cynthia Erivo, Ramin Karimloo, Yu Shirata<br><br>
 
 <span class="name">Adam Jacobs & Arielle Jacobs - Feinstein’s/54 Below - May 29, 2016</span><br>
-FORMAT: MP3 (tracked)<br>
+FORMAT: MP3 (tracked) | TRADER'S NOTES: YT audio rip. Gifted upon request.<br>
 PERFORMERS: Adam Jacobs, Arielle Jacobs<br><br>
 
 <span class="name">Ball and Boe - Glasglow - December 10, 2017</span><br>
@@ -11,7 +11,7 @@ FORMAT: MP3 (untracked)<br>
 PERFORMERS: Michael Ball, Alfie Boe<br><br>
 
 <span class="name">Broadway Prince Party - Feinstein's/54 Below - October 17, 2016</span><br>
-FORMAT: MP3 (tracked)<br>
+FORMAT: MP3 (tracked) | TRADER'S NOTES: YT audio rip. Gifted upon request.<br>
 PERFORMERS: Adam Jacobs, Derek Klena, Laura Osnes, Benjamin Rauhala, Joe Carroll, Matt Doyle, Max von Essen, 
 Drew Gehling, Raymond J. Lee, Kevin Massey, Nic Rouleau, Kirsten Scott, Matthew Scott, Ryan Silverman, James Snyder
 <br><br>
@@ -47,8 +47,8 @@ PERFORMERS: Rosalie Craig, Hadley Frasier, Tam Mutu, John Owen-Jones, Ron Raines
 <span class="name">John Owen-Jones: Leave a Light On - South Wales (John's Living Room?) - May 4, 2020</span><br>
 FORMAT: MP4 (HD) / MP3 (untracked)<br>
 PERFORMERS: John Owen-Jones<br>
-NOTES: Incomplete video highlights (missing end of “This is the Moment,” “Thunderball,” and “Kiss of the Spiderwoman”). 
-Audio is complete, though I suspect it’s not the system audio.<br><br>
+NOTES: Originally recorded on May 4, 2020 and restreamed on March 26, 2021. My full screen recording of the restream. 
+Audio is also complete and was recorded on initial release (there used to only be incomplete video highlights).<br><br>
 
 <span class="name">A Night at the Musicals - Bangkok, Thailand - October 17, 2014 (pheelmysoulonphire's master)
 </span><br>
