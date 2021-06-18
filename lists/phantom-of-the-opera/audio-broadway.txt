@@ -4,6 +4,11 @@ CAST: Steve Barton (The Phantom of the Opera), Rebecca Luker (Christine Daaé),
 <span class="nonp">Gary Lindemenn (u/s Raoul)</span><br>
 NOTES: Semi-tracked (more by sections than songs).<br><br>
 
+<span class="name">Broadway - June 16, 2003</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Hugh Panaro (The Phantom of the Opera), <span class="nonp">Adrienne McEwan (alt Christine Daaé)</span>, 
+John Cudia (Raoul)<br><br>
+
 <span class="name">Broadway - July 9, 2005</span><br>
 FORMAT: MP3 (tracked)<br>
 CAST: Hugh Panaro (The Phantom of the Opera), Julie Hanson (Christine Daaé), Tim Martin Gleason (Raoul), 
@@ -11,12 +16,20 @@ Janet Saia (Carlotta Giudicelli), Jeff Keller (Monsieur Firmin), George Lee Andr
 Marilyn Caskey (Madame Giry), Larry Wayne Morbitt (Ubaldo Piangi), Kara Klein (Meg Giry)<br>
 NOTES: Julie’s last performance.<br><br>
 
+<span class="name">Broadway - February 20, 2012</span><br>
+FORMAT: M4A (tracked)<br>
+CAST: Hugh Panaro (Phantom), <span class="nonp">Susan Owen (u/s Christine Daae)</span>, Kyle Barisich (Raoul)<br><br>
+
 <span class="name">Broadway - January 26, 2013</span><br>
 FORMAT:  M4A (tracked)<br>
 CAST: Hugh Panaro (The Phantom of the Opera), <span class="nonp">Sierra Boggess (t/r Christine Daaé)</span>, 
 Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), 
 Jim Weitzer (Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)<br>
 NOTES: 25th Broadway anniversary.<br><br>
+
+<span class="name">Broadway - April 6, 2013 (Matinee)</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Hugh Panaro (The Phantom of the Opera), Samantha Hill (Christine Daaé), Kyle Barisich (Raoul)<br><br>
 
 <span class="name">Broadway - January 26, 2014</span><br>
 FORMAT:  WAV (untracked)<br>

@@ -1,3 +1,14 @@
+<span class="name">Osaka, Japan - September 22, 1991</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Eiji Akutagawa (Phantom), Kyoko Suzuki (Christine Daae), Kanji Ishimaru (Raoul)<br><br>
+
+<span class="name">Antwerp, Belgium - June 2, 2000</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: Hans Peter Janssens (The Phantom of the Opera), Susanne Duwe (Christine Daaé), Michael Shawn Lewis (Raoul), 
+An Lauwereins (Carlotta Giudicelli), Ernst van Looy (Monsieur Firmin), Marc Meersman (Monsieur André), 
+Stephanie H Tschöppe (Madame Giry), William Lynn Dixon (Ubaldo Piangi)<br>
+NOTES: Final show in Belgium. Sometimes listed as July 2, 2000.<br><br>
+
 <span class="name">Seoul, South Korea - January 24, 2010</span><br>
 FORMAT: MP3 (untracked)<br>
 CAST: Yang Jun Mo (Phantom), Choi Hyun Ju (Christine Daaé), Hong Kwang Ho (Raoul)<br><br>
@@ -18,4 +29,12 @@ FORMAT: M4A (untracked)<br>
 CAST: <span class="nonp">Leonardo Neiva (alt The Phantom of the Opera)</span>, 
 <span class="nonp">Guilia Nadruz (alt Christine Daaé)</span>, Fred Silveira (Raoul), 
 Bete Diva (Carlotta Giudicelli), Sandro Christopher (Monsieur Firmin), Marcos Lanza (Monsieur André), 
-Taís Víera (Madame Giry), Cleyton Pulzi (Ubaldo Piangi), Fernanda Muniz (Meg Giry)
+Taís Víera (Madame Giry), Cleyton Pulzi (Ubaldo Piangi), Fernanda Muniz (Meg Giry)<br><br>
+
+<span class="name">Brazil Revival - February 13, 2019</span><br>
+FORMAT: MP3 (tracked)<br>
+CAST: <span class="nonp">Leonardo Neiva (alt The Phantom of the Opera)</span>, 
+<span class="nonp">Giulia Nadruz (alt Christine Daaé)</span>, Fred Silveira (Raoul), Bete Diva (Carlotta Giudicelli), 
+Sandro Christopher (Monsieur Firmin), Marcos Lanza (Monsieur André), Taís Víera (Madame Giry), 
+Cleyton Pulzi (Ubaldo Piangi), Fernanda Muniz (Meg Giry)<br>
+NOTES: Leonardo's final night.
