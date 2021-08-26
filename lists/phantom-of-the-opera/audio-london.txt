@@ -194,6 +194,16 @@ FORMAT:  MP3 (untracked) |  TRADER'S NOTES: Gifted upon request.<br>
 CAST: John Owen-Jones (The Phantom of the Opera), Celinde Schoenmaker (Christine Daaé), Nadim Naaman (Raoul)<br>
 NOTES: First performance for the 2015/2016 cast. Act I and Act II are separate files.<br><br>
 
+<span class="name">West End - December 12, 2015 (Matinee) (iklachomzwaartekracht's master)</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: John Owen-Jones (Phantom), Celinde Schoenmaker (Christine), Nadim Naaman (Raoul), 
+Charlotte Vaughan (Carlotta), Michael Matus (Fermin), Christopher Dickins (André), Jacinta Mulcahy (Madame Giry), 
+John Ellis (Piangi), Alicia Beck (Meg), Charlotte Baptie, Kieran Brown, Hadrian Delacey, Meshell Dillon, 
+Lyndsey Gardiner, Ryan Goscinski, Philip Griffiths, Keith Higham, Lizzie Holmes, Ellen Jackson, Tim Laurenti, 
+Rhidian Marc, Leo Miles, Tim Morgan, Paul Morrisey, Richard Munday, Joanna O’Hare, Simon Rackley, Ashley Stillburn, 
+Lisa-Anne Wood, Zoe Arshamian, Lily Howes, Daisy Hulbert, Fiona Morley, Danielle Pullum, Claire Tilling, Georgia Ware
+<br><br>
+
 <span class="name">West End - January 30, 2016 (terrencemann’s master)</span><br>
 FORMAT:  MP3 (untracked) | TRADER’S NOTES: Gifted upon request.<br>
 CAST: John Owen-Jones (The Phantom of the Opera), Celinde Schoenmaker (Christine Daaé), Nadim Naaman (Raoul)<br>
@@ -205,6 +215,14 @@ CAST: <span class="nonp">Jeremy Secomb (e/c The Phantom of the Opera)</span>, Ce
 <span class="nonp">Ashley Stillburn (u/s Raoul)</span>, Megan Llewellyn (Carlotta Giudicelli), 
 Michael Matus (Monsieur Firmin), Christopher Dickens (Monsieur André), Jacinta Mulcahy (Madame Giry), 
 John Ellis (Ubaldo Piangi), <span class="nonp">Daisy Hulbert (u/s Meg Giry)</span><br><br>
+
+<span class="name">West End - February 27, 2016 (Matinee) (iklachomzwaartekracht's master)</span><br>
+FORMAT: MP3 (untracked)<br>
+CAST: Scott Davies (Phantom), Emmi Christensson (Christine), Nadim Namaan (Raoul), Megan Llewellyn (Carlotta), 
+Tim Morgan (Firmin), Christopher Dickins (André), Jacinta Mulcahy (Madame Giry), John Ellis (Piangi), Alicia Beck (Meg), 
+Charlotte Baptie, Kieran Brown, Hadrian Delacey, Meshell Dillon, Lyndsey Gardiner, Ryan Goscinski, Philip Griffiths, 
+Keith Higham, Lizzie Holmes, Tim Laurenti, Rhidian Marc, Leo Miles, Paul Morrissey, Richard Munday, Joanna O’Hare, 
+Simon Rackley, Ashley Stillburn, Charlotte Vaughan, Lisa-Anne Wood<br><br>
 
 <span class="name">West End - October 1, 2016 (Matinee) (Winshi's master)</span><br>
 FORMAT:  MP3 (untracked)<br>
