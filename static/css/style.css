@@ -17,7 +17,15 @@ body {
   font-weight: bold;
 }
 
+.lt {
+  color: orange;
+}
+
 .nft {
+  color: red;
+}
+
+.upgrade {
   color: red;
 }
 
@@ -30,8 +38,4 @@ body {
 .reviews {
   color: #BF965C;
   font-style: italic;
-}
-
-.upgrade {
-  color: red;
 }
