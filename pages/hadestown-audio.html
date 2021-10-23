@@ -15,6 +15,7 @@
         $('#edmonton').load('/lists/hadestown/audio-edmonton.txt');
         $('#london').load('/lists/hadestown/audio-london.txt');
         $('#bway').load('/lists/hadestown/audio-broadway.txt');
+        $('#tours').load('/lists/hadestown/audio-tours.txt');
     });
 
     function toggleAccordion() {
@@ -92,12 +93,26 @@
           <h2 class="mb-0">
             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#bway-body" 
                     aria-expanded="false" aria-controls="bway-body">
-              Broadway (33)
+              Broadway (35)
             </button>
           </h2>
         </div>
         <div id="bway-body" class="collapse" aria-labelledby="bway-header">
           <div id="bway" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="tours-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#tours-body" 
+                    aria-expanded="false" aria-controls="tours-body">
+              US Tour (1)
+            </button>
+          </h2>
+        </div>
+        <div id="tours-body" class="collapse" aria-labelledby="tours-header">
+          <div id="tours" class="card-body"></div>
         </div>
       </div>
     </div> <!-- /accordian -->
