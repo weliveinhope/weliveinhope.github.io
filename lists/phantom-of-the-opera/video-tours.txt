@@ -74,7 +74,7 @@ NOTES: Four MP4 clips including Think of Me, The Mirror/Title Song, PONR, and th
 
 <p class="h5" style="text-align:center;">World Tours</p>
 <span class="name">World Tour (Australia) - April 22, 2008</span><br>
-FORMAT:  VOB (with smalls) (SD)<br>
+<span class="upgrade">FORMAT:  VOB (no smalls) (SD) [Seeking smalls.]</span> | TRADER'S NOTES: 5.11 GB.<br>
 CAST: <span class="nonp">Simon Pryce (u/s The Phantom of the Opera)</span>, Ana Marina (Christine Daaé), 
 Alexander Lewis (Raoul)<br><br>
 

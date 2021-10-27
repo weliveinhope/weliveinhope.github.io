@@ -16,6 +16,7 @@
         $('#london').load('/lists/hadestown/audio-london.txt');
         $('#bway').load('/lists/hadestown/audio-broadway.txt');
         $('#tours').load('/lists/hadestown/audio-tours.txt');
+        $('#world').load('/lists/hadestown/audio-world.txt');
     });
 
     function toggleAccordion() {
@@ -93,7 +94,7 @@
           <h2 class="mb-0">
             <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#bway-body" 
                     aria-expanded="false" aria-controls="bway-body">
-              Broadway (35)
+              Broadway (38)
             </button>
           </h2>
         </div>
@@ -113,6 +114,20 @@
         </div>
         <div id="tours-body" class="collapse" aria-labelledby="tours-header">
           <div id="tours" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="world-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#world-body" 
+                    aria-expanded="false" aria-controls="world-body">
+              World (2)
+            </button>
+          </h2>
+        </div>
+        <div id="world-body" class="collapse" aria-labelledby="world-header">
+          <div id="world" class="card-body"></div>
         </div>
       </div>
     </div> <!-- /accordian -->
