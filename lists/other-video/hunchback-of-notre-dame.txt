@@ -1,5 +1,5 @@
-<span class="name">La Jolla Playhouse - November 8, 2014 (SJ Bernly's master)</span><br>
-FORMAT:  VOB (with smalls) (SD)<br>
+<span class="name">La Jolla Playhouse | November 8, 2014 | SJ Bernly</span><br>
+FORMAT: VOB+ (7.5 GB)<br>
 CAST: Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), 
 Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), 
 Lucas Coleman (Jehan Frollo), William Michals (Father Dupin), Samantha Massell (Florika), 
@@ -9,21 +9,21 @@ beautifully. Michael and Ciara both give powerhouse performances. This is a perf
 obstruction, and just slight washout in some wide shots. It’s filmed in 16:9, with a mix of wides, mediums, and 
 close-ups. The sound is excellent. Includes curtain call and playbill scans.<br><br>
 
-<span class="name">Papermill Playhouse - April 2, 2015</span><br>
-FORMAT:  VOB (with smalls) (SD)<br>
+<span class="name">Papermill Playhouse | April 2, 2015</span><br>
+FORMAT: VOB+ (4.2 GB)<br>
 CAST: Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), 
 Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), 
 Jeremy Stolle (Jehan Frollo), Anise Ritchie, Beth Kirkpatrick, Dashaun Young, Ian Patrick Gibb, Joseph J Simeone, 
 Julian Decker, Neal Mayer, Nora Menken, Richard Ruiz, Samantha Massell, Vincent Rodriguez III, William Michals<br><br>
 
-<span class="name">Papermill Playhouse - April 5, 2015 (Closing Night)</span><br>
-FORMAT:  MPEG-2 (HD) |  TRADER'S NOTES: 12.8 GB<br>
+<span class="name">Papermill Playhouse | April 5, 2015 (Closing Night)</span><br>
+FORMAT: .mpg (1080p // 12.8 GB)<br>
 CAST: Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), 
 Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), 
 Jeremy Stolle (Jehan Frollo)<br><br>
 
-<span class="name">German Revival Tour - 2017 (Rumpel's master)</span><br>
-FORMAT:  VOB (with smalls) (SD)<br>
+<span class="name">German Revival Tour | 2017 | Rumpel</span><br>
+FORMAT: VOB+ (6.5 GB)<br>
 CAST: David Jakobs (Quasimodo), Sarah Bowden (Esmeralda), Felix Martin (Dom Claude Frollo), 
 Maximilian Mann (Captain Phoebus de Martin), <span class="nonp">Alexander Zamponi (alt Clopin Trouillefou)</span>, 
 Romeo Salazar (Saint Aphrodisius), <span class="nonp">Johannes Kiesler (s/w Jehan Frollo)</span>, 
@@ -31,8 +31,8 @@ Romeo Salazar (Saint Aphrodisius), <span class="nonp">Johannes Kiesler (s/w Jeha
 <span class="nonp">Kevin Köhler (s/w Lt. Frederic Charlus)</span>, 
 <span class="nonp">Jonas Hein (s/w King Louis XI)</span>, Wiebke Wötzel (Madam)<br><br>
 
-<span class="name">German Revival Tour - February 2019 (hitmewithyourbethshot's master)</span><br>
-FORMAT: MP4 (SD) | TRADER'S NOTES: 4.3 GB, 480p.<br>
+<span class="name">German Revival Tour | February 2019 | hitmewithyourbethshot</span><br>
+FORMAT: mp4 (480p // 4.3 GB)<br>
 CAST: Jonas Hein (Quasimodo), Mercedesz Csampai (Esmeralda), Felix Martin (Dom Claude Frollo), 
 Maximilian Mann (Captain Phoebus de Martin), Gavin Turnbull (Clopin Trouillefou), Romeo Salazar (Saint Aphrodisius), 
 Nico Schweers (Jehan Frollo), Thomas Schreier (Father Dupin), Lois van de Ven (Florika), 
