@@ -13,6 +13,8 @@
 
             // Lists
             $('#pre-nytw').load('/lists/hadestown/video-pre-nytw.txt');
+            $('#nytw').load('/lists/hadestown/video-nytw.txt');
+            $('#edmonton').load('/lists/hadestown/video-edmonton.txt');
             $('#london').load('/lists/hadestown/video-london.txt');
             $('#bway').load('/lists/hadestown/video-bway.txt');
             $('#tours').load('/lists/hadestown/video-tours.txt');
@@ -60,6 +62,34 @@
             </div>
 
             <div class="card">
+                <div class="card-header" id="nytw-header">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" 
+                            data-target="#nytw-body" aria-expanded="false" aria-controls="nytw-body">
+                            New York Theatre Workshop (1)
+                        </button>
+                    </h2>
+                </div>
+                <div id="nytw-body" class="collapse" aria-labelledby="nytw-header">
+                    <div id="nytw" class="card-body"></div>
+                </div>
+            </div>
+          
+            <div class="card">
+                <div class="card-header" id="edmonton-header">
+                <h2 class="mb-0">
+                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" 
+                            data-target="#edmonton-body" aria-expanded="false" aria-controls="edmonton-body">
+                    Edmonton (1)
+                    </button>
+                </h2>
+                </div>
+                <div id="edmonton-body" class="collapse" aria-labelledby="edmonton-header">
+                    <div id="edmonton" class="card-body"></div>
+                </div>
+            </div>
+
+            <div class="card">
                 <div class="card-header" id="london-header">
                     <h2 class="mb-0">
                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
@@ -78,7 +108,7 @@
                     <h2 class="mb-0">
                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                             data-target="#bway-body" aria-expanded="false" aria-controls="bway-body">
-                            Broadway (8)
+                            Broadway (10)
                         </button>
                     </h2>
                 </div>
@@ -92,7 +122,7 @@
                     <h2 class="mb-0">
                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                             data-target="#tours-body" aria-expanded="false" aria-controls="tours-body">
-                            Tours (3)
+                            Tours (4)
                         </button>
                     </h2>
                 </div>
