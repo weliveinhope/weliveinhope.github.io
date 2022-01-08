@@ -1,35 +1,33 @@
-<span class="name">Theatreworks - November 1, 2017</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Theatreworks | November 1, 2017</span><br>
+FORMAT: mp3 (untracked // 191 MB)<br>
 CAST: Diluckshan Jeyaratnam (Moses), Jason Gotay (Ramses), Julia Motyka (Miriam), Brennyn Lark (Tzipporah), 
 Paul-Jordan Jansen (Jethro), David Crane (Aaron), Tom Nelis (Seti), Christina Sajous (Queen Tuya), 
 Jamila Sabares-Klemm (Nefertari), Will Mann (Hotep), Ayelet Firstenberg (Yocheved)<br><br>
 
-<span class="name">West End - February 5, 2020 (Preview) (fleaswillbite's master)</span><br>
-FORMAT:  M4A (untracked)<br>
+<span class="name">West End, Previews | February 5, 2020 | fleaswillbite</span><br>
+FORMAT: m4a (untracked // 66 MB)<br>
 CAST: Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), 
 Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), 
 Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved)<br>
 NOTES: First preview.<br>
-<span class="reviews">A-. A strong first preview! Some dialogue differences from later showings. Some talking towards 
-the end of “When You Believe.”</span><br><br>
+<span class="reviews">A-. A strong first preview! Some dialogue differences from later showings.</span><br><br>
 
-<span class="name">West End - February 13, 2020 (Preview) (westendfreak's master)</span><br>
-FORMAT:  MP3 (tracked) |  TRADER'S NOTES: Also contains untracked audio.<br>
+<span class="name">West End, Previews | February 13, 2020 | westendfreak</span><br>
+FORMAT: mp3 (untracked // 58 MB), mp3 (tracked // 50 MB)<br>
 CAST: Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), 
 Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), 
 Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved)<br>
-NOTES: Tracked audio, quality A<br>
-<span class="reviews">A-. Audio is a little muffled. Some rustling by the master.</span><br><br>
+NOTES: Tracked audio, quality A<br><br>
 
-<span class="name">West End - March 4, 2020 (hi_im_joe's master)</span><br>
-FORMAT:  M4A (untracked)<br>
+<span class="name">West End | March 4, 2020 | hi_im_joe</span><br>
+FORMAT: m4a (untracked // 229 MB)<br>
 CAST: Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), 
 Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), 
 Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved)<br>
-<span class="reviews">A. Some minor rustling / conversation in places, but otherwise great audio.</span><br><br>
+<span class="reviews">A.</span><br><br>
 
-<span class="name">West End - March 13, 2020 (Matinee) (yeoldespacebuns's master)</span><br>
-FORMAT:  MP3 (untracked)<br>
+<span class="name">West End | March 13, 2020 (Matinee) | yeoldespacebuns</span><br>
+FORMAT: m4a (untracked // 103 MB)<br>
 CAST: <span class="nonp">Adam Filipe (u/s Moses)</span>, <span class="nonp">Sam Oladeinde (u/s Ramses)</span>, 
 Alexia Khadime (Miriam), Christine Allado (Tzipporah), Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), 
 Joe Dixon (Seti), Debbie Kurup (Queen Tuya), Tanisha Spring (Nefertari), Adam Pearce (Hotep), 
