@@ -1,57 +1,57 @@
-<span class="name">Osaka, Japan - September 22, 1991</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Osaka, Japan | September 22, 1991</span><br>
+FORMAT: mp3 (tracked // 145 MB)<br>
 CAST: Eiji Akutagawa (Phantom), Kyoko Suzuki (Christine Daae), Kanji Ishimaru (Raoul)<br><br>
 
-<span class="name">Antwerp, Belgium - June 2, 2000</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Antwerp, Belgium | June 2, 2000</span><br>
+FORMAT: mp3 (tracked // 179 MB)<br>
 CAST: Hans Peter Janssens (The Phantom of the Opera), Susanne Duwe (Christine Daaé), Michael Shawn Lewis (Raoul), 
 An Lauwereins (Carlotta Giudicelli), Ernst van Looy (Monsieur Firmin), Marc Meersman (Monsieur André), 
 Stephanie H Tschöppe (Madame Giry), William Lynn Dixon (Ubaldo Piangi)<br>
 NOTES: Final show in Belgium. Sometimes listed as July 2, 2000.<br><br>
 
-<span class="name">Seoul, South Korea - January 24, 2010</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Seoul, South Korea | January 24, 2010</span><br>
+FORMAT: mp3 (untracked // 124 MB)<br>
 CAST: Yang Jun Mo (Phantom), Choi Hyun Ju (Christine Daaé), Hong Kwang Ho (Raoul)<br><br>
 
-<span class="name">Seoul, South Korea - January 30, 2010</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Seoul, South Korea | January 30, 2010</span><br>
+FORMAT: mp3 (untracked // 60 MB)<br>
 CAST: Yoon Young Seok (Phantom), Kim So Hyun (Christine Daaé), Hong Kwang Ho (Raoul)<br><br>
 
-<span class="name">Moscow - October 4, 2015</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Moscow | October 4, 2015</span><br>
+FORMAT: mp3 (untracked // 122 MB)<br>
 CAST: <span class="nonp">Andrey Shkoldychenko (u/s The Phantom of the Opera)</span>, Tamara Kotova (Christine Daaé), 
 Evgeniy Zaytsev (Raoul), Irina Samoylova (Carlotta Giudicelli), Yuriy Mazikhin (Monsieur Firmin), 
 Aleksey Bobrov (Monsieur André), Elena Charkviani (Madame Giry), Oganes Gheorgian (Ubaldo Piangi), 
 <span class="nonp">Regina Akhmetshina (u/s Meg Giry)</span><br><br>
 
-<span class="name">Stockholm Revival - February 1, 2017</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Stockholm Revival | February 1, 2017</span><br>
+FORMAT: mp3 (untracked // 298 MB)<br>
 CAST: Peter Joback, Emmi Christensson, Anton Zetterholm, Karolina Andresson, Glenn Kjellberg, Rolf Lydhal, 
 Sindre Postholm, Sanna Martin, Tehilla Blad, David Ingham, Samuel Jarrick, Martin Kagemark, 
 John Martin Bengtsson<br><br>
 
-<span class="name">Gotheborg - January 26, 2018</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Gotheborg | January 26, 2018</span><br>
+FORMAT: MP3 (untracked // 184 MB)<br>
 CAST: Fred Johanson, Hanna Liina Vosa, John Martin Bengtsson, Hanna Leena Haapamaki, Dardan Bakraqi, David Lundqvist, 
 Anders Wangdhal, Lana Zuzic, Gisela Sjostedt, Lars Hijertner, Marco Stella, Tobja Halsell, Peter Loguin<br><br>
 
-<span class="name">Brazil - December 15, 2018</span><br>
-FORMAT: M4A (untracked)<br>
+<span class="name">Brazil | December 15, 2018</span><br>
+FORMAT: m4a (untracked // 128 MB)<br>
 CAST: <span class="nonp">Leonardo Neiva (alt The Phantom of the Opera)</span>, 
 <span class="nonp">Guilia Nadruz (alt Christine Daaé)</span>, Fred Silveira (Raoul), 
 Bete Diva (Carlotta Giudicelli), Sandro Christopher (Monsieur Firmin), Marcos Lanza (Monsieur André), 
 Taís Víera (Madame Giry), Cleyton Pulzi (Ubaldo Piangi), Fernanda Muniz (Meg Giry)<br><br>
 
-<span class="name">Brazil Revival - February 13, 2019</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Brazil Revival | February 13, 2019</span><br>
+FORMAT: mp3 (tracked // 306 MB)<br>
 CAST: <span class="nonp">Leonardo Neiva (alt The Phantom of the Opera)</span>, 
 <span class="nonp">Giulia Nadruz (alt Christine Daaé)</span>, Fred Silveira (Raoul), Bete Diva (Carlotta Giudicelli), 
 Sandro Christopher (Monsieur Firmin), Marcos Lanza (Monsieur André), Taís Víera (Madame Giry), 
 Cleyton Pulzi (Ubaldo Piangi), Fernanda Muniz (Meg Giry)<br>
 NOTES: Leonardo's final night.<br><br>
 
-<span class="name">Copenhagen (Second Revival) - February 13, 2019 (Phanasma's master)</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Copenhagen (Second Revival) | February 13, 2019 | Phanasma</span><br>
+FORMAT: MP3 (tracked // 310 MB)<br>
 CAST: Thomas Ambt Kofod (The Phantom of the Opera), Sibylle Glosted (Christine Daaé), Christian Lund (Raoul), 
 <span class="nonp">Anna Vaupel (alt Carlotta Giudicelli)</span>, 
 <span class="nonp">Martin Loft (u/s Monsieur Firmin)</span>, Sebastian Harris (Monsieur André), 
