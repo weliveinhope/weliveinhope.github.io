@@ -1,43 +1,44 @@
-<span class="name">Denmark - October 17, 2012</span><br>
-FORMAT:  MP3 (tracked) | <span class="upgrade">TRADER'S NOTES: Missing 2-19 Prince Ali (Sultan's Reprise)</span><br>
+<span class="name">Denmark | October 17, 2012</span><br>
+FORMAT: mp3 (tracked // 146 MB) | 
+<span class="upgrade">TRADER'S NOTES: Missing 2-19 Prince Ali (Sultan's Reprise)</span><br>
 CAST: Johannes Nymark (Aladdin), Pelle Emil Hebsgaard (Genie), Maria Lucia Heiberg Rosenberg (Jasmine), 
 Martin Loft (Jafar), Kim Ace Nielsen (Kassim), Teit Samsø (Babkak),  Max-Emil Nissen (Omar), 
 Kim Brandt (Iago), Kim Leprevost (Sultan)<br><br>
 
-<span class="name">Hamburg, Germany - January 24, 2016 (Matinee) (Diodenesofcatania's master)</span><br>
-FORMAT: M4A (tracked)<br>
+<span class="name">Hamburg, Germany | January 24, 2016 (Matinee) | Diodenesofcatania</span><br>
+FORMAT: m4a (tracked // 320 MB)<br>
 CAST: Richard-Salvador Wolff (Aladdin), <span class="nonp">Enrico DePieri (u/s Genie)</span>, 
 <span class="nonp">Sophia Gorgi (u/s Jasmine)</span>, Ethan Freeman (Jafar), Stefan Tolnai (Babkak), 
 Pedro Reichert (Omar), Erik Minsk (Iago), Sochen Schmidtke (Sultan)<br><br>
 
-<span class="name">Hamburg, Germany - March 18, 2016</span><br>
-FORMAT: MP3 (untracked) | <span class="upgrade">TRADER'S NOTES: With tracked highlights. 
-Missing Act 1 untracked and 1-09 (Diamond in the Rough).</span><br>
+<span class="name">Hamburg, Germany | March 18, 2016</span><br>
+FORMAT: mp3 (untracked // 52 MB), mp3 (tracked // 60 MB) | 
+<span class="upgrade">TRADER'S NOTES: Missing Act 1 untracked and 1-09 (Diamond in the Rough).</span><br>
 CAST: Richard-Salvador Wolff (Aladdin), Enrico DePieri (Genie), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), 
 Stefan Tolnai (Babkak), Erik Minsk (Iago), Pedro Reichert (Omar), Sochen Schmidtke (Sultan)<br>
-NOTES: The show is stopped during "Arabian Nights" due to technical difficulties.<br><br>
+NOTES: The show is stopped during "Arabian Nights" due to technical difficulties. Includes tracked highlights.<br><br>
 
-<span class="name">Hamburg, Germany - April 12, 2016</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Hamburg, Germany | April 12, 2016</span><br>
+FORMAT: mp3 (untracked // 123 MB)<br>
 CAST: Richard-Salvador Wolff (Aladdin), Enrico DePieri (Genie), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), 
 Philip Hägeli (Kassim), Stefan Tolnai (Babkak)<br><br>
 
-<span class="name">Hamburg, Germany - July 10, 2016</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Hamburg, Germany | July 10, 2016</span><br>
+FORMAT: mp3 (tracked // 241 MB)<br>
 CAST: <span class="nonp">Terry Alfrado (u/s Aladdin)</span>, <span class="nonp">Tobias Weis (u/s Genie)</span>, 
 Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), <span class="nonp">Mark van Beelen (u/s Babkak)</span>, 
 Philip Hägeli (Kassim), <span class="nonp">Richard Patrocinio (u/s Omar)</span>, Erik Minsk (Iago), Claus Dam (Sultan), 
 Alessandro Cococcia (Prince Abdullah), Kristina Love (Fortune Teller), Alex Bellinkx (Razoul)<br><br>
 
-<span class="name">Hamburg, Germany - July 12, 2016</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Hamburg, Germany | July 12, 2016</span><br>
+FORMAT: mp3 (untracked // 113 MB)<br>
 CAST: Alessio Impedovo (Aladdin), Enrico DePieri (Genie), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), 
 Philip Hägeli (Kassim), Tobias Weis (Babkak), Pedro Reichert (Omar), Erik Minsk (Iago), Claus Dam (Sultan), 
 Alessandro Cococcia (Prince Abdullah), Sophia Gorgi (Attendant), Kristina Love (Fortune Teller), Alex Bellinkx (Razoul)
 <br><br>
 
-<span class="name">Hamburg, Germany - June 16, 2017 (kathismusicaltrading's master)</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Hamburg, Germany | June 16, 2017 | kathismusicaltrading</span><br>
+FORMAT: mp3 (untracked // 80 MB)<br>
 CAST: Alessio Impedovo (Aladdin), Enrico De Pieri (Genie), Myrthes Monteiro (Jasmine), Ethan Freeman (Jafar), 
 Al Cococcia (Kassim), Tobias Weis (Babkak), Pedro Reichert (Omar), Dave Mandell (Iago), Jochen Schmidtke (Sultan), 
 Patrick Robinson (Razoul), Samuel Hoi-Ming Chui (Prince Abdullah), Fabiana Denicolo (Fortune Teller/Attendant), 
@@ -45,12 +46,12 @@ Laura Panzeri (Attendant), Kisha Howard (Attendant), Alex Snova, Terry Alfaro, G
 Taddeo Pellegrini, Gabriele Bruschi, James Douglas Mackie, Danilo Aiello, Richard Patrocinio, Mark van Beelen, 
 Andrew Waters, Rossella Contu, Kris Siekerman, Azzurra Adinolfi, Giulia Vazzoler<br><br>
 
-<span class="name">Tokyo, Japan - August 10, 2020</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Tokyo, Japan | August 10, 2020</span><br>
+FORMAT: mp3 (untracked // 195 MB)<br>
 CAST: Tokiya Ganbara (Aladdin), Mitsuyuki Doguchi (Genie), Azusa Hirata (Jasmine), Takeshi Teshigawara (Jafar)<br><br>
 
-<span class="name">Scheveningen, NL - November 4, 2021 (Iguesscallmedennis's master)</span><br>
-FORMAT: M4A (untracked)<br>
+<span class="name">Scheveningen, NL | November 4, 2021 | Iguesscallmedennis</span><br>
+FORMAT: m4a (untracked // 306 MB)<br>
 CAST: Jonathan Vroege (Aladdin), Stanley Burleson (Genie), Keoma Aidhen (Jasmine), Roberto de Groot (Jafar), 
 Florian Avoux (Babkak), Jermaine Faber (Kassim), Dave Rijnders (Omar), Darren van der Lek (Iago), 
 Michel Sorbach (Sultan)<br>
