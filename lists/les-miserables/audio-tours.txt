@@ -1,14 +1,14 @@
 <p class="h5" style="text-align:center;">US Tours</p>
-<span class="name">Third National Tour (Washington, DC) - January 5, 2006</span><br>
-FORMAT:  MP3 (tracked)<br>
+<span class="name">Third National Tour (Washington, DC) | January 5, 2006</span><br>
+FORMAT: mp3 (tracked // 142 MB)<br>
 CAST: Randal Keith (Jean Valjean), Robert Hunt (Javert), Joan Almedilla (Fantine), 
 <span class="nonp">Sierra Boggess (u/s Cosette)</span>, Adam Jacobs (Marius), Melissa Lyons (Éponine), 
 Victor Wallace (Enjolras), David McDonald (Thénardier), Jennifer Butt (Madame Thénardier), Austyn Myers (Gavroche), 
 Rachel Schier (Little Cosette)<br>
 NOTES: Only known audio of Sierra as Cosette. Also her first performance as Cosette.<br><br>
 
-<span class="name">Fourth National Tour (Cleveland, OH) – April 7, 2011</span><br>
-FORMAT: M4A (tracked)<br>
+<span class="name">Fourth National Tour (Cleveland, OH) | April 7, 2011</span><br>
+FORMAT: m4a (tracked // 307 MB)<br>
 CAST: Joe Tokarz (Jean Valjean), Andrew Varela (Javert), Betsy Morgan (Fantine), Jenny Latimer (Cosette), 
 Justin Scott Brown (Marius), Chasten Harmon (Éponine), Jeremy Hays (Enjolras), 
 <span class="nonp">John Rapson (u/s Thénardier)</span>, Shawna Hamic (Madame Thénardier), Colin DePaula (Gavroche), 
@@ -19,15 +19,15 @@ Ian Patrick Gibb (Jean Prouvaire), Alan Shaw (Joly), Richard Todd Adams (Lesgles
 <span class="nonp">Richard Barth (u/s Claquesous)</span>, Jon Fletcher (Montparnasse), 
 Richard Todd Adams (Factory Foreman), <span class="nonp">Cole Burden (u/s Bamatabois)</span><br><br>
 
-<span class="name">Fourth National Tour (Boise, ID) - September 23, 2012</span><br>
-FORMAT: WMA (untracked)<br>
+<span class="name">Fourth National Tour (Boise, ID) | September 23, 2012</span><br>
+FORMAT: wma (untracked // 104 MB)<br>
 CAST: <span class="nonp">John Brink (u/s Valjean)</span>, <span class="nonp">Richard Todd Adams (u/s Javert)</span>, 
 Betsy Morgan (Fantine), Jason Forbach (Enjolras), Max Quinlan (Marius), Briana Carlson-Goodman (Éponine), 
 Lauren Wiley (Cosette), Timothy Gulan (Thénardier), <span class="nonp">Beth Kirkpatrick (u/s Mme Thénardier)</span>, 
 Joseph Spieldenner (Grantaire)<br><br>
 
-<span class="name">Fourth National Tour - August 11, 2013 (Closing Night) (where is your red schaaaf's master)</span><br>
-FORMAT:  MP3 (tracked)<br>
+<span class="name">Fourth National Tour | August 11, 2013 (Closing Night) | where is your red schaaaf</span><br>
+FORMAT: mp3 (tracked // 168 MB)<br>
 CAST: Peter Lockyer (Jean Valjean), Andrew Varela (Javert), Genevieve Leclerc (Fantine), Lauren Wiley (Cosette), 
 Devin Ilaw (Marius), Briana Carlson-Goodman (Éponine), Jason Forbach (Enjolras), Timothy Gulan (Thénardier), 
 Shawna Hamic (Madame Thénardier), Gaten Matarazzo (Gavroche), Ava Della Pietra (Little Cosette), 
@@ -38,15 +38,15 @@ Matt Rosell (Montparnasse), Richard Todd Adams (Factory Foreman), Jessica Keenan
 John Rapson (Bamatabois)<br>
 NOTES: EASTER EGGS and NOTES included.<br><br>
 
-<span class="name">Fifth National Tour - July 4, 2018</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Fifth National Tour | July 4, 2018</span><br>
+FORMAT: mp3 (tracked // 362 MB)<br>
 CAST: Nick Cartell (Jean Valjean), Josh Davis (Javert), Mary Kate Moore (Fantine), 
 Jillian Butler (Cosette), Joshua Grosso (Marius), Emily Bautista (Éponine), Matt Shingledecker (Enjolras), 
 J Anthony Crane (Thénardier), Allison Guinn (Madame Thénardier), Sam Middleton (Gavroche), 
 Sophie Knapp (Little Cosette)<br><br>
 
-<span class="name">Fifth National Tour (Pittsburgh, PA) - November 30, 2019 (Matinee) (17fortrade's master)</span><br>
-FORMAT: M4A (untracked)<br>
+<span class="name">Fifth National Tour (Pittsburgh, PA) | November 30, 2019 (Matinee) | 17fortrade</span><br>
+FORMAT: m4a (untracked // 444 MB)<br>
 CAST: <span class="nonp">Andrew Maughan (u/s Jean Valjean)</span>, Josh Davis (Javert), Mary Kate Moore (Fantine), 
 Jillian Butler (Cosette), Joshua Grosso (Marius), Phoenix Best (Éponine), Matt Shingledecker (Enjolras), 
 Jimmy Smagula (Thénardier), Allison Guinn (Madame Thénardier), Robbie Crandall (Gavroche), 
@@ -61,15 +61,15 @@ Phoenix Best (Éponine), Matt Shingledecker (Enjolras), Jimmy Smagula (Thénardi
 <br><br>
 
 <p class="h5" style="text-align:center;">UK Tours</p>
-<span class="name">First UK Tour (Manchester) - April 25, 1992 (Soundboard's master)</span><br>
-FORMAT:  MP3 (tracked)<br>
+<span class="name">First UK Tour (Manchester) | April 25, 1992 | Soundboard</span><br>
+FORMAT: mp3 (tracked // 156 MB)<br>
 CAST: Jeff Leyton (Jean Valjean), Philip Quast (Javert), Ria Jones (Fantine), Fiona Sinnott (Cosette), 
 Mike Sterling (Marius), Meredith Braun (Éponine), Danny Coll (Enjolras), Tony Timberlake (Thénardier), 
 Louise Plowright (Madame Thénardier), Allan Hardman (Grantaire)<br>
 NOTES: Soundboard<br><br>
 
-<span class="name">Third UK / 25th Anniversary Tour (Cardiff) - December 12, 2009 (Opening Night)</span><br>
-FORMAT:  MP3 (tracked)<br>
+<span class="name">Third UK / 25th Anniversary Tour (Cardiff) | December 12, 2009 (Opening Night)</span><br>
+FORMAT: mp3 (tracked // 140 MB)<br>
 CAST: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), 
 Gareth Gates (Marius), Rosalind James (Éponine), Jon Robyns (Enjolras), Ashley Artus (Thénardier), 
 Lynne Wilmott (Madame Thénardier), Jamie Muscato (Jean Prouvaire)<br>
@@ -77,8 +77,8 @@ NOTES: Opening night. Rosalind flubs a line in On My Own.<br>
 <span class="reviews">B+. Bass is a little weak, and the orchestra is a bit loud compared to the singing but otherwise 
 pretty clear audio.</span><br><br>
 
-<span class="name">Third UK / 25th Anniversary Tour (Edinburgh) - May 13, 2010</span><br>
-FORMAT:  MP3 (tracked)<br>
+<span class="name">Third UK / 25th Anniversary Tour (Edinburgh) | May 13, 2010</span><br>
+FORMAT: mp3 (tracked // 138 MB)<br>
 CAST: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), 
 Gareth Gates (Marius), <span class="nonp">Rosa O'Reilly (u/s Éponine)</span>, 
 <span class="nonp">Christopher Jacobsen (u/s Enjolras)</span>, 
@@ -87,8 +87,8 @@ Jamie Muscato (Jean Prouvaire)<br>
 <span class="reviews">A. Great quality audio though some lines are very quiet (mic issue?). A decent amount of 
 background noise. I’m loving Jacobsen’s Enjolras.</span><br><br>
 
-<span class="name">Third UK / 25th Anniversary Tour (London) - October 2, 2010 (Closing Night)</span><br>
-FORMAT:  MP3 (untracked)<br>
+<span class="name">Third UK / 25th Anniversary Tour (London) | October 2, 2010 (Closing Night)</span><br>
+FORMAT: mp3 (untracked // 71 MB)<br>
 CAST: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), 
 Gareth Gates (Marius), Rosalind James (Éponine), Jon Robyns (Enjolras), Ashley Artus (Thénardier), 
 Lynne Wilmott (Madame Thénardier), Jamie Muscato (Jean Prouvaire)<br>
@@ -96,8 +96,8 @@ NOTES: The final performance of the 25th Anniversary UK touring company.
 Part of Cameron Macintosh's 'Weekend of Ultimate Misery', when both the West End and UK tour played performances in 
 London on the same day, followed by the 25th Anniversary performance at the O2 Arena a day later).<br><br>
 
-<span class="name">Fourth UK & Ireland Tour (Norwich) - March 11, 2020 (Quarryquest's master)</span><br>
-FORMAT:  MP3 (untracked)<br>
+<span class="name">Fourth UK & Ireland Tour (Norwich) | March 11, 2020 | Quarryquest</span><br>
+FORMAT: mp3 (untracked // 122 MB)<br>
 CAST: Dean Chisnall (Jean Valjean), Nic Greenshields (Javert), Katie Hall (Fantine), Charlie Burn (Cosette), 
 Felix Mosse (Marius), Frances Mayli McCann (Éponine), Barnaby Hughes (Enjolras), Ian Hughes (Thénardier), 
 Helen Walsh (Madame Thénardier), Aaron Pryce-Lewis (The Bishop), Connor Jones (Grantaire), 
@@ -108,16 +108,16 @@ Ebony Jonelle (Factory Girl), George Arvidson (Bamatabois), Emily Owens (Old Wom
 NOTES: Recorded by Quarryquest and released by songs-of-angry-men<br><br>
 
 <p class="h5" style="text-align:center;">Other</p>
-<span class="name">Asia Tour (Singapore) - July 20, 2016 (virginiachance's master)</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Asia Tour (Singapore) | July 20, 2016 | virginiachance</span><br>
+FORMAT: mp3 (tracked // 216 MB)<br>
 CAST: Simon Gleeson (Jean Valjean), Earl Carpenter (Javert), <span class="nonp">Jessica Daley (u/s Fantine)</span>, 
 Cameron Blakely (Thenardier), Helen Walsh (Madame Thenardier), Kerrie Anne Greenland (Eponine), 
 Emily Langridge (Cosette), Paul Wilkins (Marius), Chris Durling (Enjolras), Matt Harrop (The Bishop of Digne), 
 Hugo Chiarella (Grantaire), Sebastian Witt (Gavroche), Chloe De Los Santos (Little Cosette), James Hume (Bamatabois), 
 Blake Erickson (Factory Foreman), Adele Parkinson (Factory Girl), Mabel Tamone (Little Eponine)<br><br>
 
-<span class="name">Asia Tour (Dubai) - November 12, 2016</span><br>
-FORMAT:  MP3 (untracked)<br>
+<span class="name">Asia Tour (Dubai) | November 12, 2016</span><br>
+FORMAT: mp3 (untracked // 201 MB)<br>
 CAST: John Owen-Jones (Jean Valjean), <span class="nonp">Tamlyn Henderson (u/s Javert)</span>, Patrice Tipoki (Fantine), 
 Emily Langridge (Cosette), Paul Wilkins (Marius), Carrie Hope Fletcher (Éponine), Alistair Brammer (Enjolras), 
 Peter Polycarpou (Thénardier), Jodie Prenger (Madame Thénardier), Colby Mulgrew (Gavroche), 
