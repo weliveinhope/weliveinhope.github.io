@@ -1,5 +1,5 @@
-<span class="name">Paris - 1980 (Soundboard's master)</span><br>
-FORMAT:  MP3 (tracked)<br>
+<span class="name">Paris | 1980 | Soundboard</span><br>
+FORMAT: mp3 (tracked // 206 MB)<br>
 CAST: Maurice Barrier (Jean Valjean), Jean Vallée (Javert), Rose Laurens (Fantine), Fabienne Guyon (Cosette), 
 Gilles Buhlmann (Marius), Marianne Mille (Éponine), Christian Ratellin (Enjolras), Yvan Dautin (Thénardier), 
 Marie-France Roussel (Madame Thénardier), René-Louis Baron (Combeferre)<br>
@@ -8,21 +8,21 @@ NOTES: In September 1980, a stage version of Claude-Michel Schônberg and Alain 
 Paris. The show was a success, with 100 performances seen by over 500,000 people. Most of the cast from the 
 concept album performed in the production.<br><br>
 
-<span class="name">Argentina - 2000</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Argentina | 2000</span><br>
+FORMAT: mp3 (tracked // 120 MB)<br>
 CAST: Carlos Vittori (Jean Valjean), Juan Rodo (Javert), Elena Roger (Fantine), Silvia Luchetti (Cosette), 
 Zenón Recalde (Marius), Pili Artaza (Éponine), Ruben Roberts (Enjolras), Rodolfo Valss (Thénardier), 
 Liliana Parafioriti (Madame Thénardier)<br>
 NOTES: Soundboard.<br><br>
 
-<span class="name">Berlin, Germany - December 28, 2004</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Berlin, Germany | December 28, 2004</span><br>
+FORMAT: mp3 (tracked // 144 MB)<br>
 CAST: Olegg Vynnyk (Jean Valjean), Uwe Kröger (Javert), Ann Christin Elverum (Fantine), Mirjam Zipf (Cosette), 
 Tillmann Schnieders (Marius), <span class="nonp">Jana Stelley (u/s Éponine)</span>, Martin Pasching (Enjolras)<br>
 NOTES: Uwe’s last as Javert.<br><br>
 
-<span class="name">Liconlnshire, IL - April 18, 2008 (Evening)</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Liconlnshire, IL | April 18, 2008 (Evening)</span><br>
+FORMAT: mp3 (tracked // 132 MB)<br>
 CAST: John Cudia (Valjean), Richard Todd Adams (Javert), Kathy Voytko (Fantine), Patrick Cummings (Enjolras), 
 Chris Peluso (Marius), Leah Horowitz (Cosette), Anne Letscher (Eponine), Michael Accardo (Thenardier), 
 Catherine Smitko (Mme Thenardier), Elianna Kate Schnittman (Young Cosette), Arielle Leigh Dayan (Young Eponine), 
@@ -32,77 +32,77 @@ Matthew Schatz (Claquesous/Bahorel), John Campen (Grantaire), Kevin Barthel (Com
 Matthew Nicholson (Jean Prouvaire), Stephen Schellhardt (Courfeyrac), John Haas (Lesgle), Jonathan Levy (Joly), 
 Amy Arbizzani, Anna Eilinsfeld, Cory Goodrich, Catherine Lord, Abby Mueller, Empily Thompson<br><br>
 
-<span class="name">Copenhagen, Denmark - December 27, 2009 (cynicale's master)</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Copenhagen, Denmark | December 27, 2009 | cynicale</span><br>
+FORMAT: mp3 (tracked // 141 MB)<br>
 CAST: Thomas Ambt Kofod (Jean Valjean), Morten Staugaard (Javert), Sanna Johansson (Fantine), Mia Karlsson (Cosette), 
 Johannes Nymark (Marius), Frida Modén Treichl (Éponine), Kasper Le Fevre (Enjolras), Kim Hammelsvang (Thénardier), 
 Anne-Grethe Bjarup Riis (Madame Thénardier), Emil Jeppesen (Gavroche), Sarah Rachlitz (Little Cosette), 
 Daniel Bevensee (Grantaire)<br><br>
 
-<span class="name">Seoul, South Korea - April 23, 2013</span><br>
-FORMAT: M4A (untracked)<br>
+<span class="name">Seoul, South Korea | April 23, 2013</span><br>
+FORMAT: m4a (untracked // 80 MB)<br>
 CAST: 정성화 Jung Sung Hwa (Valjean), 문종원 Moon Jong Won (Javert), 임춘길 Im Choon Gil (Thenardier), 
 조정은 Jo Jung Eun (Fantine), 조상웅 Jo Sang Woong (Marius), 박지연 Park Ji Yeon (Eponine), 
 박준면 Park Joon Myeon (Mme. Thenardier), 
 김우형 Kim Woo Hyung (Enjolras) / <span class="nonp">박형규 Park Hyung Gyu (u/s Enjolras)</span>, 
 이지수 Lee Ji Soo (Cosette)<br><br>
 
-<span class="name">Seoul, South Korea - September 1, 2013</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Seoul, South Korea | September 1, 2013</span><br>
+FORMAT: mp3 (untracked // 123 MB)<br>
 CAST: 정성화 Jung Sung Hwa (Jean Valjean), 문종원 Moon Jong Won (Javert), 조정은 Jo Jung Eun (Fantine), 
 조상웅 Jo Sang Woong (Marius), 박지연 Park Ji Yeon (Eponine), 이지수 Lee Ji Soo (Cosette), 
 김우형 Kim Woo Hyung (Enjolras), 임춘길 Im Choon Gil (Thenardier), 박준면 Park Joon Myeon (Mme. Thenardier)<br>
 NOTES: Final performance of 2012-13 Korean Les Miserables production.<br><br>
 
-<span class="name">Dallas - July 10, 2014</span><br>
-FORMAT:  MP3 (untracked)<br>
+<span class="name">Dallas | July 10, 2014</span><br>
+FORMAT: mp3 (untracked // 378 MB)<br>
 CAST: Nehal Joshi (Jean Valjean), Edward Watts (Javert), Allison Blackwell (Fantine), Dorcas Leung (Cosette), 
 Justin Keyes (Marius), Elizabeth Judd (Éponine), John Campione (Enjolras), Steven Michael Walters (Thénardier), 
 Christia Mantzke (Madame Thénardier)<br><br>
 
-<span class="name">Seoul, South Korea - February 21, 2016</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Seoul, South Korea | February 21, 2016</span><br>
+FORMAT: mp3 (untracked // 144 MB)<br>
 CAST: 양준모 Yang Joon Mo (Valjean), 김준현 Kim Joon Hyun (Javert), 조정은 Jo Jung Eun (Fantine), 
 임기홍 Im Ki Hong (Thénardier), 박준면 Park Joon Myeon (Madame Thénardier), 박지연 Park Ji Yeon (Eponine), 
 윤소호 Yoon So Ho (Marius), 이하경 Lee Ha Kyung (Cosette), 민우혁 Min Woo Hyuk (Enjolras)<br><br>
 
-<span class="name">Sweden - June 22, 2016 (cynicale's master)</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Sweden | June 22, 2016 | cynicale</span><br>
+FORMAT: mp3 (tracked // 150 MB)<br>
 CAST: Christer Nerfont (Jean Valjean), Philip Jalmelid (Javert), Cecilie Nerfont Thorgersen (Fantine), 
 Kristin Lidström (Cosette), David Alvefjord (Marius), Kertin Hilldén (Éponine), Rikard Björk (Enjolras), 
 Jonas Schlyter (Thénardier), Jenny Norén (Madame Thénardier), Ville Danielsson Kihlström (Gavroche), 
 Linnéa Sjöstedt (Little Cosette), Björn Eduard (The Bishop), Isak Bendelin (Grantaire)<br>
-NOTES: Master Notes: Couldn't locate my recorder in time before leaving home, ended up just using my phone to record 
+NOTES: Couldn't locate my recorder in time before leaving home, ended up just using my phone to record 
 the show. Result is probably better anyway. My favourites in the cast are Javert, Marius, Cosette, Enjolras and 
 Thénardier... basically, the whole cast is really good and the vocal power of the ensemble is just incredible!<br><br>
 
-<span class="name">Norway - September 9, 2017 (cynicale's master)</span><br>
-FORMAT: MP3 (tracked)<br>
+<span class="name">Norway | September 9, 2017 | cynicale</span><br>
+FORMAT: mp3 (tracked // 147 MB)<br>
 CAST: André Søfteland (Jean Valjean), Hans Marius Hoff Mittet (Javert), 
 <span class="nonp">Karin Park (alt Fantine)</span>, <span class="nonp">Jenny Langlo (alt Cosette)</span>, 
 Lars Henrik Aarnes (Marius), Marion Ravn (Éponine), Andreas Hoff (Enjolras), Dennis Storhøi (Thénardier), 
 Mariann Hole (Madame Thénardier), Vilja Stensrud (Little Cosette), Håvard Bakke (The Bishop), Lasse Vermeli (Grantaire)
 <br>
-NOTES: Master's Notes: I adored Jenny Langlo's Cosette, and the student characters were also excellent! Javert was a 
+NOTES: I adored Jenny Langlo's Cosette, and the student characters were also excellent! Javert was a 
 highlight as well!<br><br>
 
-<span class="name">Brazil - December 10, 2017</span><br>
-FORMAT: MP3 (untracked)<br>
+<span class="name">Brazil | December 10, 2017</span><br>
+FORMAT: mp3 (untracked // 143 MB)<br>
 CAST: Daniel Diges (Jean Valjean), Nando Pradho (Javert), Kacau Gomes (Fantine), 
 Clara Verdier (Cosette), Filipe Bragança (Marius), Laura Lobo (Éponine), Pedro Caetano (Enjolras), 
 Ivan Parente (Thénardier), Andrezza Massei (Madame Thénardier), 
 Nicolas Cruz (Gavroche)<br><br>
 
-<span class="name">Mexico - January 19, 2019 (17fortrade's master)</span><br>
-FORMAT: M4A (untracked)  |  NOT FOR SALE<br>
+<span class="name">Mexico | January 19, 2019 | 17fortrade</span><br>
+FORMAT: m4a (untracked // 71 MB) | NOT FOR SALE<br>
 CAST: <span class="nonp">Leo Wagner (u/s Jean Valjean)</span>, <span class="nonp">Manuel Gorka (u/s Javert)</span>, 
 Morena Valdes (Fantine), Agustin Arguello (Marius), Lina de La Peña (Cosette), Daiana Liparoli (Eponine), 
 Andres Elvira (Enjolras), Sergio Carranza (Thernardier), Michelle Rodriguez (Madame Thernardier), 
 <span class="nonp">Luis Carlos Villarreal (u/s Grantaire)</span>, Japhet Jaquim (Gavroche), 
 Fatima Colin (Little Cosette), Fernanda Ferruzca (Little Eponine)<br><br>
 
-<span class="name">The Mack - November 6, 2021 (Matinee) (sitting-in-my-hotel's master)</span><br>
-FORMAT: M4A (untracked, tracked) | NOT FOR SALE<br>
+<span class="name">The Mack | November 6, 2021 (Matinee) | sitting-in-my-hotel</span><br>
+FORMAT: m4a (untracked // 74 MB), m4a (tracked // 218 MB), MOV (1080p // 17 MB) | NOT FOR SALE<br>
 CAST: Sam Malone (Jean Valjean), Dan Gill (Javert), Summer Priest (Fantine), Harry Goodson-Bevan (Marius), 
 Yazmin King (Eponine), Georgia Mann (Cosette), Timo Tatzber (Thenardier), Elspeth Day-Collins (Mme Thenardier), 
 Callum Glenford (Enjolras), Ewan Grant (Gavroche), Tiffany Tsang Ho Ching (Young Cosette), Ian Mclean (Grantaire), 
