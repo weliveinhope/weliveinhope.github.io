@@ -12,7 +12,6 @@
             $('#navbar').load('/navbar.html');
 
             $('#concerts').load('/lists/concerts.txt');
-            $('#plays').load('/lists/plays.txt');
         });
       </script>  
   </head>
@@ -20,43 +19,17 @@
   <body>
       <div id=navbar></div>
       <div class="container">
+        <div class="alert alert-info" role="alert">
+          Some filesizes aren't available. These are generally my screenrecordings of streamed events, and 
+          I'd ideally trim them and run them through Handbrake if I ever get around to doing so. These are denoted 
+          by [?].
+      </div>
+
         <div style="text-align:center;">
-          <!-- <div class="alert alert-info" role="alert">
-            Concerts on this page for trade only for other concerts (please support the artists, if at all possible). 
-            Plays, etc. remain for general trade.
-          </div> -->
-
           <p class="h3">Concerts</p>
-          <p>
-            <i>
-              Items on this page are a complete mess. I tried to sort them and failed, but it's a short enough
-              list that I suppose it's fine.
-            </i>
-          </p>
         </div>
+        
         <div id=concerts></div>
-
-        <div>
-          <p class="h3" style="text-align: center;">Plays</p>
-        </div>
-        <div id=plays></div>
-
-        <div>
-          <p class="h3" style="text-align: center;">Backing Tracks</p>
-        </div>
-        <div>
-          <span class="name">Jekyll and Hyde - MT Pit</span><br>
-          FORMAT: MP3 (tracked)<br>
-          NOTES: 47 tracks running 1:47:47.<br><br>
-
-          <span class="name">Les Miserables - 2018 Pit Recording (Alexiel de Ravenswood & The Ensemble of Alterra)</span><br>
-          FORMAT: M4A (tracked)<br>
-          NOTES: 21 tracks running 2:17:02.<br><br>
-
-          <span class="name">Phantom of the Opera - MT Pit</span><br>
-          FORMAT: MP3 (tracked)<br>
-          NOTES: 34 tracks running 1:55:04.
-        </div>
       </div>
   </body>
   
