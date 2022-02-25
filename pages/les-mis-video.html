@@ -13,9 +13,10 @@
 
         // Lists
         $('#london').load('/lists/les-miserables/video-london.txt');
+        $('#staged-concert').load('/lists/les-miserables/video-staged-concert.txt');
+        $('#london-new').load('/lists/les-miserables/video-london-revival.txt');
         $('#bway').load('/lists/les-miserables/video-broadway.txt');
         $('#tours').load('/lists/les-miserables/video-tours.txt');
-        $('#staged-concert').load('/lists/les-miserables/video-staged-concert.txt');
         $('#world').load('/lists/les-miserables/video-world.txt');
     });
 
@@ -71,6 +72,20 @@
         </div>
         <div id="staged-body" class="collapse" aria-labelledby="staged-header">
           <div id="staged-concert" class="card-body"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="london-new-header">
+          <h2 class="mb-0">
+            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" 
+                    data-target="#london-new-body" aria-expanded="false" aria-controls="london-new-body">
+              New London Production (1)
+            </button>
+          </h2>
+        </div>
+        <div id="london-new-body" class="collapse" aria-labelledby="london-new-header">
+          <div id="london-new" class="card-body"></div>
         </div>
       </div>
 
