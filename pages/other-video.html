@@ -23,6 +23,7 @@
           $('#frozen').load('/lists/other-video/frozen.txt');
           $('#hond').load('/lists/other-video/hunchback-of-notre-dame.txt');
           $('#itw').load('/lists/other-video/into-the-woods.txt');
+          $('#mermaid').load('/lists/other-video/little-mermaid.txt');
           $('#lsoh').load('/lists/other-video/little-shop-of-horrors.txt');
           $('#mamma-mia').load('/lists/other-video/mamma-mia.txt');
           $('#moulin').load('/lists/other-video/moulin-rouge.txt');
@@ -36,7 +37,6 @@
           $('#sweeney').load('/lists/other-video/sweeney-todd.txt');
           $('#tarzan').load('/lists/other-video/tarzan.txt');
           $('#waitress').load('/lists/other-video/waitress.txt');
-          $('#wicked').load('/lists/other-video/wicked.txt');
           $('#wild-party').load('/lists/other-video/wild-party-lachiusa.txt');
       });
 
@@ -223,6 +223,20 @@
         </div>
 
         <div class="card">
+          <div class="card-header" id="mermaid-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#mermaid-body" 
+                      aria-expanded="false" aria-controls="mermaid-body">
+                Little Mermaid (1)
+              </button>
+            </h2>
+          </div>
+          <div id="mermaid-body" class="collapse" aria-labelledby="mermaid-header">
+            <div id="mermaid" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
           <div class="card-header" id="lsoh-header">
             <h2 class="mb-0">
               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#lsoh-body" 
@@ -401,20 +415,6 @@
           </div>
           <div id="waitress-body" class="collapse" aria-labelledby="waitress-header">
             <div id="waitress" class="card-body"></div>
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-header" id="wicked-header">
-            <h2 class="mb-0">
-              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#wicked-body" 
-                      aria-expanded="false" aria-controls="wicked-body">
-                Wicked (14)
-              </button>
-            </h2>
-          </div>
-          <div id="wicked-body" class="collapse" aria-labelledby="wicked-header">
-            <div id="wicked" class="card-body"></div>
           </div>
         </div>
 
