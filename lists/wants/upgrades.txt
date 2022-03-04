@@ -1,46 +1,19 @@
-<p class="h5" style="text-align:center;">Les Miserables</p>
-Broadway - April 22, 2003<br>
-FORMAT:  VOB (no smalls) (SD)<br>
-3.00 GB. Seeking smalls / original files.<br><br>
+<p class="h5" style="text-align:center;">Missing Smalls</p>
+Les Miserables | Broadway | March 2, 2003 | Incomplete Disc 2 smalls.<br>
+Les Miserables | Broadway | April 22, 2003<br>
+Phantom of the Opera | West End | March 9, 2000<br>
+Phantom of the Opera | West End | February 4, 2006 | Highlights<br>
+Phantom of the Opera | Broadway | March 9, 2013 (Matinee)<br>
+Phantom of the Opera | World Tour (Australia) | April 22, 2008<br>
+Wicked | Broadway | March 8, 2009 | SJ Bernly<br><br>
 
-West End - October 30, 1999<br>
-FORMAT:  MP3 (tracked)<br>
-Missing "Master of the House" and "Castle on a Cloud."<br><br>
-
-West End - October 8, 2005<br>
-FORMAT:  WMA (tracked)<br>
-End of "Look Down" is corrupted. Missing "The Robbery / Javert's Intervention."<br><br>
-
-West End - January 23, 2016<br>
-FORMAT: MP3 (tracked)<br>
-Missing "Castle on a Cloud."<br><br>
-
-West End - April 11, 2016 (Haunts&Hurts's master)<br>
-FORMAT:  M4A (tracked)<br>
-Missing "The Confrontation." Also missing quite a few files from Act II (lots of repeat Act I tracks instead).<br><br>
-
-<p class="h5" style="text-align:center;">Phantom of the Opera</p>
-West End - March 9, 2000<br>
-FORMAT:  VOB (no smalls) (SD)<br>
-2.95 GB. Seeking smalls / original files.<br><br>
-
-West End - February 4, 2006 (Highlights)<br>
-FORMAT:  VOB (no smalls) (SD)<br>
-3.81 GB. Seeking smalls.<br><br>
-
-World Tour (Australia) - April 22, 2008<br>
-FORMAT:  VOB (no smalls) (SD)<br>
-5.11 GB. Seeking smalls.<br><br>
-
-Broadway - March 9, 2013 (Matinee)<br>
-FORMAT:  VOB (no smalls) (SD)<br>
-2.11 GB. Seeking smalls / original files.<br><br>
-
-<p class="h5" style="text-align:center;">Other</p>
-Aladdin - Denmark - October 17, 2012<br>
-FORMAT: MP3 (tracked)<br>
-Missing 2-19 Prince Ali (Sultan's Reprise)<br><br>
-
-Aladdin - Hamburg, Germany - March 18, 2016<br>
-FORMAT: MP3 (untracked)<br>
-Missing Act 1 untracked and 1-09 (Diamond in the Rough).
+<p class="h5" style="text-align:center;">Missing Files (Audios)</p>
+Aladdin | Denmark | October 17, 2012 | Missing 2-19 "Prince Ali (Sultan's Reprise)."<br>
+Aladdin | Hamburg, Germany | March 18, 2016 | Missing Act 1 Untracked, 1-09 (Diamond in the Rough).<br>
+Les Miserables | West End | October 30, 1999 | Missing "Master of the House" and "Castle on a Cloud."<br>
+Les Miserables | West End | October 8, 2005 | End of "Look Down" is corrupted. Missing "The Robbery / Javert's Intervention."<br>
+Les Miserables | West End | September 29, 2012 | Missing Track 11 "Who Am I?"<br>
+Les Miserables | West End | January 23, 2016 | Missing Track 13 "Castle on a Cloud."<br>
+Les Miserables | West End | April 11, 2016 | Haunts&Hurts | Missing "The Confrontation" and most of Act 2.<br>
+Les Miserables | Second Broadway Revival | March 30, 2014 | oydtrades | Missing Track 41 (Empty Chairs...).<br>
+Prince of Egypt | West End | October 18, 2021 | MozartWasCrazy | Missing about half of the tracked audio.

@@ -200,6 +200,18 @@ FORMAT: mp3 (untracked // 114 MB)<br>
 CAST: John Owen-Jones (The Phantom of the Opera), Celinde Schoenmaker (Christine Daaé), Nadim Naaman (Raoul)<br>
 NOTES: First performance for the 2015/2016 cast. Act I and Act II are separate files.<br><br>
 
+<span class="name">West End | October 3, 2015 | Winschi</span><br>
+FORMAT: mp3 (tracked // 116 MB)<br>
+CAST: John Owen-Jones (The Phantom of the Opera), <span class="nonp">Harriet Jones (e/c Christine Daaé)</span>, 
+Nadim Naaman (Raoul)<br><br>
+
+<span class="name">West End | November 2, 2015</span><br>
+FORMAT: m4a (untracked // 62 MB)<br>
+CAST: John Owen-Jones (The Phantom of the Opera), <span class="nonp">Emmi Christensson (alt Christine Daaé)</span>, 
+<span class="nonp">Ashley Stillburn (u/s Raoul)</span>, Megan Llewellyn (Carlotta Giudicelli), 
+Michael Matus (Monsieur Firmin), Christopher Dickins (Monsieur André), Jacinta Mulcahy (Madame Giry), 
+John Ellis (Ubaldo Piangi), Alicia Beck (Meg Giry)<br><br>
+
 <span class="name">West End | December 12, 2015 (Matinee) | iklachomzwaartekracht</span><br>
 FORMAT: mp3 (untracked // 85 MB)<br>
 CAST: John Owen-Jones (Phantom), Celinde Schoenmaker (Christine), Nadim Naaman (Raoul), 
