@@ -212,4 +212,37 @@ in any way. Some static-y noise during the recording, just how my phone reacted 
 <span class="name">National Tour (Philadelphia, PA) | February 20, 2022 (Evening) | WhatTradingCanDo</span><br>
 FORMAT: m4a (untracked // 59 MB)<br>
 CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
-Levi Kreis (Hermes), Belén Moyano (Fate) Bex Odoriso (Fate), Shea Renne (Fate)
+Levi Kreis (Hermes), Belén Moyano (Fate) Bex Odoriso (Fate), Shea Renne (Fate)<br><br>
+
+<span class="name">National Tour (Chicago, IL) | March 10, 2022 | ascoopatalamode</span><br>
+FORMAT: m4a (untracked // 361 MB), mov (1738p // 565 MB)<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
+Levi Kreis (Hermes), Belén Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), Lindsey Hailes (Workers’ Chorus), 
+Chibueze Ihuoma (Workers’ Chorus), Will Mann (Workers’ Chorus), Sydney Parra (Workers’ Chorus), 
+Jamari Johnson Williams (Workers’ Chorus)<br>
+NOTES: Recorded from the front row. Includes We Raise Our Cups, both audio and video.<br><br>
+
+<span class="name">National Tour (Chicago, IL) | March 12, 2022 (Matinee) | WhatTradingCanDo</span><br>
+FORMAT: m4a (untracked // 124 MB)<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Levi Kreis (Hermes), Kimberly Marable (Persephone), 
+Kevyn Morrow (Hades), Belén Moyano (Fate) Bex Odoriso (Fate), Shea Renne (Fate), Lindsay Hailes (Workers Chorus), 
+Chibueze Ihuoma (Workers Chorus), Will Mann (Workers Chorus), Sydney Parra (Workers Chorus), 
+<span class="nonp">Eddie Noel Rodríguez (s/w Workers Chorus)</span><br><br>
+
+<span class="mine">National Tour (Des Moines, IA) | March 25, 2022 | weliveinhope</span><br>
+FORMAT: m4a (untracked // 186 MB)<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
+Levi Kreis (Hermes), Belen Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), Lindsey Hailes, Will Mann, 
+Sydney Parra, <span class="nonp">Eddie Noel Rodriguez (s/w)</span>, Jamari Johnson Williams<br>
+NOTES: In honor of the supremely awkward lack of applause after Chant II, the extended notes now include 400 words 
+of bonus Kevyn appreciation. I may have gotten carried away.<br><br>
+
+<span class="mine">National Tour (Des Moines, IA) | March 26, 2022 (Matinee) | weliveinhope</span><br>
+FORMAT: m4a (untracked // 186 MB)<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
+Levi Kreis (Hermes), Belen Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), Lindsey Hailes, Chibueze Ihouma, 
+Will Mann, Sydney Parra, Jamari Johnson Williams<br>
+NOTES: During Epic III, Kevyn's flower falls out of his suit pocket, so instead of the second round of side-by-side 
+dancing and sending Persephone to run around Orpheus again, he picks it up, walks over, and offers it to her -- 
+arms outstretched, of course. It'd have been more romantic if he hadn't 100% stomped on it already. Kimberly spends 
+half of Promises stuffing it back in. Levi flubs a line in Way Down Hadestown.

@@ -1,0 +1,29 @@
+<head>
+    <meta name="robots" content="noindex, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/static/css/style.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/static/js/bootstrap.bundle.min.js"></script>
+  
+      <script type="text/javascript">
+        $(function() {
+            $('#navbar').load('/navbar.html');
+
+            $('#my-masters').load('/lists/my-masters.txt');
+        });
+      </script>  
+  </head>
+  
+  <body>
+      <div id=navbar></div>
+      <div class="container">
+        <div style="text-align:center;">
+          <p class="h3">Audio Masters</p>
+          <p><i>Items on this page sorted by reverse performance date.</i></p>
+        </div>
+        
+        <div id=my-masters></div>
+      </div>
+  </body>

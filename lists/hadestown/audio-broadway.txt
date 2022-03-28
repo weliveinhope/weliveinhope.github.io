@@ -127,8 +127,13 @@ FORMAT: m4a (untracked // 62 MB)<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)<br><br>
 
-<span class="name">Broadway | June 22, 2019 | ciaowhizzer</span><br>
+<span class="name">Broadway | June 22, 2019 | ciaowhizzer | VER1</span><br>
 FORMAT: m4a (untracked // 226 MB)<br>
+CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
+André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)<br><br>
+
+<span class="name">Broadway | June 22, 2019 | theatrecouple14 | VER2</span><br>
+FORMAT: mp3 (untracked // 299 MB)<br>
 CAST: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), 
 André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)<br><br>
 

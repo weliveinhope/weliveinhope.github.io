@@ -17,6 +17,11 @@ body {
   font-weight: bold;
 }
 
+.mine {
+  font-weight: bold;
+  color: #66023c;
+}
+
 .lt {
   color: orange;
 }
