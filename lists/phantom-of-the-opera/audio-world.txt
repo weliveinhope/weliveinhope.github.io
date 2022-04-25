@@ -55,4 +55,27 @@ FORMAT: MP3 (tracked // 310 MB)<br>
 CAST: Thomas Ambt Kofod (The Phantom of the Opera), Sibylle Glosted (Christine Daaé), Christian Lund (Raoul), 
 <span class="nonp">Anna Vaupel (alt Carlotta Giudicelli)</span>, 
 <span class="nonp">Martin Loft (u/s Monsieur Firmin)</span>, Sebastian Harris (Monsieur André), 
-Elisabeth Halling (Madame Giry), Rasmus Jupin (Ubaldo Piangi), Imogen-Lily Ash (Meg Giry)
+Elisabeth Halling (Madame Giry), Rasmus Jupin (Ubaldo Piangi), Imogen-Lily Ash (Meg Giry)<br><br>
+
+<span class="name">Sydney Harbour | March 27, 2022 | yiksclouds</span><br>
+FORMAT: m4a (untracked // 261 MB), m4a (tracked // 191 MB), mp3 (tracked // 227 MB)<br>
+CAST: Joshua Robson (The Phantom of the Opera), Georgina Hopson (Christine Daaé), Callum Francis (Raoul), 
+Naomi Johns (Carlotta Giudicelli), Michael Cormick (Monsieur Firmin), Martin Crewes (Monsieur André), 
+Maree Johnson (Madame Giry), Paul Tabone (Ubaldo Piangi), Kelsi Boyden (Meg Giry), Lachlan O'Brien (Auctioneer), 
+Tod Strike (Porter, Jeweller), Lachlan O'Brien (Monsieur Reyer), Raphael Wong (Passarino), Daniel Macey (Joseph Buquet), 
+Matt Heyward (Hairdresser), Elliot Baker (Don Attilio), Johanna Allen (Ensemble), Sarah Bakker (Ensemble), 
+Jessica Bock (Ensemble), Ben Clark (Ensemble), Jack Connor-Rowan (Ensemble), Andrew Coshan (Ensemble), 
+Emma Dawson (Ensemble), Sarah Dimas (Ensemble), Pedro Donoso (Ensemble), David Duketis (Ensemble), 
+Jack Evans (Ensemble), Trina Farrelly (Ensemble), Keane Fletcher (Ensemble), Lewis Francis (Ensemble), 
+Giselle Graham (Ensemble), Caitie Hawkins (Ensemble), Tianna Koolloos (Ensemble), Elisha Zion Lee (Ensemble), 
+Michaela Leisk (Ensemble), Josephine Lonergan (Ensemble), Imogen-Faith Malfitano (Ensemble), Douglas McRae (Ensemble), 
+Sarah Murr (Ensemble), Annabelle Rosewarne (Ensemble), Amelia Sanzo (Ensemble), Megan Schoenmaker (Ensemble), 
+Andy Seymour (Ensemble), Bree Stephens (Ensemble), Maddison Toomey (Ensemble), Georgia Wilkinson (Ensemble)<br>
+NOTES: Audio is very interrupted by the rain, which ramped up just before think of me and continued all through act 1, 
+then returned for the end of act 2. Tracked by starprincess<br><br>
+
+<span class="name">Sydney Harbour | April 14, 2022 | yiksclouds</span><br>
+FORMAT: m4a (untracked // 281 MB)<br>
+CAST: Joshua Robson (The Phantom of the Opera), Georgina Hopson (Christine Daaé), Callum Francis (Raoul)<br>
+NOTES: Full audio, on a clear night (so no interruptions from rain). A couple of ensemble members appeared to be missing, 
+the start of the show was delayed by a few minutes while they removed a chair from the stage for the auction scene.
