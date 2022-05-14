@@ -78,6 +78,24 @@ FORMAT: mp3 (tracked // 145 MB)<br>
 CAST: John Owen-Jones (The Phantom of the Opera), Katie Knight-Adams (Christine Daaé), Ramin Karimloo (Raoul)<br>
 NOTES: Ramin Karimloo's last show as Raoul.<br><br>
 
+<span class="name">West End | July 18, 2005</span><br>
+FORMAT: mp3 (tracked // 179 MB)<br>
+CAST: Earl Carpenter (The Phantom of the Opera), <span class="nonp">Jane Mark (u/s Christine Daaé)</span>, 
+Tom Solomon (Raoul)<br><br>
+
+<span class="name">West End | December 22, 2005 (Matinée)</span><br>
+FORMAT: mp3 (tracked // 297 MB)<br>
+CAST: <span class="nonp">Matthew Cammelle (s/b The Phantom of the Opera)</span>, 
+<span class="nonp">Celia Graham (alt Christine Daaé)</span>, David Shannon (Raoul), 
+<span class="nonp">Naomi Cobby (u/s Meg Giry)</span><br><br>
+
+<span class="name">West End | April 11, 2006</span><br>
+FORMAT: mp3 (tracked // 107 MB)<br>
+CAST: <span class="nonp">Rohan Tickell (u/s The Phantom of the Opera)</span>, Rachel Barrell (Christine Daaé), 
+David Shannon (Raoul), Wendy Ferguson (Carlotta Giudicelli), James Barron (Monsieur Firmin), 
+<span class="nonp">Richard Sidaway (u/s Monsieur André)</span>, Annette Yeo (Madame Giry), 
+<span class="nonp">Mark Cunningham (u/s Ubaldo Piangi)</span>, Heidi Ann O'Brien (Meg Giry)<br><br>
+
 <span class="name">West End | October 10, 2007</span><br>
 FORMAT: mp3 (tracked // 186 MB)<br>
 CAST: Ramin Karimloo (The Phantom of the Opera), Robyn North (Christine Daaé), Alex Rathgeber (Raoul)<br><br>
@@ -125,6 +143,13 @@ FORMAT: mp3 (tracked // 312 MB)<br>
 CAST: John Owen-Jones (The Phantom of the Opera), <span class="nonp">Gina Beck (e/c Christine Daaé)</span>, 
 Will Barratt (Raoul), Wendy Ferguson (Carlotta Giudicelli), Barry James (Monsieur Firmin), John Jack (Monsieur André), 
 Kate Batter (Madame Giry), Rohan Tickell (Ubaldo Piangi), Anna Forbes (Meg Giry)<br><br>
+
+<span class="name">West End | September 6, 2011 (Matinee) | toomuchlove635</span><br>
+FORMAT: mp3 (tracked // 123 MB)<br>
+CAST: John Owen-Jones (The Phantom of the Opera), <span class="nonp">Katie Hall (alt Christine Daaé)</span>, 
+Killian Donnelly (Raoul), Wendy Ferguson (Carlotta Giudicelli), Barry James (Monsieur Firmin), 
+Gareth Snook (Monsieur André), Cheryl McAvoy (Madame Giry), Jeremy Secomb (Ubaldo Piangi), Anna Forbes (Meg Giry)
+<br><br>
 
 <span class="name">West End | November 29, 2011</span><br>
 FORMAT: mp3 (tracked // 211 MB)<br>
