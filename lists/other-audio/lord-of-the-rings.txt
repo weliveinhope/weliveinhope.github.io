@@ -3,4 +3,14 @@ FORMAT: mp3 (untracked // 144 MB)<br>
 CAST: James Loye (Frodo Baggins), Peter Howe (Samwise Gamgee), Malcolm Storry (Gandalf), 
 Jérôme Pradon (Strider/Aragorn), Laura Michelle Kelly (Galadriel), Owen Sharpe (Pippin Took), 
 Richard Henders (Merry Brandybuck), Michael Therriault (Gollum/Sméagol), Rosalie Craig (Arwen Evenstar), 
-Michael Rouse (Legolas)
+Michael Rouse (Legolas)<br><br>
+
+<span class="name">West End | February 19, 2008</span><br>
+FORMAT: mp3 (tracked // 149 MB)<br>
+CAST: <span class="nonp">Stuart Neal (u/s Frodo)</span>, Peter Howe (Sam), Malcolm Storry (Gandalf), 
+Jérôme Pradon (Aragorn), Abbie Osmon (Galadriel), Owen Sharpe (Pippin), <span class="nonp">Ben Evans (u/s Merry)</span>, 
+Michael Therriault (Gollum), Rosalie Craig (Arwen), Andrew Jarvis (Elrond), Steven Miller (Boromir), 
+Michael Rouse (Legolas), <span class="nonp">Stevie Tate-Bauer (u/s Elránien)</span>, 
+<span class="nonp">Tim Parker (u/s Steward)</span><br>
+NOTES: Only an audio exists from this date from the London Production of Lord of the Rings. The video capture that is 
+often mislabelled with this date is actually from Toronto in 2006.
