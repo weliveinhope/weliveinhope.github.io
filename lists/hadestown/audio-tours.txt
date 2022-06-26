@@ -233,6 +233,16 @@ FORMAT: m4a (untracked // 59 MB)<br>
 CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
 Levi Kreis (Hermes), Belén Moyano (Fate) Bex Odoriso (Fate), Shea Renne (Fate)<br><br>
 
+<span class="name">National Tour (Chicago, IL) | March 2, 2022 | stillreprise</span><br>
+FORMAT: m4a (untracked // 361 MB), MOV (2160p // 970 MB)<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
+Levi Kreis (Hermes), Belén Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), Lindsey Hailes (Workers’ Chorus), 
+Chibueze Ihuoma (Workers’ Chorus), Will Mann (Workers’ Chorus), Sydney Parra (Workers’ Chorus), 
+Jamari Johnson Williams (Workers’ Chorus)<br>
+NOTES: First show in Chicago. Minor chatter from the friend next to me. A few phones go off at inconvenient times and 
+unsure if it’s audible but a man decided to take a business call or two during the show. 
+Includes We Raise Our Cups video (4K MOV).<br><br>
+
 <span class="name">National Tour (Chicago, IL) | March 5, 2021 | stillreprise</span><br>
 FORMAT: m4a (untracked // 369 MB), mov (360p, 1080p // 507 MB)<br>
 CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
@@ -253,13 +263,22 @@ after I stopped recording that I didn’t have enough battery for a video. At th
 someone’s phone went off and Will stared at them until they silenced it, and the audience laughed. Will is an 
 incredible Hermes, and he really does shine (beyond the glittery vest, of course).<br><br>
 
-<span class="name">National Tour (Chicago, IL) | March 10, 2022 | ascoopatalamode</span><br>
+<span class="name">National Tour (Chicago, IL) | March 10, 2022 | ascoopatalamode | VER1</span><br>
 FORMAT: m4a (untracked // 361 MB), mov (1738p // 565 MB)<br>
 CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
 Levi Kreis (Hermes), Belén Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), Lindsey Hailes (Workers’ Chorus), 
 Chibueze Ihuoma (Workers’ Chorus), Will Mann (Workers’ Chorus), Sydney Parra (Workers’ Chorus), 
 Jamari Johnson Williams (Workers’ Chorus)<br>
 NOTES: Recorded from the front row. Includes We Raise Our Cups, both audio and video.<br><br>
+
+<span class="name">National Tour (Chicago, IL) | March 10, 2022 | stillreprise | VER2</span><br>
+FORMAT: m4a (untracked // 372 MB), MOV (1080p // 388 MB)<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
+Levi Kreis (Hermes), Belén Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), Lindsey Hailes (Workers’ Chorus), 
+Chibueze Ihuoma (Workers’ Chorus), Will Mann (Workers’ Chorus), Sydney Parra (Workers’ Chorus), 
+Jamari Johnson Williams (Workers’ Chorus)<br>
+NOTES: Recorded from front row. This was an extremely visceral experience for me so I am very sorry for whatever 
+garbage comes out of my mouth. Includes bows and We Raise Our Cups video (MOV).<br><br>
 
 <span class="name">National Tour (Chicago, IL) | March 12, 2022 (Matinee) | WhatTradingCanDo</span><br>
 FORMAT: m4a (untracked // 124 MB)<br>
@@ -336,4 +355,30 @@ audience as well. There may be some rustling and my phone almost drops so, the a
 First time seeing Hadestown and first time seeing a big show in LA since 2019 and after what we have been through, 
 it is great that we are all back enjoying the shows we love. Audio stops recording during the applause but, re-records 
 during the encore. We Raise Our Cups may be a little hard to hear so, just want to point that out. Definitely an 
-audio worth to have if you are a fan of the show. Recorded with Dolby On in crystal clear stereo quality. A+
+audio worth to have if you are a fan of the show. Recorded with Dolby On in crystal clear stereo quality. A+<br><br>
+
+<span class="name">National Tour (San Francisco, CA) | June 7, 2022 | juniper47</span><br>
+FORMAT: mp3 (untracked // 243 MB), mp3 (tracked // 245 MB) | NOT FOR SALE<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kevyn Morrow (Hades), Kimberly Marable (Persephone), 
+Levi Kreis (Hermes), Belén Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), Lindsey Hailes (Worker), 
+Chibueze Ihuoma (Worker), Sydney Parra (Worker), Eddie Noel Rodríguez (Worker), Jamari Johnson Williams (Worker)<br>
+NOTES: Some echo from the balcony acoustics, but not terrible. French-speaking seat neighbors were talkers, though, 
+thankfully not too frequent.<br><br>
+
+<span class="name">National Tour (San Francisco, CA) | June 8, 2022 (Matinee) | juniper47</span><br>
+FORMAT: mp3 (untracked // 240 MB), mp3 (tracked // 242 MB) | NOT FOR SALE<br>
+CAST: <span class="nonp">J. Antonio Rodriguez (u/s Orpheus)</span>, Morgan Siobhan Green (Eurydice), 
+Kevyn Morrow (Hades), Kimberly Marable (Persephone), <span class="nonp">Eddie Noel Rodríguez (u/s Hermes)</span>, 
+Belén Moyano (Fate), <span class="nonp">Tyla Collier (u/s Fate)</span>, Shea Renne (Fate), Lindsey Hailes (Worker), 
+Chibueze Ihuoma (Worker), Sydney Parra (Worker), <span class="nonp">Ian Coulter-Buford (s/w Worker)</span>, 
+Jamari Johnson Williams (Worker)<br>
+NOTES: Excellent, clear audio.<br><br>
+
+<span class="name">National Tour (San Francisco, CA) | June 8, 2022 (Evening)</span><br>
+FORMAT: mp3 (untracked // 243 MB), mp3 (tracked // 245 MB) | NOT FOR SALE<br>
+CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kevyn Morrow (Hades), Kimberly Marable (Persephone), 
+Levi Kreis (Hermes), Belén Moyano (Fate), Bex Odorisio (Fate), Shea Renne (Fate), 
+<span class="nonp">Alex Lugo (s/w Worker)</span>, Chibueze Ihuoma (Worker), Sydney Parra (Worker), 
+Eddie Noel Rodríguez (Worker), Jamari Johnson Williams (Worker)<br>
+NOTES: A bit of echo, but very minor. A brief blip in the audio toward the end of "Living It Up On Top" and slightly 
+more distant quality for "Our Lady of the Underground" and part of next scene.
