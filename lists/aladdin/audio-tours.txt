@@ -52,12 +52,18 @@ Zach Bencal (Babkak), Jed Feder (Kassim), Philippe Arroyo (Omar), Jay Paranada (
 Olivia Donalson (Fortune Teller)<br>
 NOTES: Opening night in Philadelphia<br><br>
 
-<span class="name">First National Tour (Philadelphia, PA) | June 21, 2018 | boqthemunchkin</span><br>
+<span class="name">First National Tour (Philadelphia, PA) | June 21, 2018 | boqthemunchkin | VER1</span><br>
 FORMAT: mp3 (untracked // 69 MB)<br>
-CAST: Pierre Marais (Aladdin), Michael James Scott (Genie), Isabelle McCalla (Jasmine), Jonathan Weir (Jafar), 
-Zach Bencal (Babkak), Philippe Arroyo (Omar), Jed Feder (Kassim), Jay Paranda (Iago), Jerald Vincent (Sultan), 
-Lissa deGuzman, Mathew deGuzman, Brian Dillion<br>
+CAST: <span class="nonp">Pierre Marais (u/s Aladdin)</span>, Michael James Scott (Genie), Isabelle McCalla (Jasmine), 
+Jonathan Weir (Jafar), Zach Bencal (Babkak), Philippe Arroyo (Omar), Jed Feder (Kassim), Jay Paranda (Iago), 
+Jerald Vincent (Sultan), Lissa deGuzman, Mathew deGuzman, Brian Dillion<br>
 NOTES: Pierre Marais' debut as Aladdin<br><br>
+
+<span class="name">First National Tour (Philadelphia, PA) | June 21, 2018 | VER2</span><br>
+FORMAT: mp3 (untracked // 109 MB)<br>
+CAST: <span class="nonp">Pierre Marais (u/s Aladdin)</span>, Michael James Scott (Genie), Isabelle McCalla (Jasmine), 
+Jonathan Weir (Jafar), Zach Bencal (Babkak), Philippe Arroyo (Omar), Jed Feder (Kassim), Jay Paranada (Iago), 
+Jerald Vincent (Sultan), Michael Erik Hernandez (Shop Owner), Bobby Daye (Razoul)<br><br>
 
 <span class="name">First National Tour (Costa Mesa, CA) | March 10, 2019 (Matinee) | Frog Queen</span><br>
 FORMAT: mp3 (untracked // 266 MB)<br>
