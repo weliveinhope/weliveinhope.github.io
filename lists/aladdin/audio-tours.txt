@@ -139,12 +139,6 @@ CAST: Ainsley Melham (Aladdin), Michael James Scott (Genie), Hiba Elchikhe (Jasm
 <span class="nonp">Gareth Jacobs (u/s Babkak)</span>, Adam Jon Fiorentino (Kassim), Robert Tripolino (Omar), 
 George Henare (The Sultan), Aljin Abella (Iago)<br><br>
 
-<span class="name">Australasian Tour (Singapore, Malaysia) | August 19, 2017 (Matinee) | encharmed</span><br>
-FORMAT: mp3 (tracked // 83 MB)<br>
-CAST: Graeme Isaako (Aladdin), Gareth Jacobs (Genie), Shubshri Kandiah (Jasmine), Patrick R Brown (Jafar), 
-Troy Sussman (Babkak), Rob Mallett (Kassim), Adam Di Martino (Omar), Doron Chester (Iago), Darren Yap (Sultan), 
-Courtney Monsma (Attendant), Sasha-Lee Saunders (Fortune Teller)<br><br>
-
 <span class="name">Australasian Tour (Melbourne) | September 23, 2017 (Matinee)</span><br>
 FORMAT: mp3 (tracked // 103 MB)<br>
 CAST: Ainsley Melham (Aladdin), Michael James Scott (Genie), Hiba Elchikhe (Jasmine), Adam Murphy (Jafar), 
@@ -190,4 +184,11 @@ CAST: Ainsley Melham (Aladdin), Gareth Jacobs (Genie), Shubshri Kandiah (Jasmine
 <span class="name">Australasian Tour (Perth) | September 21, 2018</span><br>
 FORMAT: m4a (untracked // 117 MB)<br>
 CAST: Ainsley Melham (Aladdin), Gareth Jacobs (Genie), Shubshri Kandiah (Jasmine), Adam Murphy (Jafar), 
-Troy Sussman (Babkak), Adam Di Martino (Omar), Aljin Abella (Iago), George Henare (Sultan)
+Troy Sussman (Babkak), Adam Di Martino (Omar), Aljin Abella (Iago), George Henare (Sultan)<br><br>
+
+<span class="name">Australasian Tour (Singapore) | August 17, 2019 (Matinee) | encharmed</span><br>
+FORMAT: mp3 (tracked // 83 MB)<br>
+CAST: Graeme Isaako (Aladdin), Gareth Jacobs (Genie), Shubshri Kandiah (Jasmine), Patrick R Brown (Jafar), 
+Troy Sussman (Babkak), Rob Mallett (Kassim), Adam Di Martino (Omar), Doron Chester (Iago), Darren Yap (Sultan), 
+Courtney Monsma (Attendant), Sasha-Lee Saunders (Fortune Teller)<br>
+NOTES: May also be (incorrectly) labelled as August 19, 2017.

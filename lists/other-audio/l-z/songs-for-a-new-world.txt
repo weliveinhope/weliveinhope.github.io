@@ -1,3 +1,7 @@
+<span class="name">Stuttgart, DE | December 13, 2009</span><br>
+FORMAT: mp3 (tracked // 94 MB)<br>
+CAST: Dominique Aref (Woman 1), DMJ (Man 1), Willemijn Verkaik (Woman 2), Mathias Edenborn (Man 2)<br><br>
+
 <span class="name">One Night Benefit Concert (Florida) | January 23, 2015 | asteptowardshope</span><br>
 FORMAT: m4a (untracked // 38 MB)<br>
 CAST: Ashley Brown (Woman 1), Nick Adams (Man 1), Julia Murney (Woman 2), Michael James Scott (Man 2)<br><br>
@@ -15,7 +19,7 @@ of applause, she laughs and continues the number.<br><br>
 <span class="name">London Palladium | October 11, 2020 | sitting-in-my-hotel</span><br>
 FORMAT: m4a (untracked // 67 MB), m4a (tracked // 112 MB) | NOT FOR SALE<br>
 CAST: Cedric Neal (Man 1), David Hunter (Man 2), Rachel John (Woman 1), Rachel Tucker (Woman 2), 
-Shem Omari James (g/p Steam Engine Soloist)<br>
+<span class="nonp">Shem Omari James (g/p Steam Engine Soloist)</span><br>
 NOTES: A VERY enthusiastic audience who keep clapping and whooping in the middle of songs (especially in the first 
 couple of songs). So, some parts aren’t that clear because the audience are super loud. Shem sings “The Steam Train” 
 instead of Cedric and a choir comes in for the last song. Terrific performances from Cedric and Rachel John.

@@ -587,4 +587,10 @@ FORMAT: mp3 (tracked // 108 MB)<br>
 CAST: Killian Donnelly (The Phantom), <span class="nonp">Holly Anne Hull (alt Christine Daaé)</span>, 
 <span class="nonp">Ashley Stillburn (u/s Raoul)</span>, Saori Oda (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), 
 Adam Linstead (Monsieur André), Francesca Ellis (Madame Giry), Greg Castiglioni (Ubaldo Piangi), 
-Ellie Young (Meg Giry), <span class="nonp">Hywel Dowsell (u/s Joseph Buquet)</span>
+Ellie Young (Meg Giry), <span class="nonp">Hywel Dowsell (u/s Joseph Buquet)</span><br><br>
+
+<span class="name">West End | August 11, 2022 | nilla-wafer</span><br>
+FORMAT: mp3 (tracked // 95 MB)<br>
+CAST: Killian Donnelly (The Phantom of the Opera), <span class="nonp">Holly-Anne Hull (alt Christine Daaé)</span>, 
+Matt Blaker (Raoul), Kelly Glyptis (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), Adam Linstead (Monsieur André), 
+Greg Castiglioni (Ubaldo Piangi), Francesca Ellis (Madame Giry), Ellie Young (Meg Giry)
