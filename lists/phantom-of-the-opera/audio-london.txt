@@ -78,6 +78,11 @@ FORMAT: mp3 (tracked // 145 MB)<br>
 CAST: John Owen-Jones (The Phantom of the Opera), Katie Knight-Adams (Christine Daaé), Ramin Karimloo (Raoul)<br>
 NOTES: Ramin Karimloo's last show as Raoul.<br><br>
 
+<span class="name">West End | October 4, 2004</span><br>
+FORMAT: mp3 (tracked // 122 MB)<br>
+CAST: <span class="nonp">Matthew Cammelle (s/b The Phantom of the Opera)</span>, Rachel Barrell (Christine Daaé), 
+Oliver Thornton (Raoul)<br><br>
+
 <span class="name">West End | July 18, 2005</span><br>
 FORMAT: mp3 (tracked // 179 MB)<br>
 CAST: Earl Carpenter (The Phantom of the Opera), <span class="nonp">Jane Mark (u/s Christine Daaé)</span>, 
@@ -95,6 +100,18 @@ CAST: <span class="nonp">Rohan Tickell (u/s The Phantom of the Opera)</span>, Ra
 David Shannon (Raoul), Wendy Ferguson (Carlotta Giudicelli), James Barron (Monsieur Firmin), 
 <span class="nonp">Richard Sidaway (u/s Monsieur André)</span>, Annette Yeo (Madame Giry), 
 <span class="nonp">Mark Cunningham (u/s Ubaldo Piangi)</span>, Heidi Ann O'Brien (Meg Giry)<br><br>
+
+<span class="name">West End | October 9, 2006</span><br>
+FORMAT: mp3 (tracked // 127 MB)<br>
+CAST: Earl Carpenter (The Phantom of the Opera), Rachel Barrell (Christine Daaé), David Shannon (Raoul), 
+Wendy Ferguson (Carlotta Giudicelli), James Barron (Monsieur Firmin), Sam Hiller (Monsieur André), 
+Annette Yeo (Madame Giry), Rohan Tickell (Ubaldo Piangi), Lindsey Wise (Meg Giry)<br>
+NOTES: 20th anniversary.<br><br>
+
+<span class="name">West End | October 9, 2007 | Highlights</span><br>
+FORMAT: mp3 (tracked // 93 MB)<br>
+CAST: Ramin Karimloo (The Phantom of the Opera), Leila Benn Harris (Christine Daaé), Alex Rathgeber (Raoul)<br>
+NOTES: 21st Anniversary<br><br>
 
 <span class="name">West End | October 10, 2007</span><br>
 FORMAT: mp3 (tracked // 186 MB)<br>
@@ -294,6 +311,11 @@ CAST: Ben Forster (The Phantom of the Opera), Celinde Schoenmaker (Christine Daa
 <span class="nonp">Charlotte Vaughan (u/s Carlotta Giudicelli)</span>, Siôn Lloyd (Monsieur Firmin), 
 Mark Oxtoby (Monsieur André), <span class="nonp">Joanna Strand (u/s Madame Giry)</span>, Paul Tabone (Ubaldo Piangi), 
 Daisy Hulbert (Meg Giry)<br><br>
+
+<span class="name">West End | October 9, 2017</span><br>
+FORMAT: m4a (untracked // 60 MB)<br>
+CAST: Ben Lewis (The Phantom of the Opera), Kelly Mathieson (Christine Daaé), Jeremy Taylor (Raoul)<br>
+NOTES: 31st anniversary show<br><br>
 
 <span class="name">West End | May 31, 2018</span><br>
 FORMAT: m4a (untracked // 232 MB)<br>
@@ -616,6 +638,24 @@ Emma Harris (Madame Firmin), Eve Shanu-Wilson (Princess), Lizzie Wofford (Confid
 Serina Faull (Ballet Chorus), Eilish Harmon-Beglan (Ballet Chorus), Yukina Hasebe (Ballet Chorus), 
 Grace Hume (Ballet Chorus), Skye Weiss (Ballet Chorus), Jasmine Wallis (Ballet Chorus)<br>
 NOTES: Conducted by Malcolm Forbes-Peckham.<br><br>
+
+<span class="name">West End | September 10, 2022 (Matinee) | Phantomtrader19</span><br>
+FORMAT: m4a (untracked // 57 MB)<br>
+CAST: <span class="nonp">James Gant (u/s The Phantom of the Opera)</span>, Lucy St. Louis (Christine Daaé), 
+Matt Blaker (Raoul), Kelly Glyptis (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), 
+Adam Linstead (Monsieur André), Francesca Ellis (Madame Giry), 
+<span class="nonp">Simon Whitaker (u/s Ubaldo Piangi)</span>, Ellie Young (Meg Giry)<br>
+NOTES: Audience were asked to join in a minute of silence to acknowledge the death of Queen Elizabeth II 
+before the show began.<br><br>
+
+<span class="name">West End | September 10, 2022 | Phantomtrader19</span><br>
+FORMAT: m4a (untracked // 58 MB)<br>
+CAST: <span class="nonp">James Gant (u/s The Phantom of the Opera)</span>, Lucy St. Louis (Christine Daaé), 
+Matt Blaker (Raoul), Kelly Glyptis (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), 
+Adam Linstead (Monsieur André), Francesca Ellis (Madame Giry), 
+<span class="nonp">Simon Whitaker (u/s Ubaldo Piangi)</span>, Ellie Young (Meg Giry)<br>
+NOTES: Audience were asked to join in a minute of silence to acknowledge the death of Queen Elizabeth II before the 
+show began.<br><br>
 
 <span class="name">West End | September 16, 2022 | sitting-in-my-hotel</span><br>
 FORMAT: m4a (untracked // 57 MB), m4a (tracked // 146 MB), MOV (1080p // 25 MB) | NOT FOR SALE | 

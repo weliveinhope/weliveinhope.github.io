@@ -12,12 +12,14 @@
           $('#navbar').load('/navbar.html');
 
           // Shows
+          $('#and-j').load('/lists/other-video/a-k/&juliet.txt');
           $('#9-to-5').load('/lists/other-video/a-k/9-to-5.txt');
           $('#aladdin').load('/lists/aladdin/video.txt');
           $('#aladdin-jr').load('/lists/aladdin/video-aladdin-jr.txt');
           $('#amelie').load('/lists/other-video/a-k/amelie.txt');
           $('#anastasia').load('/lists/other-video/a-k/anastasia.txt');
           $('#bat').load('/lists/other-video/a-k/bat-out-of-hell.txt');
+          $('#bmc').load('/lists/other-video/a-k/be-more-chill.txt');
           $('#batb').load('/lists/other-video/a-k/beauty-and-the-beast.txt');
           $('#beetlejuice').load('/lists/other-video/a-k/beetlejuice.txt');
           $('#bom').load('/lists/other-video/a-k/book-of-mormon.txt');
@@ -103,6 +105,20 @@
       <div class="accordion" id="accordion">
 
         <div class="card">
+          <div class="card-header" id="and-j-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#and-j-body" 
+                      aria-expanded="false" aria-controls="and-j-body">
+                & Juliet (1)
+              </button>
+            </h2>
+          </div>
+          <div id="and-j-body" class="collapse" aria-labelledby="and-j-header">
+            <div id="and-j" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
           <div class="card-header" id="ntf-header">
             <h2 class="mb-0">
               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#ntf-body" 
@@ -183,6 +199,20 @@
           </div>
           <div id="bat-body" class="collapse" aria-labelledby="bat-header">
             <div id="bat" class="card-body"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="bmc-header">
+            <h2 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#bmc-body" 
+                      aria-expanded="false" aria-controls="bmc-body">
+                Be More Chill (1)
+              </button>
+            </h2>
+          </div>
+          <div id="bmc-body" class="collapse" aria-labelledby="bmc-header">
+            <div id="bmc" class="card-body"></div>
           </div>
         </div>
 
