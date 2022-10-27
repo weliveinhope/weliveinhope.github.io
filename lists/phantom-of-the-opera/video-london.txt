@@ -100,7 +100,7 @@ visible such as Think of Me and MOTN. Sound is very clear. Anything on the left 
 <span class="name">West End | September 2021 | hitmewithyourbethshot</span><br>
 FORMAT: MTS (1080p // 14.5 GB)<br>
 CAST: Killian Donnelly (The Phantom of the Opera), <span class="nonp">Holly-Anne Hull (alt Christine Daae)</span>, 
-Rhys Whitfield (Raoul, Vicomte de Chagny), Saori Oda (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), 
+Rhys Whitfield (Raoul), Saori Oda (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), 
 Adam Linstead (Monsieur André), Francesca Ellis (Madame Giry), Greg Castiglioni (Ubaldo Piangi), Ellie Young (Meg Giry)
 <br>
 NOTES: MTS, front of stage obstructed by safety barrier<br><br>
@@ -110,4 +110,13 @@ FORMAT: MTS (1080p // 14.8 GB)<br>
 CAST: Killian Donnelly (The Phantom of the Opera), <span class="nonp">Anouk van Laake (u/s Christine Daae)</span>, 
 Rhys Whitfield (Raoul), Saori Oda (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), Adam Linstead (Monsieur André), 
 Francesca Ellis (Madame Giry), Greg Castiglioni (Ubaldo Piangi), Ellie Young (Meg Giry)<br>
+NOTES: MTS, shot around heads<br><br>
+
+<span class="name">West End | October 2022 | hitmewithyourbethshot</span><br>
+FORMAT: MTS (1080p // 13.8 GB) | <span class="nft">NFT: March 26, 2023</span><br>
+CAST: <span class="nonp">James Hume (u/s The Phantom of the Opera)</span>, 
+<span class="nonp">Holly-Anne Hull (alt Christine Daaé)</span>, Matt Blaker (Raoul), 
+Kelly Glyptis (Carlotta Giudicelli), Matt Harrop (Monsieur Firmin), 
+<span class="nonp">Tim Southgate (u/s Monsieur André)</span>, Francesca Ellis (Madame Giry), 
+Greg Castiglioni (Ubaldo Piangi), Ellie Young (Meg Giry)<br>
 NOTES: MTS, shot around heads
