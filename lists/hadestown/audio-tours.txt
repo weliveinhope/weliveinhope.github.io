@@ -430,6 +430,16 @@ CAST: Nicholas Barasch (Orpheus), Morgan Siobhan Green (Eurydice), Kevyn Morrow 
 <span class="nonp">Ian Coulter-Buford (u/s Hermes)</span>, <span class="nonp">J Antonio Rodriguez (s/w Worker)</span>, 
 <span class="nonp">Marquis Wood (s/w Worker)</span>, <span class="nonp">Tyla Collier (s/w Worker)</span><br><br>
 
+<span class="name">First National Tour (Seattle, WA) | July 12, 2022 | vogelfänger</span><br>
+FORMAT: wav (untracked // 1.4 GB), wav (tracked // 1.4 GB), mp3 (tracked // 304 MB) | NOT FOR SALE<br>
+CAST: Chibueze Ihuoma (Orpheus), Morgan Siobhan Green (Eurydice), Kimberly Marable (Persephone), Kevyn Morrow (Hades), 
+Levi Kreis (Hermes), Bex Odorisio (Fate), <span class="nonp">Sydney Parra (s/w Fate)</span>, 
+<span class="nonp">Lindsey Hailes (u/s Fate)</span>, Jordan Bollwerk (Worker), 
+<span class="nonp">Ian Coulter-Buford (s/w Worker)</span>, Eddie Noel Rodriguez (Worker), Marquis Wood (Worker), 
+<span class="nonp">Tyla Collier (s/w Worker)</span><br>
+NOTES: Instead of saying "and Hades told Eurydice" after Why We Build the Wall, Levi Kreis flubs and says 
+"and Hades told Persephone". Lindsey Hailes' microphone was oddly quiet during Wait For Me.<br><br>
+
 <span class="name">First National Tour (Seattle, WA) | July 13, 2022 | screechout</span><br>
 FORMAT: m4a (untracked // 147 MB)<br>
 CAST: <span class="nonp">J. Antonio Rodriguez (u/s Orpheus)</span>, Morgan Siobahn Green (Eurydice), 
@@ -530,7 +540,7 @@ audio of the Denver afternoon show of Hadestown. Some distracting moments during
 member was fidgety with their bottle of soda.<br><br>
 
 <span class="mine">First National Tour (St. Louis, MO) | October 15, 2022 (Matinee) | weliveinhope</span><br>
-FORMAT: m4a (untracked // 183 MB), mp3 (tracked // 168 MB) | <span class="nft">NFT: November 17, 2022</span><br>
+FORMAT: m4a (untracked // 183 MB), mp3 (tracked // 168 MB)<br>
 CAST: Chibueze Ihuoma (Orpheus), Hannah Whitley (Eurydice), 
 <span class="nonp">Lindsey Hailes (u/s Persephone)</span>, Matthew Patrick Quinn (Hades), Nathan Lee Graham (Hermes), 
 Dominique Kempf (Fate), Belen Moyano (Fate), Nyla Watson (Fate), Jordan Bollwerk, 
