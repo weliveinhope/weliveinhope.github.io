@@ -16,6 +16,7 @@
             $('#bway').load('/lists/aladdin/video-broadway.txt');
             $('#tours').load('/lists/aladdin/video-tours.txt');
             $('#world').load('/lists/aladdin/video-world.txt');
+            $('#misc-disney').load('/lists/aladdin/video-misc-disney.txt');
         });
   
         function toggleAccordion() {
@@ -98,6 +99,20 @@
             </div>
             <div id="world-body" class="collapse" aria-labelledby="world-header">
               <div id="world" class="card-body"></div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header" id="misc-disney-header">
+              <h2 class="mb-0">
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" 
+                        data-target="#misc-disney-body" aria-expanded="false" aria-controls="misc-disney-body">
+                  Abridged Versions (Disney) (5)
+                </button>
+              </h2>
+            </div>
+            <div id="misc-disney-body" class="collapse" aria-labelledby="misc-disney-header">
+              <div id="misc-disney" class="card-body"></div>
             </div>
           </div>
   
