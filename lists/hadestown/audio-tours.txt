@@ -556,4 +556,9 @@ CAST: Chibueze Ihuoma (Orpheus), Hannah Whitley (Eurydice), Matthew Patrick Quin
 Belén Moyano (Fate), Nyla Watson (Fate), Jordan Bollwerk (Worker), 
 <span class="nonp">Cecilia Trippedi (s/w Worker)</span>, Courtney Lauster (Worker), Eddie Noel Rodriguez (Worker) 
 Jamari Johnson Williams (Worker)<br>
-NOTES: Includes BCEFA Speech by Nyla Watson
+NOTES: Includes BCEFA Speech by Nyla Watson<br><br>
+
+<span class="name">First National Tour (Atlanta, GA) | January 11, 2023</span><br>
+FORMAT: wav (untracked // 240 MB)<br>
+CAST: Jordan Bollwerk (Orpheus), Hannah Whitley (Eurydice), Brit West (Persephone), 
+<span class="nonp">Will Mann (e/c Hades)</span>, Nathan Lee Graham (Hermes)
