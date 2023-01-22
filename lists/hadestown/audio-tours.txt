@@ -560,5 +560,22 @@ NOTES: Includes BCEFA Speech by Nyla Watson<br><br>
 
 <span class="name">First National Tour (Atlanta, GA) | January 11, 2023</span><br>
 FORMAT: wav (untracked // 240 MB)<br>
-CAST: Jordan Bollwerk (Orpheus), Hannah Whitley (Eurydice), Brit West (Persephone), 
-<span class="nonp">Will Mann (e/c Hades)</span>, Nathan Lee Graham (Hermes)
+CAST: <span class="nonp">Jordan Bollwerk (u/s Orpheus)</span>, Hannah Whitley (Eurydice), Brit West (Persephone), 
+<span class="nonp">Will Mann (e/c Hades)</span>, <span class="nonp">Cecilia Trippiedi (u/s Fate)</span>, 
+Nyla Watson (Fate), Dominique Kempf (Fate)<br>
+NOTES: The Fates were Dominique Kempf, Belen Moyano, and Nyla Watson but Cecilia Trippiedi was on for one of them 
+tonight and I'm not sure which one<br><br>
+
+<span class="mine">First National Tour (Kansas City, MO) | January 19, 2023 | weliveinhope</span><br>
+FORMAT: m4a (untracked // 179 MB)<br>
+CAST: Chibueze Ihuoma (Orpheus), Hannah Whitley (Eurydice), Brit West (Persephone), Matthew Patrick Quinn (Hades), 
+Nathan Lee Graham (Hermes), Dominique Kempf (Fate), Belen Moyano (Fate), Nyla Watson (Fate), Jordan Bollwerk, 
+Lindsey Hailes, Jamal Lee Harris, Courtney Lauster, Jamari Johnson Williams<br>
+NOTES: The better quality of my January audios but unfortunately also the one with the vocal back row.<br><br>
+
+<span class="mine">First National Tour (Kansas City, MO) | January 21, 2023 (Matinee) | weliveinhope</span><br>
+FORMAT: m4a (untracked // 183 MB)<br>
+CAST: Chibueze Ihuoma (Orpheus), Hannah Whitley (Eurydice), Brit West (Persephone), Matthew Patrick Quinn (Hades), 
+Nathan Lee Graham (Hermes), Dominique Kempf (Fate), Belen Moyano (Fate), Nyla Watson (Fate), Jordan Bollwerk, 
+Lindsey Hailes, Jamal Lee Harris, Courtney Lauster, Jamari Johnson Williams<br>
+NOTES: Though people were also talking behind me on this one. They’re a little quieter?
