@@ -1,4 +1,39 @@
 <p class="h5" style="text-align:center;">US Tours</p>
+<span class="name">Third National Tour | February 12, 2000</span><br>
+FORMAT: mp3 (tracked // 157 MB)<br>
+CAST: Ivan Rutherford (Valjean), Stephen Bishop (Javert), Joan Almedilla (Fantine), Sutton Foster (Eponine), 
+Tim Howar (Marius), Regan Thiel (Cosette), Kevin Earley (Enjolras), J.P. Dougherty (Thenardier), 
+Aymee Garcia (Mme. Thenardier)<br>
+NOTES: Closing night of the Los Angeles stop<br><br>
+
+<span class="name">Third National Tour (Schenectady, NY) | April 1, 2000 (Matinee)</span><br>
+FORMAT: mp3 (tracked // 113 MB)<br>
+CAST: <span class="nonp">Stephen Paul Cramer (u/s Valjean)</span>, <span class="nonp">Graham Rowat (u/s Javert)</span>, 
+Joan Almedilla (Fantine), Aymee Garcia (Mme. Thenardier), J.P. Dougherty (Thenardier), Tim Howar (Marius), 
+Diana Kaarina (Eponine), <span class="nonp">Nancy L. Foster (u/s Cosette)</span>, Stephen Tewksbury (Enjolras), 
+Cameron Teitelman (Gavroche), Maggie Martinsen (Young Cosette), Ben Davis (Feuilly), Jerry Jay Cranford (Prouvaire), 
+<span class="nonp">David Barrus (s/w Combeferre)</span><br><br>
+
+<span class="name">Third National Tour (Baltimore, MD) | April 21, 2000</span><br>
+FORMAT: wma (tracked // 157 MB)<br>
+CAST: Ivan Rutherford (Valjean), Stephen Bishop (Javert), <span class="nonp">Linda Pierson Huff (u/s Fantine)</span>, 
+Diana Kaarina (Eponine), Tim Howar (Marius), Regan Thiel (Cosette), Stephen Tewksbury (Enjolras), 
+J.P. Dougherty (Thenardier), <span class="nonp">Lisa Howard (u/s Mme. Thenardier)</span><br><br>
+
+<span class="name">Third National Tour (Tampa, FL) | February 17, 2001</span><br>
+FORMAT: mp3 (tracked // 223 MB)<br>
+CAST: <span class="nonp">Bart Shatto (u/s Jean Valjean)</span>, Stephen Bishop (Javert), Thursday Farrar (Fantine), 
+Stephanie Waters (Cosette), Stephen Brian Patterson (Marius), Diana Kaarina (Éponine), Stephen Tewksbury (Enjolras), 
+J.P. Dougherty (Thénardier), <span class="nonp">Lisa Howard (u/s Madame Thénardier)</span>, Dutch Whitlock (Gavroche), 
+Emma Hunton (Little Cosette), Seth Bowling (The Bishop), Trent Blanton (Grantaire), Graham Rowat (Combeferre), 
+Ben Davis (Feuilly), <span class="nonp">Robert Hunt (s/w Courfeyrac)</span>, Jerry Jay Cranford (Jean Prouvaire), 
+Matthew Teague Miller (Joly), Seth Bowling (Lesgles), Randal Keith (Brujon), 
+<span class="nonp">Dave Hugo (s/w Babet)</span>, Stephen Colella (Claquesous), Matt Clemens (Montparnasse), 
+Linda Pierson Huff (Factory Girl), Rena Strober (Crone), <span class="nonp">Shahara Ray (s/w Old Woman)</span><br>
+NOTES: The infamous “fire alarm audio.” A fire alarm is set off during “Castle on a Cloud.” Emma Hunton continues 
+singing regardless. Missing "Master of the House". What is presumably a cell phone ringtone can be heard at the end 
+of "A Little Fall of Rain" but it isn't too distracting.<br><br>
+
 <span class="name">Third National Tour (Washington, DC) | January 5, 2006</span><br>
 FORMAT: mp3 (tracked // 142 MB)<br>
 CAST: Randal Keith (Jean Valjean), Robert Hunt (Javert), Joan Almedilla (Fantine), 
@@ -474,6 +509,60 @@ Tessa Kadler (Madame), Zabrina Norry (Factory Girl), Mary-Jean Caldwell (Old Wom
 Maddison Belle Platt (Young Eponine)
 NOTES: Aidan’s definitely gotten stronger since his debut! I think this might be his final Valjean show, but that’s 
 just a suspicion.<br><br>
+
+<span class="name">Fourth UK Tour (Cardiff) | December 30, 2022 | Batbootlegs</span><br>
+FORMAT: wav (untracked // 280 MB), mp3 (tracked // 45 MB)<br>
+CAST: Dean Chisnall (Valjean), <span class="nonp">Damien Kneale (u/s Javert)</span>, Paige Blankson (Cosette), 
+Lauren Drew (Fantine), Will Callan (Marius), Siobhan O'Driscoll (Éponine), Ian Hughes (Thenardier), 
+Helen Walsh (Madame Thenardier), Samuel Wyn Morris (Enjolras), Raymond Walsh (Grantaire), 
+<span class="nonp">Dean Reed (Lesgles/ u/s Factory Foreman)</span>, Rick Zwart (Bishop of Digne/Claquesous), 
+George Arvidson (Bamatabois/Babet), <span class="nonp">Jamie Pritchard (s/w Combeferre)</span>, 
+Will Barratt (Courfeyrac), Harry Chandler (Feuilly), Caleb Lagayan (Jean Prouvaire), Joseph McDonnell (Joly), 
+Abel Law (Pimp/Montparnasse), Adam Boardman (Brujon), Jenna Innes (Wig Maker), Tessa Kadler (Madame), 
+Zabrina Norry (Factory Girl), Mary Jean Caldwell (Old Woman), Rebecca Bolton, Olivia Brereton, Rebecca Ferrin, 
+Aimee Good<br>
+NOTES: Damien Kneale's final show as Javert.<br><br>
+
+<span class="name">Fourth UK Tour (Cardiff) | December 31, 2022 (Matinee) | Batbootlegs</span><br>
+FORMAT: wav (untracked // 766 MB), mp3 (tracked // 101 MB)<br>
+CAST: Dean Chisnall (Valjean), <span class="nonp">Jordan Simon Pollard (u/s Javert)</span>, Paige Blankson (Cosette), 
+Lauren Drew (Fantine), Will Callan (Marius), Siobhan O'Driscoll (Éponine), Ian Hughes (Thenardier), 
+Helen Walsh (Madame Thenardier), Samuel Wyn Morris (Enjolras), Raymond Walsh (Grantaire), 
+<span class="nonp">Dean Reed (Lesgles/ u/s Factory Foreman)</span>, Rick Zwart (Bishop of Digne/Claquesous), 
+George Arvidson (Bamatabois/Babet), <span class="nonp">Jamie Pritchard (s/w Combeferre)</span>, 
+Will Barratt (Courfeyrac), Harry Chandler (Feuilly), Caleb Lagayan (Jean Prouvaire), Joseph McDonnell (Joly), 
+Abel Law (Pimp/Montparnasse), Adam Boardman (Brujon), Jenna Innes (Wig Maker), Tessa Kadler (Madame), 
+Zabrina Norry (Factory Girl), Mary Jean Caldwell (Old Woman), Rebecca Bolton, Olivia Brereton, Rebecca Ferrin, 
+Aimee Good, Parker Newman (Gavroche), Emma Roberts (Little Cosette), Mali Grug Evans-Davies (Young Éponine)<br>
+NOTES: Jordan Simon Pollard's second to last show as Javert. Last show of the year.<br><br>
+
+<span class="name">Fourth UK Tour (Cardiff) | January 14, 2023 (Matinee) | Batbootlegs</span><br>
+FORMAT: wav (untracked // 770 MB), mp3 (tracked // 100 MB)<br>
+CAST: Dean Chisnall (Valjean), Nic Greenshields (Javert), Paige Blankson (Cosette), Lauren Drew (Fantine), 
+Will Callan (Marius), Siobhan O'Driscoll (Éponine), Ian Hughes (Thenardier), Helen Walsh (Madame Thenardier), 
+Samuel Wyn Morris (Enjolras), Raymond Walsh (Grantaire), Jordan Simon Pollard (Factory Foreman/Combeferre), 
+Rick Zwart (Bishop of Digne/Claquesous), George Arvidson (Bamatabois/Babet), Dean Reed (Lesgles), 
+Will Barratt (Courfeyrac), Harry Chandler (Feuilly), Caleb Lagayan (Jean Prouvaire), Joseph McDonnell (Joly), 
+Abel Law (Pimp/Montparnasse), Adam Boardman (Brujon), Jenna Innes (Wig Maker), Tessa Kadler (Madame), 
+Zabrina Norry (Factory Girl), Mary Jean Caldwell (Old Woman), Rebecca Bolton, Olivia Brereton, Rebecca Ferrin, 
+Aimee Good, Lucas Melrose Steel (Gavroche), Emma Roberts (Little Cosette), Mali Grug Evans-Davies (Young Éponine)<br>
+NOTES: Muck up matinee! Full list of muck ups I noticed including for those interested. But special shout out to the 
+swings doing the warnings in 5 part harmony, and Enjolras blowing Grantaire a kiss towards the end of Drink With Me.
+<br><br>
+
+<span class="name">Fourth UK Tour (Cardiff) | January 14, 2023 (Evening) | Batbootlegs</span><br>
+FORMAT: wav (untracked // 799 MB), mp3 (tracked // 102 MB)<br>
+CAST: Dean Chisnall (Valjean), Nic Greenshields (Javert), Paige Blankson (Cosette), Lauren Drew (Fantine), 
+Will Callan (Marius), Siobhan O'Driscoll (Éponine), Ian Hughes (Thenardier), Helen Walsh (Madame Thenardier), 
+Samuel Wyn Morris (Enjolras), Raymond Walsh (Grantaire), Jordan Simon Pollard (Factory Foreman/Combeferre), 
+Rick Zwart (Bishop of Digne/Claquesous), George Arvidson (Bamatabois/Babet), Dean Reed (Lesgles), 
+Will Barratt (Courfeyrac), Harry Chandler (Feuilly), Caleb Lagayan (Jean Prouvaire), Joseph McDonnell (Joly), 
+Abel Law (Pimp/Montparnasse), Adam Boardman (Brujon), Jenna Innes (Wig Maker), Tessa Kadler (Madame), 
+Zabrina Norry (Factory Girl), Mary Jean Caldwell (Old Woman), Rebecca Bolton, Olivia Brereton, Rebecca Ferrin, 
+Aimee Good, Alex Shaw (Gavroche), Yasmin Teodosio (Little Cosette), Maddison Belle Platt (Young Éponine)<br>
+NOTES: Final performance of the 4th UK Tour. Includes the speech given at the end by Dean Chisnall. Half the cast 
+were visibly crying on stage at one point or another, and you can probably hear me doing the same. All the swings 
+joined the cast on stage for the Finale and curtain call.<br><br>
 
 <p class="h5" style="text-align:center;">Other</p>
 <span class="name">First Australian Tour (Melbourne) | December 9, 1989</span><br>
